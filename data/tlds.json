@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T16:38:10+00:00",
+ "updated": "2026-11-23T16:40:26+00:00",
  "version": "Version 2026112201, Last Updated Mon Nov 23 07:07:01 2026 UTC",
  "count": 1435,
  "items": [
@@ -120,7 +120,7 @@
   {
    "tld": "aero",
    "type": "generic",
-   "manager": "Jolly Host, LLC"
+   "manager": "Societe Internationale de Telecommunications Aeronautique (SITA INC USA)"
   },
   {
    "tld": "aetna",
@@ -229,7 +229,7 @@
   {
    "tld": "alsace",
    "type": "generic",
-   "manager": "Region Grand Est"
+   "manager": "REGION GRAND EST"
   },
   {
    "tld": "alstom",
@@ -361,7 +361,7 @@
   {
    "tld": "archi",
    "type": "generic",
-   "manager": "Identity Digital Domains Limited"
+   "manager": "Identity Digital Limited"
   },
   {
    "tld": "army",
@@ -398,7 +398,7 @@
   {
    "tld": "asia",
    "type": "generic",
-   "manager": "DotAsia Organisation Limited"
+   "manager": "DotAsia Organisation Ltd."
   },
   {
    "tld": "associates",
@@ -531,7 +531,7 @@
   {
    "tld": "bank",
    "type": "generic",
-   "manager": "fTLD Registry Services LLC"
+   "manager": "fTLD Registry Services, LLC"
   },
   {
    "tld": "bar",
@@ -666,7 +666,7 @@
   {
    "tld": "bet",
    "type": "generic",
-   "manager": "Identity Digital Domains Limited"
+   "manager": "Identity Digital Limited"
   },
   {
    "tld": "bf",
@@ -723,7 +723,7 @@
   {
    "tld": "bio",
    "type": "generic",
-   "manager": "Identity Digital Domains Limited"
+   "manager": "Identity Digital Limited"
   },
   {
    "tld": "biz",
@@ -738,7 +738,7 @@
   {
    "tld": "black",
    "type": "generic",
-   "manager": "Identity Digital Domains Limited"
+   "manager": "Identity Digital Limited"
   },
   {
    "tld": "blackfriday",
@@ -765,7 +765,7 @@
   {
    "tld": "blue",
    "type": "generic",
-   "manager": "Identity Digital Domains Limited"
+   "manager": "Identity Digital Limited"
   },
   {
    "tld": "bm",
@@ -825,7 +825,7 @@
   {
    "tld": "bond",
    "type": "generic",
-   "manager": "ShortDot SA"
+   "manager": "Shortdot SA"
   },
   {
    "tld": "boo",
@@ -940,7 +940,7 @@
   {
    "tld": "buy",
    "type": "generic",
-   "manager": "Amazon Registry Services, Inc."
+   "manager": "Amazon Registry Services, INC"
   },
   {
    "tld": "buzz",
@@ -1006,7 +1006,7 @@
   {
    "tld": "cam",
    "type": "generic",
-   "manager": "Cam Connecting SARL"
+   "manager": "CAM Connecting SarL"
   },
   {
    "tld": "camera",
@@ -1100,7 +1100,7 @@
   {
    "tld": "cat",
    "type": "generic",
-   "manager": "Fundació puntCAT"
+   "manager": "Fundacio puntCAT"
   },
   {
    "tld": "catering",
@@ -1170,7 +1170,7 @@
   {
    "tld": "cfd",
    "type": "generic",
-   "manager": "ShortDot SA"
+   "manager": "Shortdot SA"
   },
   {
    "tld": "cg",
@@ -1196,7 +1196,7 @@
   {
    "tld": "charity",
    "type": "generic",
-   "manager": "Public Interest Registry"
+   "manager": "Public Interest Registry (PIR)"
   },
   {
    "tld": "chase",
@@ -1325,7 +1325,7 @@
   {
    "tld": "cloud",
    "type": "generic",
-   "manager": "Aruba PEC S.p.A."
+   "manager": "ARUBA PEC S.p.A."
   },
   {
    "tld": "club",
@@ -1381,7 +1381,7 @@
   {
    "tld": "com",
    "type": "generic",
-   "manager": "VeriSign, Inc."
+   "manager": "VeriSign Global Registry Services"
   },
   {
    "tld": "commbank",
@@ -1462,7 +1462,7 @@
   {
    "tld": "country",
    "type": "generic",
-   "manager": "Internet Naming Company LLC"
+   "manager": "Internet Naming Co."
   },
   {
    "tld": "coupon",
@@ -1502,7 +1502,7 @@
   {
    "tld": "creditunion",
    "type": "generic",
-   "manager": "DotCooperation LLC"
+   "manager": "DotCooperation, LLC"
   },
   {
    "tld": "cricket",
@@ -1569,7 +1569,7 @@
   {
    "tld": "cyou",
    "type": "generic",
-   "manager": "ShortDot SA"
+   "manager": "Shortdot SA"
   },
   {
    "tld": "cz",
@@ -1688,7 +1688,7 @@
   {
    "tld": "desi",
    "type": "generic",
-   "manager": ""
+   "manager": "Emergency Back-End Registry Operator Program - ICANN"
   },
   {
    "tld": "design",
@@ -1751,7 +1751,7 @@
   {
    "tld": "diy",
    "type": "generic",
-   "manager": "Internet Naming Company LLC",
+   "manager": "Internet Naming Co.",
    "brand": true
   },
   {
@@ -1880,8 +1880,8 @@
   },
   {
    "tld": "edu",
-   "type": "country-code",
-   "manager": ""
+   "type": "generic",
+   "manager": "EDUCAUSE"
   },
   {
    "tld": "education",
@@ -2150,7 +2150,7 @@
   {
    "tld": "firestone",
    "type": "generic",
-   "manager": "Bridgestone Licensing Services, Inc",
+   "manager": "Bridgestone Licensing Services, Inc.",
    "brand": true
   },
   {
@@ -2238,7 +2238,7 @@
   {
    "tld": "food",
    "type": "generic",
-   "manager": "Internet Naming Company LLC",
+   "manager": "Internet Naming Co.",
    "brand": true
   },
   {
@@ -2265,12 +2265,12 @@
   {
    "tld": "forum",
    "type": "generic",
-   "manager": "Waterford Limited"
+   "manager": "Fegistry, LLC"
   },
   {
    "tld": "foundation",
    "type": "generic",
-   "manager": "Public Interest Registry"
+   "manager": "Public Interest Registry (PIR)"
   },
   {
    "tld": "fox",
@@ -2325,7 +2325,7 @@
   {
    "tld": "fun",
    "type": "generic",
-   "manager": "Radix Technologies Inc SEZC"
+   "manager": "Radix Technologies Inc."
   },
   {
    "tld": "fund",
@@ -2434,12 +2434,12 @@
   {
    "tld": "gent",
    "type": "generic",
-   "manager": "Easyhost BV"
+   "manager": "Easyhost bv"
   },
   {
    "tld": "genting",
    "type": "generic",
-   "manager": "Resorts World Inc Pte. Ltd.",
+   "manager": "Resorts World Inc. Pte. Ltd.",
    "brand": true
   },
   {
@@ -2476,7 +2476,7 @@
   {
    "tld": "gift",
    "type": "generic",
-   "manager": "DotGift, LLC"
+   "manager": "Uniregistry, Corp."
   },
   {
    "tld": "gifts",
@@ -2486,12 +2486,12 @@
   {
    "tld": "gives",
    "type": "generic",
-   "manager": "Public Interest Registry"
+   "manager": "Public Interest Registry (PIR)"
   },
   {
    "tld": "giving",
    "type": "generic",
-   "manager": "Public Interest Registry"
+   "manager": "Public Interest Registry (PIR)"
   },
   {
    "tld": "gl",
@@ -2511,7 +2511,7 @@
   {
    "tld": "global",
    "type": "generic",
-   "manager": "Identity Digital Domains Limited"
+   "manager": "Identity Digital Limited"
   },
   {
    "tld": "globo",
@@ -2602,8 +2602,8 @@
   },
   {
    "tld": "gov",
-   "type": "country-code",
-   "manager": ""
+   "type": "generic",
+   "manager": "Cybersecurity and Infrastructure Security Agency"
   },
   {
    "tld": "gp",
@@ -2639,7 +2639,7 @@
   {
    "tld": "green",
    "type": "generic",
-   "manager": "Identity Digital Domains Limited"
+   "manager": "Identity Digital Limited"
   },
   {
    "tld": "gripe",
@@ -2736,13 +2736,13 @@
   {
    "tld": "hdfc",
    "type": "generic",
-   "manager": "HDFC BANK LIMITED",
+   "manager": "HOUSING DEVELOPMENT FINANCE CORPORATION LIMITED",
    "brand": true
   },
   {
    "tld": "hdfcbank",
    "type": "generic",
-   "manager": "HDFC BANK LIMITED",
+   "manager": "HDFC Bank Limited",
    "brand": true
   },
   {
@@ -2758,7 +2758,7 @@
   {
    "tld": "help",
    "type": "generic",
-   "manager": "Innovation service Limited"
+   "manager": "Innovation Service Ltd"
   },
   {
    "tld": "here",
@@ -2768,7 +2768,7 @@
   {
    "tld": "hermes",
    "type": "generic",
-   "manager": "HERMES INTERNATIONAL",
+   "manager": "Hermes International",
    "brand": true
   },
   {
@@ -2791,7 +2791,7 @@
   {
    "tld": "hiv",
    "type": "generic",
-   "manager": "Internet Naming Company LLC"
+   "manager": "Internet Naming Co."
   },
   {
    "tld": "hk",
@@ -2871,7 +2871,7 @@
   {
    "tld": "host",
    "type": "generic",
-   "manager": "Radix Technologies Inc SEZC"
+   "manager": "Radix Technologies Inc."
   },
   {
    "tld": "hosting",
@@ -2964,7 +2964,7 @@
   {
    "tld": "icu",
    "type": "generic",
-   "manager": "ShortDot SA"
+   "manager": "Shortdot SA"
   },
   {
    "tld": "id",
@@ -3049,7 +3049,7 @@
   {
    "tld": "info",
    "type": "generic",
-   "manager": "Identity Digital Domains Limited"
+   "manager": "Identity Digital Limited"
   },
   {
    "tld": "ing",
@@ -3078,8 +3078,8 @@
   },
   {
    "tld": "int",
-   "type": "country-code",
-   "manager": ""
+   "type": "generic",
+   "manager": "Internet Assigned Numbers Authority"
   },
   {
    "tld": "international",
@@ -3334,7 +3334,7 @@
   {
    "tld": "kim",
    "type": "generic",
-   "manager": "Identity Digital Domains Limited"
+   "manager": "Identity Digital Limited"
   },
   {
    "tld": "kindle",
@@ -3428,7 +3428,7 @@
   {
    "tld": "kyoto",
    "type": "generic",
-   "manager": "Academic Institution: The University of Informatics"
+   "manager": "Academic Institution: Kyoto Jyoho Gakuen"
   },
   {
    "tld": "kz",
@@ -3443,7 +3443,7 @@
   {
    "tld": "lacaixa",
    "type": "generic",
-   "manager": "Fundación Bancaria Caixa d’Estalvis i Pensions de Barcelona, “la Caixa”"
+   "manager": "Fundación Bancaria Caixa d'Estalvis i Pensions de Barcelona, \"la Caixa\""
   },
   {
    "tld": "lamborghini",
@@ -3558,7 +3558,7 @@
   {
    "tld": "lgbt",
    "type": "generic",
-   "manager": "Identity Digital Domains Limited"
+   "manager": "Identity Digital Limited"
   },
   {
    "tld": "li",
@@ -3584,7 +3584,7 @@
   {
    "tld": "lifestyle",
    "type": "generic",
-   "manager": "Internet Naming Company LLC"
+   "manager": "Internet Naming Co."
   },
   {
    "tld": "lighting",
@@ -3621,7 +3621,7 @@
   {
    "tld": "link",
    "type": "generic",
-   "manager": "Nova Registry Ltd"
+   "manager": "Nova Registry Ltd."
   },
   {
    "tld": "live",
@@ -3631,7 +3631,7 @@
   {
    "tld": "living",
    "type": "generic",
-   "manager": "Internet Naming Company LLC"
+   "manager": "Internet Naming Co."
   },
   {
    "tld": "lk",
@@ -3641,7 +3641,7 @@
   {
    "tld": "llc",
    "type": "generic",
-   "manager": "Identity Digital Domains Limited"
+   "manager": "Identity Digital Limited"
   },
   {
    "tld": "llp",
@@ -3688,7 +3688,7 @@
   {
    "tld": "lotto",
    "type": "generic",
-   "manager": "Identity Digital Domains Limited"
+   "manager": "Identity Digital Limited"
   },
   {
    "tld": "love",
@@ -3730,7 +3730,7 @@
   {
    "tld": "ltda",
    "type": "generic",
-   "manager": "InterNetX, Corp"
+   "manager": "InterNetX Corp."
   },
   {
    "tld": "lu",
@@ -3751,7 +3751,7 @@
   {
    "tld": "luxury",
    "type": "generic",
-   "manager": "Luxury Partners, LLC"
+   "manager": "Luxury Partners LLC"
   },
   {
    "tld": "lv",
@@ -3907,7 +3907,7 @@
   {
    "tld": "menu",
    "type": "generic",
-   "manager": "Dot Menu Registry, LLC"
+   "manager": "Dot Menu Registry LLC"
   },
   {
    "tld": "merck",
@@ -3942,8 +3942,8 @@
   },
   {
    "tld": "mil",
-   "type": "country-code",
-   "manager": ""
+   "type": "generic",
+   "manager": "DoD Network Information Center"
   },
   {
    "tld": "mini",
@@ -4013,7 +4013,7 @@
   {
    "tld": "mobi",
    "type": "generic",
-   "manager": "Identity Digital Domains Limited"
+   "manager": "Identity Digital Limited"
   },
   {
    "tld": "mobile",
@@ -4060,7 +4060,7 @@
   {
    "tld": "mormon",
    "type": "generic",
-   "manager": "IRI Domain Management, LLC",
+   "manager": "IRI Domain Management, LLC (\"Applicant\")",
    "brand": true
   },
   {
@@ -4145,7 +4145,7 @@
   {
    "tld": "museum",
    "type": "generic",
-   "manager": "Museum Domain Management Association (MuseDoma)"
+   "manager": "Museum Domain Management Association"
   },
   {
    "tld": "music",
@@ -4196,7 +4196,7 @@
   {
    "tld": "name",
    "type": "generic",
-   "manager": "VeriSign, Inc."
+   "manager": "VeriSign Information Services, Inc."
   },
   {
    "tld": "navy",
@@ -4228,7 +4228,7 @@
   {
    "tld": "net",
    "type": "generic",
-   "manager": "VeriSign, Inc."
+   "manager": "VeriSign Global Registry Services"
   },
   {
    "tld": "netbank",
@@ -4378,7 +4378,7 @@
   {
    "tld": "nowruz",
    "type": "generic",
-   "manager": ""
+   "manager": "Emergency Back-End Registry Operator Program - ICANN"
   },
   {
    "tld": "nowtv",
@@ -4493,7 +4493,7 @@
   {
    "tld": "online",
    "type": "generic",
-   "manager": "Radix Technologies Inc SEZC"
+   "manager": "Radix Technologies Inc. SEZC"
   },
   {
    "tld": "ooo",
@@ -4521,12 +4521,12 @@
   {
    "tld": "org",
    "type": "generic",
-   "manager": "Public Interest Registry"
+   "manager": "Public Interest Registry (PIR)"
   },
   {
    "tld": "organic",
    "type": "generic",
-   "manager": "Identity Digital Domains Limited"
+   "manager": "Identity Digital Limited"
   },
   {
    "tld": "origins",
@@ -4553,7 +4553,7 @@
   {
    "tld": "ovh",
    "type": "generic",
-   "manager": "MédiaBC"
+   "manager": "OVH SAS"
   },
   {
    "tld": "pa",
@@ -4568,7 +4568,7 @@
   {
    "tld": "panasonic",
    "type": "generic",
-   "manager": "Panasonic Holdings Corporation",
+   "manager": "Panasonic Corporation",
    "brand": true
   },
   {
@@ -4579,7 +4579,7 @@
   {
    "tld": "pars",
    "type": "generic",
-   "manager": ""
+   "manager": "Emergency Back-End Registry Operator Program - ICANN"
   },
   {
    "tld": "partners",
@@ -4615,7 +4615,7 @@
   {
    "tld": "pet",
    "type": "generic",
-   "manager": "Identity Digital Domains Limited"
+   "manager": "Identity Digital Limited"
   },
   {
    "tld": "pf",
@@ -4714,7 +4714,7 @@
   {
    "tld": "pink",
    "type": "generic",
-   "manager": "Identity Digital Domains Limited"
+   "manager": "Identity Digital Limited"
   },
   {
    "tld": "pioneer",
@@ -4750,7 +4750,7 @@
   {
    "tld": "playstation",
    "type": "generic",
-   "manager": "Sony Interactive Entertainment Inc.",
+   "manager": "Sony Computer Entertainment Inc.",
    "brand": true
   },
   {
@@ -4787,7 +4787,7 @@
   {
    "tld": "poker",
    "type": "generic",
-   "manager": "Identity Digital Domains Limited"
+   "manager": "Identity Digital Limited"
   },
   {
    "tld": "politie",
@@ -4818,7 +4818,7 @@
   {
    "tld": "press",
    "type": "generic",
-   "manager": "Radix Technologies Inc SEZC"
+   "manager": "Radix Technologies Inc."
   },
   {
    "tld": "prime",
@@ -4829,7 +4829,7 @@
   {
    "tld": "pro",
    "type": "generic",
-   "manager": "Identity Digital Domains Limited"
+   "manager": "Identity Digital Limited"
   },
   {
    "tld": "prod",
@@ -4855,7 +4855,7 @@
   {
    "tld": "promo",
    "type": "generic",
-   "manager": "Identity Digital Domains Limited"
+   "manager": "Identity Digital Limited"
   },
   {
    "tld": "properties",
@@ -4923,7 +4923,7 @@
   {
    "tld": "qpon",
    "type": "generic",
-   "manager": "dotQPON LLC"
+   "manager": "DOTQPON LLC."
   },
   {
    "tld": "quebec",
@@ -4978,7 +4978,7 @@
   {
    "tld": "red",
    "type": "generic",
-   "manager": "Identity Digital Domains Limited"
+   "manager": "Identity Digital Limited"
   },
   {
    "tld": "redumbrella",
@@ -5194,7 +5194,7 @@
   {
    "tld": "sakura",
    "type": "generic",
-   "manager": "SAKURA Internet Inc."
+   "manager": "SAKURA internet Inc."
   },
   {
    "tld": "sale",
@@ -5277,7 +5277,7 @@
   {
    "tld": "sbs",
    "type": "generic",
-   "manager": "ShortDot SA",
+   "manager": "Shortdot SA",
    "brand": true
   },
   {
@@ -5407,7 +5407,7 @@
   {
    "tld": "sexy",
    "type": "generic",
-   "manager": "Internet Naming Company LLC"
+   "manager": "Internet Naming Co."
   },
   {
    "tld": "sfr",
@@ -5428,7 +5428,7 @@
   {
    "tld": "shangrila",
    "type": "generic",
-   "manager": "Shangri‐La International Hotel Management Limited",
+   "manager": "Shangri-La International Hotel Management Limited",
    "brand": true
   },
   {
@@ -5446,12 +5446,12 @@
   {
    "tld": "shia",
    "type": "generic",
-   "manager": ""
+   "manager": "Emergency Back-End Registry Operator Program - ICANN"
   },
   {
    "tld": "shiksha",
    "type": "generic",
-   "manager": "Identity Digital Domains Limited"
+   "manager": "Identity Digital Limited"
   },
   {
    "tld": "shoes",
@@ -5503,7 +5503,7 @@
   {
    "tld": "site",
    "type": "generic",
-   "manager": "Radix Technologies Inc SEZC"
+   "manager": "Radix Technologies Inc. SEZC"
   },
   {
    "tld": "sj",
@@ -5518,7 +5518,7 @@
   {
    "tld": "ski",
    "type": "generic",
-   "manager": "Identity Digital Domains Limited"
+   "manager": "Identity Digital Limited"
   },
   {
    "tld": "skin",
@@ -5624,7 +5624,7 @@
   {
    "tld": "sony",
    "type": "generic",
-   "manager": "Sony Group Corporation",
+   "manager": "Sony Corporation",
    "brand": true
   },
   {
@@ -5640,7 +5640,7 @@
   {
    "tld": "space",
    "type": "generic",
-   "manager": "Squarespace Registry LLC"
+   "manager": "Radix Technologies Inc."
   },
   {
    "tld": "sport",
@@ -5660,7 +5660,7 @@
   {
    "tld": "srl",
    "type": "generic",
-   "manager": "InterNetX, Corp"
+   "manager": "InterNetX Corp."
   },
   {
    "tld": "ss",
@@ -5687,7 +5687,7 @@
   {
    "tld": "star",
    "type": "generic",
-   "manager": "JioStar India Private Limited"
+   "manager": "Star India Private Limited"
   },
   {
    "tld": "statebank",
@@ -5724,7 +5724,7 @@
   {
    "tld": "store",
    "type": "generic",
-   "manager": "Radix Technologies Inc SEZC"
+   "manager": "Radix Technologies Inc."
   },
   {
    "tld": "stream",
@@ -5890,7 +5890,7 @@
   {
    "tld": "tci",
    "type": "generic",
-   "manager": ""
+   "manager": "Emergency Back-End Registry Operator Program - ICANN"
   },
   {
    "tld": "td",
@@ -5911,7 +5911,7 @@
   {
    "tld": "tech",
    "type": "generic",
-   "manager": "Radix Technologies Inc SEZC"
+   "manager": "Radix Technologies Inc."
   },
   {
    "tld": "technology",
@@ -5921,7 +5921,7 @@
   {
    "tld": "tel",
    "type": "generic",
-   "manager": "Telnames Limited"
+   "manager": "Telnames Ltd."
   },
   {
    "tld": "temasek",
@@ -6153,7 +6153,7 @@
   {
    "tld": "trust",
    "type": "generic",
-   "manager": "Internet Naming Company LLC"
+   "manager": "Internet Naming Co."
   },
   {
    "tld": "trv",
@@ -6194,7 +6194,7 @@
   {
    "tld": "tvs",
    "type": "generic",
-   "manager": "T V SUNDRAM IYENGAR  & SONS LIMITED"
+   "manager": "T V SUNDRAM IYENGAR & SONS PRIVATE LIMITED"
   },
   {
    "tld": "tw",
@@ -6247,7 +6247,7 @@
   {
    "tld": "uno",
    "type": "generic",
-   "manager": "Radix Technologies Inc SEZC"
+   "manager": "Radix Technologies Inc."
   },
   {
    "tld": "uol",
@@ -6489,7 +6489,7 @@
   {
    "tld": "watches",
    "type": "generic",
-   "manager": "Identity Digital Domains Limited"
+   "manager": "Identity Digital Limited"
   },
   {
    "tld": "weather",
@@ -6521,12 +6521,12 @@
   {
    "tld": "website",
    "type": "generic",
-   "manager": "Radix Technologies Inc SEZC"
+   "manager": "Radix Technologies Inc."
   },
   {
    "tld": "wed",
    "type": "generic",
-   "manager": ""
+   "manager": "Emergency Back-End Registry Operator Program - ICANN"
   },
   {
    "tld": "wedding",
@@ -6557,7 +6557,7 @@
   {
    "tld": "wien",
    "type": "generic",
-   "manager": "domainworx Service & Management GmbH"
+   "manager": "punkt.wien GmbH"
   },
   {
    "tld": "wiki",
@@ -6774,7 +6774,7 @@
   {
    "tld": "xn--5su34j936bgsg",
    "type": "generic",
-   "manager": "Shangri‐La International Hotel Management Limited",
+   "manager": "Shangri-La International Hotel Management Limited",
    "brand": true,
    "unicode": "香格里拉"
   },
@@ -6787,7 +6787,7 @@
   {
    "tld": "xn--6frz82g",
    "type": "generic",
-   "manager": "Identity Digital Domains Limited",
+   "manager": "Identity Digital Limited",
    "unicode": "移动"
   },
   {
@@ -6965,7 +6965,7 @@
   {
    "tld": "xn--efvy88h",
    "type": "generic",
-   "manager": "Guangzhou YU Wei Information Technology Co., Ltd.",
+   "manager": "Guangzhou YU Wei Information and Technology Co.,Ltd",
    "unicode": "新闻"
   },
   {
@@ -7082,7 +7082,7 @@
   {
    "tld": "xn--hxt814e",
    "type": "generic",
-   "manager": "Zodiac Taurus Limited",
+   "manager": "Zodiac Taurus Ltd.",
    "unicode": "网店"
   },
   {
@@ -7282,7 +7282,7 @@
   {
    "tld": "xn--mgbt3dhd",
    "type": "generic",
-   "manager": "",
+   "manager": "Emergency Back-End Registry Operator Program - ICANN",
    "unicode": "همراه"
   },
   {
@@ -7456,7 +7456,7 @@
   {
    "tld": "xn--ses554g",
    "type": "generic",
-   "manager": "KNET Co., Ltd.",
+   "manager": "KNET Co., Ltd",
    "unicode": "网址"
   },
   {
@@ -7603,7 +7603,7 @@
   {
    "tld": "yandex",
    "type": "generic",
-   "manager": "YANDEX, LLC",
+   "manager": "YANDEX LLC",
    "brand": true
   },
   {

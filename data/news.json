@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-23T16:38:10+00:00",
+ "updated": "2026-11-23T16:40:26+00:00",
  "items": [
   {
    "title": "Hackers breach Austrian Foreign Ministry website, access diplomats' contact details",
    "link": "https://therecord.media/austrian-foreign-ministry-says-website-hacked",
    "source": "The Record",
-   "date": "2026-11-23T16:38:10+00:00",
+   "date": "2026-11-23T16:40:26+00:00",
    "summary": "Austria's Foreign Ministry said late last week that hackers breached one of its websites and accessed the names and official contact information of employees at its Vienna headquarters and at Austria’s diplomatic…",
    "cat": "security"
   },
@@ -30,7 +30,7 @@
    "link": "https://ladybird.org/posts/alpha/",
    "source": "Hacker News",
    "date": "2026-11-23T16:13:12+00:00",
-   "summary": "118 points, 15 comments on Hacker News.",
+   "summary": "148 points, 24 comments on Hacker News.",
    "cat": "business"
   },
   {
@@ -54,7 +54,7 @@
    "link": "https://www.newyorker.com/magazine/2026/11/30/one-mans-quest-to-end-daylight-savings",
    "source": "Hacker News",
    "date": "2026-11-23T15:28:41+00:00",
-   "summary": "24 points, 22 comments on Hacker News.",
+   "summary": "27 points, 26 comments on Hacker News.",
    "cat": "business"
   },
   {
@@ -118,7 +118,7 @@
    "link": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html",
    "source": "Hacker News",
    "date": "2026-11-23T14:00:18+00:00",
-   "summary": "223 points, 1507 comments on Hacker News.",
+   "summary": "267 points, 1547 comments on Hacker News.",
    "cat": "business"
   },
   {
@@ -158,7 +158,7 @@
    "link": "https://github.com/mikuta0407/win4wine",
    "source": "Hacker News",
    "date": "2026-11-23T12:28:11+00:00",
-   "summary": "110 points, 56 comments on Hacker News.",
+   "summary": "112 points, 59 comments on Hacker News.",
    "cat": "business"
   },
   {
@@ -174,7 +174,7 @@
    "link": "https://blogs.gentoo.org/mgorny/2026/10/27/the-next-circle-of-security-hell/",
    "source": "Hacker News",
    "date": "2026-11-23T11:34:16+00:00",
-   "summary": "137 points, 70 comments on Hacker News.",
+   "summary": "138 points, 70 comments on Hacker News.",
    "cat": "business"
   },
   {
@@ -182,7 +182,7 @@
    "link": "https://github.com/os6/nospeaker",
    "source": "Hacker News",
    "date": "2026-11-23T11:31:54+00:00",
-   "summary": "124 points, 58 comments on Hacker News.",
+   "summary": "130 points, 61 comments on Hacker News.",
    "cat": "business"
   },
   {
@@ -190,7 +190,7 @@
    "link": "https://z.ai/blog/glm-5.4",
    "source": "Hacker News",
    "date": "2026-11-23T10:06:43+00:00",
-   "summary": "683 points, 251 comments on Hacker News.",
+   "summary": "687 points, 252 comments on Hacker News.",
    "cat": "business"
   },
   {
@@ -206,7 +206,7 @@
    "link": "https://jola.dev/posts/you-cant-afford-ssh-keys-disk",
    "source": "Hacker News",
    "date": "2026-11-23T09:55:38+00:00",
-   "summary": "35 points, 24 comments on Hacker News.",
+   "summary": "35 points, 26 comments on Hacker News.",
    "cat": "business"
   },
   {
@@ -254,7 +254,7 @@
    "link": "https://micjm.com/blog/yes-17m-lines-of-lean-is-a-lot/",
    "source": "Hacker News",
    "date": "2026-11-23T05:00:49+00:00",
-   "summary": "214 points, 252 comments on Hacker News.",
+   "summary": "215 points, 257 comments on Hacker News.",
    "cat": "business"
   },
   {
@@ -270,7 +270,7 @@
    "link": "https://github.com/AFK-surf/xnulinux",
    "source": "Hacker News",
    "date": "2026-11-23T03:49:24+00:00",
-   "summary": "500 points, 207 comments on Hacker News.",
+   "summary": "505 points, 207 comments on Hacker News.",
    "cat": "business"
   },
   {
@@ -294,7 +294,7 @@
    "link": "https://pengowray.github.io/riemann-zeta-proof-visualizer/",
    "source": "Hacker News",
    "date": "2026-11-23T01:50:23+00:00",
-   "summary": "155 points, 66 comments on Hacker News.",
+   "summary": "158 points, 66 comments on Hacker News.",
    "cat": "business"
   },
   {
@@ -302,7 +302,7 @@
    "link": "https://spelunkr.tv",
    "source": "Hacker News",
    "date": "2026-11-23T01:13:51+00:00",
-   "summary": "755 points, 140 comments on Hacker News.",
+   "summary": "759 points, 140 comments on Hacker News.",
    "cat": "business"
   },
   {
@@ -326,7 +326,7 @@
    "link": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
    "source": "Hacker News",
    "date": "2026-11-22T21:01:16+00:00",
-   "summary": "661 points, 270 comments on Hacker News.",
+   "summary": "664 points, 270 comments on Hacker News.",
    "cat": "business"
   },
   {
@@ -334,7 +334,7 @@
    "link": "https://smallsf.com/",
    "source": "Hacker News",
    "date": "2026-11-22T20:33:23+00:00",
-   "summary": "341 points, 107 comments on Hacker News.",
+   "summary": "344 points, 107 comments on Hacker News.",
    "cat": "business"
   },
   {
@@ -342,7 +342,7 @@
    "link": "https://danielsada.tech/blog/assume-people-are-not-interested-in-your-blog-post/",
    "source": "Hacker News",
    "date": "2026-11-22T19:41:30+00:00",
-   "summary": "286 points, 139 comments on Hacker News.",
+   "summary": "288 points, 139 comments on Hacker News.",
    "cat": "business"
   },
   {
@@ -350,7 +350,7 @@
    "link": "https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife",
    "source": "Hacker News",
    "date": "2026-11-22T19:10:34+00:00",
-   "summary": "594 points, 330 comments on Hacker News.",
+   "summary": "596 points, 332 comments on Hacker News.",
    "cat": "business"
   },
   {
@@ -462,7 +462,7 @@
    "link": "https://www.allaboutcircuits.com/technical-articles/mram-basics-how-magnetic-memory-is-replacing-embedded-flash/",
    "source": "Hacker News",
    "date": "2026-11-21T10:14:11+00:00",
-   "summary": "57 points, 23 comments on Hacker News.",
+   "summary": "58 points, 23 comments on Hacker News.",
    "cat": "business"
   },
   {
@@ -470,7 +470,7 @@
    "link": "https://www.theguardian.com/science/2026/nov/20/spacecraft-mercury-second-ever-mission-orbit-bepicolombo",
    "source": "Hacker News",
    "date": "2026-11-21T09:14:02+00:00",
-   "summary": "67 points, 19 comments on Hacker News.",
+   "summary": "71 points, 20 comments on Hacker News.",
    "cat": "business"
   },
   {
@@ -478,7 +478,7 @@
    "link": "https://blog.regehr.org/archives/1621",
    "source": "Hacker News",
    "date": "2026-11-21T08:49:14+00:00",
-   "summary": "46 points, 25 comments on Hacker News.",
+   "summary": "49 points, 26 comments on Hacker News.",
    "cat": "business"
   },
   {
@@ -494,7 +494,7 @@
    "link": "https://github.com/elixir-hls/elixir-hls",
    "source": "Hacker News",
    "date": "2026-11-21T00:47:57+00:00",
-   "summary": "111 points, 7 comments on Hacker News.",
+   "summary": "112 points, 7 comments on Hacker News.",
    "cat": "business"
   },
   {
@@ -510,7 +510,7 @@
    "link": "https://underjord.io/reviving-the-donkey-car-with-erlang.html",
    "source": "Hacker News",
    "date": "2026-11-20T22:56:20+00:00",
-   "summary": "24 points, 0 comments on Hacker News.",
+   "summary": "25 points, 0 comments on Hacker News.",
    "cat": "business"
   },
   {
@@ -942,7 +942,7 @@
    "link": "https://apnews.com/article/sudan-antiquities-nubia-cathedral-1b16f67da881ee5592de4481ee55c527",
    "source": "Hacker News",
    "date": "2026-11-18T15:43:29+00:00",
-   "summary": "328 points, 119 comments on Hacker News.",
+   "summary": "329 points, 119 comments on Hacker News.",
    "cat": "business"
   },
   {

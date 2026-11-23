@@ -1,5 +1,5 @@
 {
- "run_at": "2026-11-23T16:38:10+00:00",
+ "run_at": "2026-11-23T16:40:26+00:00",
  "sources": [
   {
    "kind": "news",
@@ -229,10 +229,8 @@
    "kind": "data",
    "name": "IANA root zone database",
    "url": "https://www.iana.org/domains/root/db",
-   "ok": false,
-   "count": 0,
-   "error": "no table rows parsed (3840365 bytes, title: Top-Level Domains)",
-   "sample": "      \n                            <th>Sort</th>\n                        </tr>\n                        </thead>\n\n                        <tbody>\n\n                        \n                            \n                            \n                            \n                                <tr>\n                            \n\n                        <td>\n                            <a href=\"/domains/root/db/aaa\">\n                                \n                                    .aaa\n                                \n                                \n                                    <span class=\"rz-icon-sm tld-type-inline\">\n                                        <img src=\"/static/icons/domain-generic.8734c7638ee3.svg\" alt=\"\">\n                                    </span>\n                                \n                                \n                                \n                    "
+   "ok": true,
+   "count": 1276
   },
   {
    "kind": "data",
@@ -258,6 +256,6 @@
  ],
  "news_items": 159,
  "video_items": 60,
- "ok_sources": 35,
+ "ok_sources": 36,
  "total_sources": 36
 }
