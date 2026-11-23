@@ -1,0 +1,38 @@
+<!--meta {"path": "tools/domain-score/", "title": "Domain name score: rate length, clarity and resale appeal", "description": "Free domain name scorer. Rates any domain from 0 to 100 on length, characters, extension, word clarity, pronunciation and commercial keywords, with a transparent breakdown.", "scripts": ["domain.js", "tools/score.js"], "nav": "tools/", "head": false, "priority": "0.8"} -->
+<section class="console console-small">
+  <div class="wrap">
+    <nav class="breadcrumbs" aria-label="Breadcrumb" style="color:#cfd5ff"><a href="{{base}}">Home</a> / <a href="{{base}}tools/">Tools</a> / Domain name score</nav>
+    <h1>Domain name score</h1>
+    <p class="lede">A 0–100 rating built from six factors that buyers and brokers weigh. Every point is explained, so you can argue with it.</p>
+    <form class="console-form" id="sc-form" role="search">
+      <label class="visually-hidden" for="sc-q">Domain name</label>
+      <input id="sc-q" name="d" placeholder="brightharbor.com" autocomplete="off" autocapitalize="off" spellcheck="false">
+      <button class="btn" type="submit">Score it</button>
+    </form>
+    <div class="console-hints"><span>Compare:</span><button type="button" data-sc="cloud.com">cloud.com</button><button type="button" data-sc="brightharbor.com">brightharbor.com</button><button type="button" data-sc="best-cheap-loans-4u.info">best-cheap-loans-4u.info</button></div>
+  </div>
+</section>
+<section class="section" style="padding-top:2rem"><div class="wrap"><div id="sc-out"><div class="empty">Enter a domain to see its score and breakdown.</div></div></div></section>
+<section class="section section-mist">
+  <div class="wrap split">
+    <article class="prose">
+      <h2>How the score is built</h2>
+      <div class="table-wrap"><table>
+        <thead><tr><th>Factor</th><th class="n">Points</th><th>What earns them</th></tr></thead>
+        <tbody>
+          <tr><td>Length</td><td class="n">25</td><td>Shorter names are easier to remember and type. Full marks at four letters or fewer.</td></tr>
+          <tr><td>Extension</td><td class="n">20</td><td>.com earns the most because it’s the default people type. Strong country codes and .io, .ai and .co follow.</td></tr>
+          <tr><td>Clarity</td><td class="n">20</td><td>One real word beats two, two beat three. Invented words score on how cleanly they read.</td></tr>
+          <tr><td>Pronunciation</td><td class="n">15</td><td>A healthy mix of vowels and consonants, no long consonant clusters, no tripled letters.</td></tr>
+          <tr><td>Characters</td><td class="n">10</td><td>Letters only. Hyphens and digits cost points, except for short all-number names, which have their own market.</td></tr>
+          <tr><td>Commercial pull</td><td class="n">10</td><td>Words from industries that pay for traffic and leads, such as finance, insurance, health, travel and software.</td></tr>
+        </tbody>
+      </table></div>
+      <h2>A score is not a price</h2>
+      <p>What a domain sells for depends on a buyer who needs that exact name, and on comparable sales. Use the score to rank a shortlist or to sanity-check an asking price, then read <a href="{{base}}learn/how-to-value-a-domain/">How to value a domain name</a> for the comparable-sales method.</p>
+    </article>
+    <aside class="aside-sticky">
+      <div class="panel panel-sun"><h3>Need a real valuation?</h3><p>We price names against recent comparable sales and tell you the likely buyer pool, whether you’re buying or selling.</p><a class="btn btn-small" href="{{base}}get-started/?goal=sell">Request a valuation</a></div>
+    </aside>
+  </div>
+</section>

@@ -1,0 +1,31 @@
+<!--meta {"path": "tools/tld-explorer/", "title": "TLD explorer: every domain extension in the root zone", "description": "Search all {{tld_count}} top-level domains in the IANA root zone: generic, country-code and internationalized extensions, their operators and whether they publish RDAP. Updated automatically.", "scripts": ["tools/tld.js"], "nav": "tools/", "h1": "TLD explorer", "lede": "All {{tld_count}} extensions in the internet’s root zone, synced from IANA every six hours. Search by extension or operator.", "crumbs": [["Tools", "tools/"], ["TLD explorer", "tools/tld-explorer/"]], "priority": "0.8", "freq": "daily"} -->
+<section class="section">
+  <div class="wrap">
+    <div class="panel form" style="margin-bottom:1.25rem">
+      <div class="row">
+        <div><label for="tld-q">Search</label><input id="tld-q" name="q" type="search" placeholder="Try works, shop, india or Verisign"></div>
+        <div class="row" style="gap:.75rem">
+          <div><label for="tld-type">Type</label><select id="tld-type"><option value="">All types</option><option value="generic">Generic</option><option value="country-code">Country code</option><option value="sponsored">Sponsored</option><option value="generic-restricted">Generic, restricted</option><option value="infrastructure">Infrastructure</option><option value="idn">Internationalized (IDN)</option></select></div>
+          <div><label for="tld-rdap">RDAP</label><select id="tld-rdap"><option value="">Any</option><option value="yes">Publishes RDAP</option><option value="no">No RDAP</option></select></div>
+        </div>
+      </div>
+      <p class="small muted" id="tld-meta" style="margin:0">Loading the root zone…</p>
+    </div>
+    <div class="table-wrap"><table><thead><tr><th>Extension</th><th>Type</th><th>Operator</th><th>RDAP</th><th></th></tr></thead><tbody id="tld-body"></tbody></table></div>
+    <div class="btn-row" style="margin-top:1rem"><button class="btn btn-ghost" type="button" id="tld-more" hidden>Show more</button><button class="btn btn-ghost" type="button" id="tld-csv">Download CSV</button></div>
+  </div>
+</section>
+<section class="section section-mist">
+  <div class="wrap prose">
+    <h2>About the root zone</h2>
+    <p>The root zone is the top of the domain name system. It lists every top-level domain and the servers responsible for it, and IANA publishes it as a plain list that changes whenever an extension is added or retired. This page reads that list, plus IANA’s root zone database for each extension’s type and operator, on every refresh. Changes between refreshes are logged in the <a href="{{base}}brief/">daily brief</a>.</p>
+    <h3>Types of extension</h3>
+    <ul>
+      <li><b>Generic</b> extensions such as .com, .works or .shop are open to anyone or to a defined community.</li>
+      <li><b>Country-code</b> extensions are two letters (.ca, .in, .uk) and follow each country’s own rules; some require local presence.</li>
+      <li><b>Internationalized</b> extensions use non-Latin scripts and appear in DNS as an <code>xn--</code> Punycode form.</li>
+      <li><b>Sponsored</b> and <b>restricted</b> extensions limit who can register, such as .gov or .museum.</li>
+    </ul>
+    <p>RDAP support matters because it decides whether the <a href="{{base}}tools/domain-lookup/">domain lookup</a> can read registration dates directly. Most generic extensions publish RDAP; many country codes do not yet.</p>
+  </div>
+</section>

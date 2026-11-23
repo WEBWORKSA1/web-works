@@ -1,0 +1,47 @@
+<!--meta {"path": "tools/domain-lookup/", "title": "Domain lookup: owner, expiry and availability (RDAP)", "description": "Free domain lookup that reads the official registry record (RDAP): registrar, creation and expiry dates, status codes, nameservers and DNSSEC, with a DNS fallback. No sign-up.", "scripts": ["domain.js"], "nav": "tools/", "head": false, "priority": "0.9", "freq": "monthly"} -->
+<section class="console console-small">
+  <div class="wrap">
+    <nav class="breadcrumbs" aria-label="Breadcrumb" style="color:#cfd5ff"><a href="{{base}}">Home</a> / <a href="{{base}}tools/">Tools</a> / Domain lookup</nav>
+    <h1>Domain lookup</h1>
+    <p class="lede">Reads the official registry record for any domain: who the registrar is, when it was created and expires, its status codes and nameservers.</p>
+    <form class="console-form" data-lookup="lk-out" role="search">
+      <label class="visually-hidden" for="lk-q">Domain name</label>
+      <input id="lk-q" name="d" placeholder="example.com" autocomplete="off" autocapitalize="off" spellcheck="false" inputmode="url">
+      <button class="btn" type="submit">Look up</button>
+    </form>
+    <div class="console-hints"><span>Try:</span><button type="button" data-try="wikipedia.org">wikipedia.org</button><button type="button" data-try="web.works">web.works</button><button type="button" data-try="example.com">example.com</button></div>
+    <div class="console-out" id="lk-out"></div>
+  </div>
+</section>
+
+<section class="section">
+  <div class="wrap split">
+    <article class="prose">
+      <h2>What this lookup reads</h2>
+      <p>Every generic top-level domain registry, and a growing number of country-code registries, publishes registration data through <b>RDAP</b>, the Registration Data Access Protocol. On 28 January 2025 RDAP became the authoritative source for generic domains, and the old WHOIS service stopped being a requirement. This tool asks the right registry directly, using the bootstrap file that IANA publishes and that this site refreshes every six hours.</p>
+      <p>If a registry doesn’t answer your browser, the lookup falls back to live DNS. A name with nameservers in DNS is registered; a name the DNS root has never heard of is very probably free.</p>
+      <h2>How to read the result</h2>
+      <div class="table-wrap"><table>
+        <thead><tr><th>Field</th><th>What it tells you</th></tr></thead>
+        <tbody>
+          <tr><td>Registrar</td><td>The company the domain is registered through. Contact it, not the registry, for abuse reports or transfer questions.</td></tr>
+          <tr><td>Registered</td><td>When the current registration began. A recent date on an old name can mean it dropped and was re-registered.</td></tr>
+          <tr><td>Expires</td><td>When the paid term ends. Most names renew automatically, so a near date is a signal, not a promise that it will drop.</td></tr>
+          <tr><td>Status codes</td><td><code>client transfer prohibited</code> is a normal lock. <code>redemption period</code> and <code>pending delete</code> mean the name is on its way out.</td></tr>
+          <tr><td>Nameservers</td><td>Who hosts the DNS. Parking-company nameservers often mean the name is unused and may be for sale.</td></tr>
+          <tr><td>DNSSEC</td><td>Whether DNS answers for the domain are cryptographically signed.</td></tr>
+        </tbody>
+      </table></div>
+      <h2>Why the owner’s name is usually hidden</h2>
+      <p>Since 2018, privacy rules have led registrars to redact personal contact details. You will normally see the registrar but not the registrant. To reach an owner, use the registrar’s contact form, look for a for-sale page on the domain, or ask a broker. Our <a href="{{base}}services/#acquisition">acquisition service</a> does this anonymously for you.</p>
+      <h2>Frequently asked</h2>
+      <details><summary>Does looking up a domain make it more expensive or let someone grab it?</summary><div>No. Lookups here go from your browser straight to the registry and public DNS. Nothing is logged by us, and we don’t sell searches. Registrars that “front-run” searches are a long-standing worry, which is one reason we never sit in the middle.</div></details>
+      <details><summary>The tool says “not registered” but my registrar says it’s taken.</summary><div>Some names are reserved by the registry or sold as registry premiums at a higher price. Others were deleted minutes ago and are in a drop-catch queue. Your registrar’s checkout is the final word.</div></details>
+      <details><summary>Why can’t it read some country-code domains?</summary><div>A few country registries do not run a public RDAP service or don’t allow browser requests. The DNS fallback still tells you whether the name is registered.</div></details>
+    </article>
+    <aside class="aside-sticky">
+      <div class="panel panel-sun"><h3>Want a name that’s taken?</h3><p>We find the owner, negotiate anonymously within your budget and close through escrow.</p><a class="btn btn-small" href="{{base}}get-started/?goal=buy">Start an acquisition</a></div>
+      <div class="panel" style="margin-top:1rem"><h3>Related tools</h3><ul><li><a href="{{base}}tools/bulk-checker/">Bulk domain checker</a></li><li><a href="{{base}}tools/domain-health/">Domain health check</a></li><li><a href="{{base}}desk/">Watchlist on your Desk</a></li><li><a href="{{base}}learn/who-owns-a-domain/">Guide: finding who owns a domain</a></li></ul></div>
+    </aside>
+  </div>
+</section>

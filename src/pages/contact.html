@@ -1,0 +1,38 @@
+<!--meta {"path": "contact/", "title": "Contact Web.Works", "description": "Contact Web.Works about this website or domain name, sponsorship, advertising, partnership, a project, press or support. We reply by email.", "nav": "", "h1": "Contact", "lede": "Interested in this website, the domain name, sponsorship, advertising or a partnership? Pick the topic and send a message. We reply by email.", "crumbs": [["Contact", "contact/"]], "priority": "0.7"} -->
+<section class="section">
+  <div class="wrap split">
+    <div>
+      <form class="form panel" data-ww-form="contact" data-subject="Contact form" data-success="contact-done" novalidate>
+        <div class="hp" aria-hidden="true"><label>Leave empty<input name="_honey" tabindex="-1" autocomplete="off"></label></div>
+        <div><label for="m-topic">Topic</label>
+          <select id="m-topic" name="topic" required>
+            <option value="">Choose a topic</option>
+            <option value="website-domain">Buying this website or domain name</option>
+            <option value="sponsorship">Sponsorship</option>
+            <option value="advertisement">Advertisement</option>
+            <option value="partnership">Partnership</option>
+            <option value="project">A domain or website project</option>
+            <option value="press">Press</option>
+            <option value="support">A problem with a tool</option>
+            <option value="other">Something else</option>
+          </select></div>
+        <div class="row">
+          <div><label for="m-name">Your name</label><input id="m-name" name="name" required autocomplete="name"></div>
+          <div><label for="m-email">Email</label><input id="m-email" name="email" type="email" required autocomplete="email"></div>
+        </div>
+        <div class="row">
+          <div><label for="m-co">Company <span class="hint">optional</span></label><input id="m-co" name="company" autocomplete="organization"></div>
+          <div><label for="m-phone">Phone <span class="hint">optional</span></label><input id="m-phone" name="phone" type="tel" autocomplete="tel"></div>
+        </div>
+        <div><label for="m-msg">Message</label><textarea id="m-msg" name="message" rows="6" required></textarea></div>
+        <label class="check"><input type="checkbox" name="consent" value="yes" required> <span>You may reply to me about this message. See the <a href="{{base}}privacy/">privacy policy</a>.</span></label>
+        <button class="btn" type="submit">Send message</button>
+      </form>
+      <div id="contact-done" class="record" tabindex="-1" hidden><div class="record-head"><div class="record-name">Message sent</div><span class="status ok">Received</span></div><p>Thanks. We’ll reply to the email address you gave.</p></div>
+    </div>
+    <aside class="aside-sticky">
+      <div class="panel"><h3>Faster routes</h3><ul><li>A project with a domain: the <a href="{{base}}get-started/">project planner</a> gets you a plan and quote.</li><li>Sponsorship and ads: the <a href="{{base}}advertise/">advertise page</a> lists placements.</li><li>Freelance work: the <a href="{{base}}careers/">talent network</a>.</li><li>Contest entries: the <a href="{{base}}contests/">contest page</a>.</li></ul></div>
+      <div class="panel" style="margin-top:1rem"><h3>Reporting abuse on another domain?</h3><p>Look the domain up with our <a href="{{base}}tools/domain-lookup/">domain lookup</a>; the result shows the registrar’s abuse contact, which can act on it directly.</p></div>
+    </aside>
+  </div>
+</section>

@@ -1,0 +1,32 @@
+<!--meta {"path": "tools/domain-health/", "title": "Domain health check: SPF, DKIM, DMARC, DNSSEC, CAA", "description": "Free domain health check. Grades email authentication (SPF, DKIM, DMARC, MTA-STS), DNSSEC, CAA and web setup for any domain and gives the exact DNS record to fix each gap.", "scripts": ["domain.js", "tools/health.js"], "nav": "tools/", "head": false, "priority": "0.9"} -->
+<section class="console console-small">
+  <div class="wrap">
+    <nav class="breadcrumbs" aria-label="Breadcrumb" style="color:#cfd5ff"><a href="{{base}}">Home</a> / <a href="{{base}}tools/">Tools</a> / Domain health check</nav>
+    <h1>Domain health check</h1>
+    <p class="lede">Fourteen checks on the records that decide whether your email lands, whether your DNS can be forged and whether your site resolves. Each gap comes with the record that fixes it.</p>
+    <form class="console-form" id="health-form" role="search">
+      <label class="visually-hidden" for="health-q">Domain name</label>
+      <input id="health-q" name="d" placeholder="yourcompany.com" autocomplete="off" autocapitalize="off" spellcheck="false">
+      <button class="btn" type="submit">Run check</button>
+    </form>
+  </div>
+</section>
+<section class="section" style="padding-top:2rem">
+  <div class="wrap"><div id="health-out"><div class="empty">Enter your domain to see its score.</div></div></div>
+</section>
+<section class="section section-mist">
+  <div class="wrap split">
+    <article class="prose">
+      <h2>What we check and why it matters</h2>
+      <p><b>Email authentication.</b> Since February 2024 Gmail and Yahoo require bulk senders to authenticate with SPF, DKIM and DMARC, and every sender gets better inbox placement with them. A domain without DMARC can be spoofed in phishing emails that carry your name.</p>
+      <p><b>Parked domains.</b> If a domain never sends email, the safest setup is an SPF record of <code>v=spf1 -all</code> plus a DMARC policy of <code>p=reject</code>. Attackers prefer unprotected, unused domains.</p>
+      <p><b>DNSSEC.</b> Signing your zone lets resolvers reject forged answers. It must be enabled at your DNS host and confirmed with a DS record at the registry.</p>
+      <p><b>CAA.</b> A one-line record that limits which certificate authorities may issue certificates for your name.</p>
+      <p><b>DKIM selectors.</b> DKIM keys sit under a selector name chosen by your email provider, and DNS cannot list them. We try the selectors used by Google Workspace, Microsoft 365, Mailchimp, Zoho and other common services. “Not found” means none of those, not necessarily no DKIM.</p>
+      <p>Read the full walkthrough: <a href="{{base}}learn/email-authentication-spf-dkim-dmarc/">SPF, DKIM and DMARC for small businesses</a>.</p>
+    </article>
+    <aside class="aside-sticky">
+      <div class="panel panel-sun"><h3>Want these fixed for you?</h3><p>We audit every domain you own, write the records with your email providers in mind and move DMARC to enforcement without losing mail.</p><a class="btn btn-small" href="{{base}}get-started/?goal=consult">Book a DNS hardening</a></div>
+    </aside>
+  </div>
+</section>

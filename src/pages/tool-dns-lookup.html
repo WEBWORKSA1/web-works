@@ -1,0 +1,49 @@
+<!--meta {"path": "tools/dns-lookup/", "title": "DNS lookup: A, MX, TXT, NS, CAA and more", "description": "Free DNS lookup for any hostname. See A, AAAA, CNAME, MX, NS, TXT, CAA, SOA, DS and HTTPS records with TTLs, and compare Google and Cloudflare answers to check propagation.", "scripts": ["domain.js", "tools/dns.js"], "nav": "tools/", "head": false, "priority": "0.8"} -->
+<section class="console console-small">
+  <div class="wrap">
+    <nav class="breadcrumbs" aria-label="Breadcrumb" style="color:#cfd5ff"><a href="{{base}}">Home</a> / <a href="{{base}}tools/">Tools</a> / DNS lookup</nav>
+    <h1>DNS lookup</h1>
+    <p class="lede">Every record type for a hostname, with time-to-live values, answered live by Google Public DNS and Cloudflare.</p>
+    <form class="console-form" id="dns-form" role="search">
+      <label class="visually-hidden" for="dns-q">Hostname</label>
+      <input id="dns-q" name="d" placeholder="example.com or mail.example.com" autocomplete="off" autocapitalize="off" spellcheck="false">
+      <label class="visually-hidden" for="dns-type">Record type</label>
+      <select id="dns-type" style="border:0;font:inherit;font-weight:650;background:var(--mist);border-radius:10px;padding:0 .75rem;max-width:8rem">
+        <option value="ALL">All types</option><option>A</option><option>AAAA</option><option>CNAME</option><option>MX</option><option>NS</option><option>TXT</option><option>CAA</option><option>SOA</option><option>DS</option><option>HTTPS</option><option>SRV</option>
+      </select>
+      <button class="btn" type="submit">Look up</button>
+    </form>
+    <div class="console-hints"><label class="check" style="color:#fff;font-weight:500;margin:0"><input type="checkbox" id="dns-compare"> <span>Compare Google and Cloudflare (propagation check)</span></label></div>
+  </div>
+</section>
+<section class="section" style="padding-top:2rem">
+  <div class="wrap"><div id="dns-out"><div class="empty">Enter a hostname above. Results show here, grouped by record type.</div></div></div>
+</section>
+<section class="section section-mist">
+  <div class="wrap split">
+    <article class="prose">
+      <h2>Which record does what</h2>
+      <div class="table-wrap"><table>
+        <thead><tr><th>Type</th><th>Use</th></tr></thead>
+        <tbody>
+          <tr><td>A / AAAA</td><td>The IPv4 / IPv6 address a name points to. Your website lives here.</td></tr>
+          <tr><td>CNAME</td><td>An alias to another hostname. Common for www and for hosted services.</td></tr>
+          <tr><td>MX</td><td>Which servers receive your email, lowest number first.</td></tr>
+          <tr><td>NS</td><td>Which nameservers are authoritative for the zone.</td></tr>
+          <tr><td>TXT</td><td>Policies and proofs: SPF, DMARC (at _dmarc), site verification codes.</td></tr>
+          <tr><td>CAA</td><td>Which certificate authorities may issue certificates for the name.</td></tr>
+          <tr><td>SOA</td><td>The zone’s primary server, contact and timers.</td></tr>
+          <tr><td>DS</td><td>The DNSSEC link held by the parent zone. Present means signing is switched on at the registry.</td></tr>
+          <tr><td>HTTPS</td><td>Hints that let browsers connect faster and over HTTP/3.</td></tr>
+        </tbody>
+      </table></div>
+      <h2>Checking a change has gone live</h2>
+      <p>DNS answers are cached for the number of seconds in their TTL. After you change a record, resolvers keep serving the old answer until that time runs out. Tick <b>Compare</b> to ask two large public resolvers at once: if they agree with your new value, most of the internet will soon follow. Lower the TTL to 300 a day before planned moves.</p>
+      <p>For a deeper explanation of each record, read <a href="{{base}}learn/dns-records-explained/">DNS records explained</a>.</p>
+    </article>
+    <aside class="aside-sticky">
+      <div class="panel"><h3>Next step</h3><p>The <a href="{{base}}tools/domain-health/">health check</a> reads these same records and tells you what is missing for email deliverability and security.</p></div>
+      <div class="panel panel-sun" style="margin-top:1rem"><h3>DNS migration coming up?</h3><p>We plan and run registrar and DNS moves with zero downtime.</p><a class="btn btn-small" href="{{base}}get-started/?goal=consult">Get help</a></div>
+    </aside>
+  </div>
+</section>

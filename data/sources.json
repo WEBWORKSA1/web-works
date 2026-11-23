@@ -1,41 +1,168 @@
 {
   "_note": "Edit this file to add or remove sources. The refresh workflow reads it on every run; a source that fails is skipped and reported in data/status.json.",
   "news": [
-    {"cat": "domains", "name": "Domain Name Wire", "url": "https://domainnamewire.com/feed"},
-    {"cat": "domains", "name": "DomainInvesting", "url": "https://feeds.feedburner.com/DomainInvesting"},
-    {"cat": "domains", "name": "TheDomains", "url": "https://www.thedomains.com/feed/"},
-    {"cat": "domains", "name": "DomainGang", "url": "https://domaingang.com/feed/"},
-    {"cat": "domains", "name": "OnlineDomain", "url": "https://onlinedomain.com/feed/"},
-    {"cat": "domains", "name": "CircleID", "url": "https://circleid.com/rss"},
-    {"cat": "domains", "name": "Google News: domain names", "url": "https://news.google.com/rss/search?q=%22domain+name%22+OR+ICANN+OR+registrar&hl=en-US&gl=US&ceid=US:en"},
-    {"cat": "web", "name": "Search Engine Land", "url": "https://searchengineland.com/feed"},
-    {"cat": "web", "name": "Search Engine Journal", "url": "https://www.searchenginejournal.com/feed/"},
-    {"cat": "web", "name": "Google Search Central", "url": "https://developers.google.com/search/blog/feed.xml"},
-    {"cat": "web", "name": "Google Search Central", "url": "https://feeds.feedburner.com/blogspot/amDG"},
-    {"cat": "web", "name": "Smashing Magazine", "url": "https://www.smashingmagazine.com/feed/"},
-    {"cat": "web", "name": "CSS-Tricks", "url": "https://css-tricks.com/feed/"},
-    {"cat": "web", "name": "Cloudflare Blog", "url": "https://blog.cloudflare.com/rss/"},
-    {"cat": "security", "name": "Krebs on Security", "url": "https://krebsonsecurity.com/feed/"},
-    {"cat": "security", "name": "BleepingComputer", "url": "https://www.bleepingcomputer.com/feed/"},
-    {"cat": "security", "name": "The Record", "url": "https://therecord.media/feed/"},
-    {"cat": "security", "name": "Google News: phishing domains", "url": "https://news.google.com/rss/search?q=phishing+domain+OR+typosquatting+OR+%22lookalike+domain%22&hl=en-US&gl=US&ceid=US:en"},
-    {"cat": "business", "name": "TechCrunch Startups", "url": "https://techcrunch.com/category/startups/feed/"},
-    {"cat": "business", "name": "Google News: website builders and AI", "url": "https://news.google.com/rss/search?q=%22website+builder%22+OR+%22AI+website%22&hl=en-US&gl=US&ceid=US:en"},
-    {"cat": "business", "name": "Hacker News", "url": "https://hn.algolia.com/api/v1/search?tags=front_page&hitsPerPage=30", "type": "hn"}
+    {
+      "cat": "domains",
+      "name": "Domain Name Wire",
+      "url": "https://domainnamewire.com/feed"
+    },
+    {
+      "cat": "domains",
+      "name": "DomainInvesting",
+      "url": "https://feeds.feedburner.com/DomainInvesting"
+    },
+    {
+      "cat": "domains",
+      "name": "TheDomains",
+      "url": "https://www.thedomains.com/feed/"
+    },
+    {
+      "cat": "domains",
+      "name": "DomainGang",
+      "url": "https://domaingang.com/feed/"
+    },
+    {
+      "cat": "domains",
+      "name": "OnlineDomain",
+      "url": "https://onlinedomain.com/feed/"
+    },
+    {
+      "cat": "domains",
+      "name": "Google News: domain names",
+      "url": "https://news.google.com/rss/search?q=%22domain+name%22+OR+ICANN+OR+registrar&hl=en-US&gl=US&ceid=US:en"
+    },
+    {
+      "cat": "web",
+      "name": "Search Engine Journal",
+      "url": "https://www.searchenginejournal.com/feed/"
+    },
+    {
+      "cat": "web",
+      "name": "Google News: SEO and search",
+      "url": "https://news.google.com/rss/search?q=SEO+OR+%22Google+Search%22+algorithm&hl=en-US&gl=US&ceid=US:en"
+    },
+    {
+      "cat": "web",
+      "name": "Google Search Central",
+      "url": "https://developers.google.com/search/blog/feed.xml"
+    },
+    {
+      "cat": "web",
+      "name": "web.dev",
+      "url": "https://web.dev/static/blog/feed.xml"
+    },
+    {
+      "cat": "web",
+      "name": "Google Search Central",
+      "url": "https://feeds.feedburner.com/blogspot/amDG"
+    },
+    {
+      "cat": "web",
+      "name": "Smashing Magazine",
+      "url": "https://www.smashingmagazine.com/feed/"
+    },
+    {
+      "cat": "web",
+      "name": "Cloudflare Blog",
+      "url": "https://blog.cloudflare.com/rss/"
+    },
+    {
+      "cat": "security",
+      "name": "Krebs on Security",
+      "url": "https://krebsonsecurity.com/feed/"
+    },
+    {
+      "cat": "security",
+      "name": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/feed/"
+    },
+    {
+      "cat": "security",
+      "name": "The Record",
+      "url": "https://therecord.media/feed/"
+    },
+    {
+      "cat": "security",
+      "name": "Google News: phishing domains",
+      "url": "https://news.google.com/rss/search?q=phishing+domain+OR+typosquatting+OR+%22lookalike+domain%22&hl=en-US&gl=US&ceid=US:en"
+    },
+    {
+      "cat": "business",
+      "name": "TechCrunch Startups",
+      "url": "https://techcrunch.com/category/startups/feed/"
+    },
+    {
+      "cat": "business",
+      "name": "Google News: website builders and AI",
+      "url": "https://news.google.com/rss/search?q=%22website+builder%22+OR+%22AI+website%22&hl=en-US&gl=US&ceid=US:en"
+    },
+    {
+      "cat": "business",
+      "name": "Hacker News",
+      "url": "https://hn.algolia.com/api/v1/search?tags=front_page&hitsPerPage=30",
+      "type": "hn"
+    }
   ],
   "videos": [
-    {"topic": "Search & SEO", "name": "Google Search Central", "channel": "UCWf2ZlNsCGDS89VBF_awNvA"},
-    {"topic": "Search & SEO", "name": "Ahrefs", "channel": "UCWquNQV8Y0_defMKnGKrFOQ"},
-    {"topic": "Search & SEO", "name": "Neil Patel", "channel": "UCl-Zrl0QhF66lu1aGXaTbfw"},
-    {"topic": "Build websites", "name": "Kevin Powell", "channel": "UCJZv4d5rbIKd4QHMPkcABCw"},
-    {"topic": "Build websites", "name": "Web Dev Simplified", "channel": "UCFbNIlppjAuEX4znoulh0Cw"},
-    {"topic": "Build websites", "name": "Traversy Media", "channel": "UC29ju8bIPH5as8OGnQzwJyA"},
-    {"topic": "Build websites", "name": "freeCodeCamp.org", "channel": "UC8butISFwT-Wl7EV0hUK0BQ"},
-    {"topic": "Web platform", "name": "Chrome for Developers", "channel": "UCnUYZLuoy1rq1aVMwx4aTzw"},
-    {"topic": "Web platform", "name": "Google for Developers", "channel": "UC_x5XG1OV2P6uZZ5FSM9Ttw"},
-    {"topic": "Web platform", "name": "Fireship", "channel": "UCsBjURrPoezykLs9EqgamOA"},
-    {"topic": "Web platform", "name": "Theo - t3.gg", "channel": "UCbRP3c757lWg9M-U7TyEkXA"},
-    {"topic": "AI tools", "name": "Matt Wolfe", "channel": "UChpleBmo18P08aKCIgti38g"},
-    {"topic": "Infrastructure", "name": "Cloudflare", "channel": "UCuB2xXAmKzSxS0CbwpWCLcw"}
+    {
+      "topic": "Search & SEO",
+      "name": "Google Search Central",
+      "channel": "UCWf2ZlNsCGDS89VBF_awNvA"
+    },
+    {
+      "topic": "Search & SEO",
+      "name": "Ahrefs",
+      "channel": "UCWquNQV8Y0_defMKnGKrFOQ"
+    },
+    {
+      "topic": "Search & SEO",
+      "name": "Neil Patel",
+      "channel": "UCl-Zrl0QhF66lu1aGXaTbfw"
+    },
+    {
+      "topic": "Build websites",
+      "name": "Kevin Powell",
+      "channel": "UCJZv4d5rbIKd4QHMPkcABCw"
+    },
+    {
+      "topic": "Build websites",
+      "name": "Web Dev Simplified",
+      "channel": "UCFbNIlppjAuEX4znoulh0Cw"
+    },
+    {
+      "topic": "Build websites",
+      "name": "Traversy Media",
+      "channel": "UC29ju8bIPH5as8OGnQzwJyA"
+    },
+    {
+      "topic": "Build websites",
+      "name": "freeCodeCamp.org",
+      "channel": "UC8butISFwT-Wl7EV0hUK0BQ"
+    },
+    {
+      "topic": "Web platform",
+      "name": "Chrome for Developers",
+      "channel": "UCnUYZLuoy1rq1aVMwx4aTzw"
+    },
+    {
+      "topic": "Web platform",
+      "name": "Google for Developers",
+      "channel": "UC_x5XG1OV2P6uZZ5FSM9Ttw"
+    },
+    {
+      "topic": "Web platform",
+      "name": "Fireship",
+      "channel": "UCsBjURrPoezykLs9EqgamOA"
+    },
+    {
+      "topic": "Web platform",
+      "name": "Theo - t3.gg",
+      "channel": "UCbRP3c757lWg9M-U7TyEkXA"
+    },
+    {
+      "topic": "AI tools",
+      "name": "Matt Wolfe",
+      "channel": "UChpleBmo18P08aKCIgti38g"
+    }
   ]
 }

@@ -1,0 +1,155 @@
+<!doctype html>
+<html lang="en" data-base="../">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Your Desk: domain watchlist, expiry alerts and acquisition tracker | Web.Works</title>
+<meta name="description" content="A free, no-login domain dashboard. Watch expiry dates, registrars and status changes for your domains, track names you want to buy, and export renewal reminders to your calendar.">
+<meta name="robots" content="index, follow, max-image-preview:large">
+<link rel="canonical" href="https://web.works/desk/">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Web.Works">
+<meta property="og:title" content="Your Desk: domain watchlist, expiry alerts and acquisition tracker">
+<meta property="og:description" content="A free, no-login domain dashboard. Watch expiry dates, registrars and status changes for your domains, track names you want to buy, and export renewal reminders to your calendar.">
+<meta property="og:url" content="https://web.works/desk/">
+<meta property="og:image" content="https://web.works/assets/img/og.png">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="theme-color" content="#2335e8">
+<link rel="icon" href="../assets/img/favicon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="../assets/img/apple-touch-icon.png">
+<link rel="manifest" href="../manifest.webmanifest">
+<link rel="alternate" type="application/rss+xml" title="Web.Works daily brief" href="../feed.xml">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@62..125,100..900&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="../assets/css/site.css?v=d10110c0">
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6620975821265271" crossorigin="anonymous"></script>
+<script type="application/ld+json">[{"@context": "https://schema.org", "@type": "Organization", "name": "Web.Works", "url": "https://web.works/", "logo": "https://web.works/assets/img/icon-512.png"}, {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Home", "item": "https://web.works/"}, {"@type": "ListItem", "position": 2, "name": "Desk", "item": "https://web.works/desk/"}]}]</script>
+
+</head>
+<body>
+<a class="skip" href="#main">Skip to content</a>
+<div class="topbar"><div class="wrap"><a href="https://web.works/contact">Contact, if you are interested in this website/domain name/Sponsorship/Advertisement/Partnership</a></div></div>
+<header class="site-header">
+  <div class="wrap">
+    <a class="logo" href="../" aria-label="Web.Works home">web<i aria-hidden="true"></i>works</a>
+    <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="nav">Menu</button>
+    <nav class="nav" id="nav" aria-label="Main"><a href="../tools/">Tools</a><a href="../desk/" aria-current="page">Desk</a><a href="../brief/">Daily brief</a><a href="../news/">News</a><a href="../videos/">Videos</a><a href="../learn/">Learn</a><a href="../services/">Services</a><a href="../pricing/">Pricing</a><a class="btn" href="../get-started/">Start a project</a></nav>
+  </div>
+</header>
+<main id="main">
+<section class="page-head"><div class="wrap"><nav class="breadcrumbs" aria-label="Breadcrumb"><a href="../">Home</a> / Desk</nav><h1>Your Desk</h1><p class="lede">Your domains and the ones you want, in one place. The Desk re-reads each registry record when you press refresh and flags anything that needs attention.</p></div></section><section class="section" style="padding-top:2rem">
+  <div class="wrap">
+    <div class="notice small" style="margin-bottom:1.5rem">No account needed. Everything on this page is stored only in this browser. Use <b>Backup</b> to move it to another device.</div>
+    <div class="tabs" role="tablist" aria-label="Desk sections">
+      <button role="tab" id="t-watch" aria-controls="p-watch" aria-selected="true">Watchlist <span class="badge" id="n-watch">0</span></button>
+      <button role="tab" id="t-targets" aria-controls="p-targets" aria-selected="false">Targets <span class="badge" id="n-targets">0</span></button>
+      <button role="tab" id="t-alerts" aria-controls="p-alerts" aria-selected="false">Alerts <span class="badge" id="n-alerts">0</span></button>
+      <button role="tab" id="t-backup" aria-controls="p-backup" aria-selected="false">Backup</button>
+    </div>
+
+    <div class="tab-panel" role="tabpanel" id="p-watch" aria-labelledby="t-watch">
+      <form class="form panel" id="w-add" style="margin-bottom:1.25rem">
+        <div class="row">
+          <div><label for="w-domain">Add domains <span class="hint">One or more, separated by commas or spaces</span></label><input id="w-domain" type="text" placeholder="yourbrand.com, yourbrand.ca" required></div>
+          <div class="row" style="gap:.75rem"><div><label for="w-tag">Tag</label><input id="w-tag" type="text" placeholder="Brand, For sale, Client…"></div><div><label for="w-note">Note</label><input id="w-note" type="text" placeholder="Renews on company card"></div></div>
+        </div>
+        <div class="btn-row"><button class="btn" type="submit">Add to watchlist</button><button class="btn btn-ghost" type="button" id="w-refresh">Refresh all records</button><button class="btn btn-ghost" type="button" id="w-ics">Export calendar reminders</button><button class="btn btn-ghost" type="button" id="w-csv">Download CSV</button><span class="small muted" id="w-progress"></span></div>
+      </form>
+      <div class="table-wrap"><table><thead><tr><th>Domain</th><th>Expiry</th><th>Registrar</th><th>Nameservers</th><th>Checked</th><th></th></tr></thead><tbody id="w-body"></tbody></table></div>
+    </div>
+
+    <div class="tab-panel" role="tabpanel" id="p-targets" aria-labelledby="t-targets" hidden>
+      <form class="form panel" id="g-add" style="margin-bottom:1.25rem">
+        <div class="row">
+          <div><label for="g-domain">Domain you want</label><input id="g-domain" type="text" placeholder="dreamname.com" required></div>
+          <div class="row" style="gap:.75rem"><div><label for="g-budget">Ceiling (USD)</label><input id="g-budget" type="number" min="0" step="100" placeholder="5000"></div><div><label for="g-stage">Stage</label><select id="g-stage"><option>Researching</option><option>Owner found</option><option>Contacted</option><option>Negotiating</option><option>In escrow</option><option>Acquired</option><option>Passed</option></select></div></div>
+        </div>
+        <div><label for="g-note">Notes</label><input id="g-note" type="text" placeholder="Owner replied once in 2025; parked at a marketplace"></div>
+        <div class="btn-row"><button class="btn" type="submit">Add target</button></div>
+      </form>
+      <div class="table-wrap"><table><thead><tr><th>Domain</th><th>Stage</th><th class="n">Ceiling</th><th>Registry status</th><th>Notes</th><th></th></tr></thead><tbody id="g-body"></tbody></table></div>
+      <p class="small muted" style="margin-top:1rem">Refreshing the watchlist also re-checks targets. If one becomes available, it shows up under Alerts.</p>
+    </div>
+
+    <div class="tab-panel" role="tabpanel" id="p-alerts" aria-labelledby="t-alerts" hidden>
+      <div id="a-body"></div>
+    </div>
+
+    <div class="tab-panel" role="tabpanel" id="p-backup" aria-labelledby="t-backup" hidden>
+      <div class="grid grid-2">
+        <div class="panel"><h3>Export</h3><p>Download everything on your Desk as a JSON file.</p><button class="btn" type="button" id="b-export">Download backup</button></div>
+        <div class="panel"><h3>Import</h3><p>Restore a backup file. Names you already have are kept.</p><label class="visually-hidden" for="b-file">Backup file</label><input type="file" id="b-file" accept="application/json,.json"></div>
+      </div>
+      <div class="panel" style="margin-top:1.25rem"><h3>Clear the Desk</h3><p>Removes all watchlist names, targets and alerts from this browser.</p><button class="btn btn-ghost" type="button" id="b-clear">Clear everything</button></div>
+    </div>
+  </div>
+</section>
+<section class="section section-mist">
+  <div class="wrap split">
+    <article class="prose">
+      <h2>What the Desk watches</h2>
+      <ul>
+        <li><b>Expiry:</b> days left, flagged at 60, 30 and 7 days, and after expiry.</li>
+        <li><b>Status codes:</b> redemption and pending-delete mean a name is leaving its owner.</li>
+        <li><b>Registrar and nameserver changes</b> since your last refresh: often the first sign of a transfer, a sale or a hijack.</li>
+        <li><b>Targets that free up:</b> a wanted name that is no longer registered.</li>
+      </ul>
+      <p>The Desk checks when you open it and press refresh. For checks every hour with alerts to your phone and a human on call, use <a href="../services/#monitoring">managed monitoring</a>.</p>
+    </article>
+    <aside class="panel panel-sun">
+      <h3>Hand the list to us</h3>
+      <p>Send your portfolio and we’ll return an audit: renewals at risk, security gaps, names worth dropping and names worth selling.</p>
+      <a class="btn btn-small" href="../get-started/?goal=consult">Request a portfolio audit</a>
+    </aside>
+  </div>
+</section>
+
+</main>
+<footer class="site-footer">
+  <div class="wrap">
+    <div class="foot-grid">
+      <div>
+        <a class="logo" href="../">web<i aria-hidden="true"></i>works</a>
+        <p style="margin-top:.75rem">Free registry and DNS tools, a no-login domain desk, and a daily brief on the business of domains and websites. Human help when you need a name bought, protected or built on.</p>
+        <a class="btn btn-sun btn-small" href="../get-started/">Start a project</a>
+      </div>
+      <div><h4>Tools</h4><ul>
+        <li><a href="../tools/domain-lookup/">Domain lookup</a></li>
+        <li><a href="../tools/dns-lookup/">DNS lookup</a></li>
+        <li><a href="../tools/domain-health/">Domain health check</a></li>
+        <li><a href="../tools/lookalike-finder/">Lookalike finder</a></li>
+        <li><a href="../tools/name-generator/">Name generator</a></li>
+        <li><a href="../tools/">All tools</a></li></ul></div>
+      <div><h4>Read &amp; watch</h4><ul>
+        <li><a href="../brief/">Daily brief</a></li>
+        <li><a href="../news/">News wire</a></li>
+        <li><a href="../videos/">Videos</a></li>
+        <li><a href="../learn/">Guides</a></li>
+        <li><a href="../glossary/">Glossary</a></li></ul></div>
+      <div><h4>Work with us</h4><ul>
+        <li><a href="../services/">Services</a></li>
+        <li><a href="../advertise/">Advertise &amp; sponsor</a></li>
+        <li><a href="../contests/">Naming contest</a></li>
+        <li><a href="../support/">Support the project</a></li>
+        <li><a href="../careers/">Careers &amp; talent</a></li></ul></div>
+      <div><h4>Company</h4><ul>
+        <li><a href="../about/">About</a></li>
+        <li><a href="../contact/">Contact</a></li>
+        <li><a href="../privacy/">Privacy policy</a></li>
+        <li><a href="../terms/">Terms of use</a></li>
+        <li><a href="../cookies/">Cookie policy</a></li>
+        <li><a href="../disclaimer/">Trademark &amp; copyright</a></li></ul></div>
+    </div>
+    <div class="foot-legal">
+      <div>© <span data-year>2026</span> Web.Works. Original text, tools and design © Web.Works. All rights reserved.</div>
+      <div>Web.Works is an independent website and is not affiliated with, endorsed by or connected to any company, product or trademark named “WebWorks” or “Web Works”. Third-party names and marks belong to their owners. <a href="../disclaimer/">Full disclosure</a>.</div>
+      <div>Headlines and videos link to their original publishers. Registry data: IANA and registry RDAP services. DNS: Google Public DNS and Cloudflare. Content refreshed <time datetime="2026-11-23T15:55:39+00:00">Nov 23, 2026</time>.</div>
+    </div>
+  </div>
+</footer>
+<script src="../assets/js/config.js?v=d10110c0"></script>
+<script src="../assets/js/site.js?v=d10110c0"></script>
+<script src="../assets/js/domain.js?v=d10110c0" defer></script><script src="../assets/js/tools/desk.js?v=d10110c0" defer></script>
+</body>
+</html>

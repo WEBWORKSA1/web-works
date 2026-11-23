@@ -1,0 +1,148 @@
+<!doctype html>
+<html lang="en" data-base="../../">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>SPF, DKIM and DMARC for small businesses | Web.Works</title>
+<meta name="description" content="Why your email lands in spam and how to fix it: plain-language setup for SPF, DKIM and DMARC, the 2024 inbox-provider requirements, parked-domain protection and the next steps after DMARC.">
+<meta name="robots" content="index, follow, max-image-preview:large">
+<link rel="canonical" href="https://web.works/learn/email-authentication-spf-dkim-dmarc/">
+<meta property="og:type" content="article">
+<meta property="og:site_name" content="Web.Works">
+<meta property="og:title" content="SPF, DKIM and DMARC for small businesses">
+<meta property="og:description" content="Why your email lands in spam and how to fix it: plain-language setup for SPF, DKIM and DMARC, the 2024 inbox-provider requirements, parked-domain protection and the next steps after DMARC.">
+<meta property="og:url" content="https://web.works/learn/email-authentication-spf-dkim-dmarc/">
+<meta property="og:image" content="https://web.works/assets/img/og.png">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="theme-color" content="#2335e8">
+<link rel="icon" href="../../assets/img/favicon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="../../assets/img/apple-touch-icon.png">
+<link rel="manifest" href="../../manifest.webmanifest">
+<link rel="alternate" type="application/rss+xml" title="Web.Works daily brief" href="../../feed.xml">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@62..125,100..900&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="../../assets/css/site.css?v=d10110c0">
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6620975821265271" crossorigin="anonymous"></script>
+<script type="application/ld+json">[{"@context": "https://schema.org", "@type": "Organization", "name": "Web.Works", "url": "https://web.works/", "logo": "https://web.works/assets/img/icon-512.png"}, {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Home", "item": "https://web.works/"}, {"@type": "ListItem", "position": 2, "name": "Learn", "item": "https://web.works/learn/"}, {"@type": "ListItem", "position": 3, "name": "SPF, DKIM and DMARC for small businesses", "item": "https://web.works/learn/email-authentication-spf-dkim-dmarc/"}]}, {"@context": "https://schema.org", "@type": "Article", "headline": "SPF, DKIM and DMARC for small businesses", "description": "Why your email lands in spam and how to fix it: plain-language setup for SPF, DKIM and DMARC, the 2024 inbox-provider requirements, parked-domain protection and the next steps after DMARC.", "datePublished": "2026-11-23", "dateModified": "2026-11-23", "author": {"@type": "Organization", "name": "Web.Works"}, "publisher": {"@type": "Organization", "name": "Web.Works", "logo": {"@type": "ImageObject", "url": "https://web.works/assets/img/icon-512.png"}}, "mainEntityOfPage": "https://web.works/learn/email-authentication-spf-dkim-dmarc/"}]</script>
+
+</head>
+<body>
+<a class="skip" href="#main">Skip to content</a>
+<div class="topbar"><div class="wrap"><a href="https://web.works/contact">Contact, if you are interested in this website/domain name/Sponsorship/Advertisement/Partnership</a></div></div>
+<header class="site-header">
+  <div class="wrap">
+    <a class="logo" href="../../" aria-label="Web.Works home">web<i aria-hidden="true"></i>works</a>
+    <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="nav">Menu</button>
+    <nav class="nav" id="nav" aria-label="Main"><a href="../../tools/">Tools</a><a href="../../desk/">Desk</a><a href="../../brief/">Daily brief</a><a href="../../news/">News</a><a href="../../videos/">Videos</a><a href="../../learn/" aria-current="page">Learn</a><a href="../../services/">Services</a><a href="../../pricing/">Pricing</a><a class="btn" href="../../get-started/">Start a project</a></nav>
+  </div>
+</header>
+<main id="main">
+<section class="page-head"><div class="wrap"><nav class="breadcrumbs" aria-label="Breadcrumb"><a href="../../">Home</a> / <a href="../../learn/">Learn</a> / SPF, DKIM and DMARC for small businesses</nav><h1>SPF, DKIM and DMARC for small businesses</h1><p class="lede">Why your email lands in spam and how to fix it: plain-language setup for SPF, DKIM and DMARC, the 2024 inbox-provider requirements, parked-domain protection and the next steps after DMARC.</p></div></section><section class="section"><div class="wrap split"><article class="prose"><p class="muted small">11 min read. Updated Nov 23, 2026.</p><nav class="toc" aria-label="On this page"><strong>On this page</strong><ol><li><a href="#why-this-suddenly-matters">Why this suddenly matters</a></li><li><a href="#the-three-records-in-one-sentence-each">The three records in one sentence each</a></li><li><a href="#spf">SPF</a></li><li><a href="#dkim">DKIM</a></li><li><a href="#dmarc">DMARC</a></li><li><a href="#domains-that-never-send-email">Domains that never send email</a></li><li><a href="#after-dmarc-stronger-transport-and-a-logo">After DMARC: stronger transport and a logo</a></li><li><a href="#a-ten-minute-checklist">A ten-minute checklist</a></li></ol></nav><p>If your invoices land in spam, or someone sends phishing emails that appear to come from your domain, the fix is three DNS records. They take an afternoon to set up properly and they protect your brand for good.</p>
+<h2 id="why-this-suddenly-matters">Why this suddenly matters</h2>
+<p>In February 2024 Gmail and Yahoo started requiring that anyone sending more than 5,000 messages a day to their users authenticate with SPF and DKIM, publish a DMARC policy, keep spam complaint rates low and offer one-click unsubscribe. Microsoft announced similar rules for high-volume senders to its consumer mailboxes in 2025. Smaller senders aren't held to every rule, but the same checks feed spam filtering for everyone. Authenticated mail is simply more likely to reach the inbox.</p>
+<h2 id="the-three-records-in-one-sentence-each">The three records in one sentence each</h2>
+<ul>
+<li><strong>SPF</strong> lists the servers allowed to send email for your domain.</li>
+<li><strong>DKIM</strong> signs each message so receivers can verify it wasn't altered and really came from you.</li>
+<li><strong>DMARC</strong> tells receivers what to do when a message fails those checks, and sends you reports.</li>
+</ul>
+<p>Run our <a href="../../tools/domain-health/">domain health check</a> first. It shows which of the three you have.</p>
+<h2 id="spf">SPF</h2>
+<p>SPF is a TXT record on your bare domain:</p>
+<p><code>v=spf1 include:_spf.google.com include:servers.mcsv.net -all</code></p>
+<p>Each <code>include:</code> adds a sending service: your mailbox provider, your newsletter tool, your invoicing software. Your provider documents the exact include to use.</p>
+<p>Rules that trip people up:</p>
+<ul>
+<li><strong>One SPF record only.</strong> Two <code>v=spf1</code> records make SPF fail entirely. Merge them.</li>
+<li><strong>Ten DNS lookups maximum.</strong> Each include, <code>a</code>, <code>mx</code> and <code>redirect</code> costs lookups, and nested includes count too. Too many and SPF fails. Remove services you no longer use.</li>
+<li><strong>End with <code>-all</code> or <code>~all</code>.</strong> <code>-all</code> says "reject anything not listed", <code>~all</code> says "treat it as suspicious". Never use <code>+all</code>, which authorizes the whole internet.</li>
+</ul>
+<h2 id="dkim">DKIM</h2>
+<p>DKIM uses a pair of keys. Your email service signs outgoing mail with a private key, and you publish the public key in DNS under a <strong>selector</strong>:</p>
+<p><code>google._domainkey.example.com  TXT  "v=DKIM1; k=rsa; p=MIIBIjANBgkq..."</code></p>
+<p>You don't write this record yourself. Turn on DKIM in each sending service's admin console; it gives you the record (sometimes a CNAME instead of a TXT). Use 2048-bit keys where offered. Every service that sends as your domain needs its own DKIM setup.</p>
+<p>Because selectors are chosen by the provider, nobody can list all of a domain's DKIM keys from outside. Our health check tries the common ones.</p>
+<h2 id="dmarc">DMARC</h2>
+<p>DMARC is a TXT record at <code>_dmarc</code>:</p>
+<p><code>_dmarc.example.com  TXT  "v=DMARC1; p=none; rua=mailto:dmarc-reports@example.com"</code></p>
+<p>It does two things. First, it sets a <strong>policy</strong> for messages that fail: <code>none</code> (just report), <code>quarantine</code> (send to spam) or <code>reject</code> (refuse). Second, it requires <strong>alignment</strong>: the domain in the visible From address must match the domain checked by SPF or signed by DKIM. That's what stops someone using your name in the From line while sending from their own server.</p>
+<h3 id="rolling-dmarc-out-safely">Rolling DMARC out safely</h3>
+<ol>
+<li><strong>Start at <code>p=none</code></strong> with a reporting address. Reports arrive daily as XML from large mailbox providers; a free or low-cost DMARC report reader turns them into a list of who is sending as you.</li>
+<li><strong>Fix the gaps.</strong> For each legitimate service in the reports, add it to SPF and set up DKIM.</li>
+<li><strong>Move to <code>p=quarantine</code></strong>, optionally with <code>pct=25</code> to apply it to a quarter of failing mail first.</li>
+<li><strong>Move to <code>p=reject</code></strong> once reports show only legitimate, passing mail.</li>
+</ol>
+<p>Most small businesses can reach <code>reject</code> within a month or two.</p>
+<h2 id="domains-that-never-send-email">Domains that never send email</h2>
+<p>Every domain you own can be spoofed, including parked ones and old brand names. Attackers like them because nobody is watching. For any domain that doesn't send mail, publish:</p>
+<p><code>example.net         TXT  "v=spf1 -all"
+_dmarc.example.net  TXT  "v=DMARC1; p=reject;"
+example.net         MX   0 .</code></p>
+<p>The last line is a <strong>null MX</strong>: it tells the world the domain accepts no email, so messages aren't queued and retried.</p>
+<h2 id="after-dmarc-stronger-transport-and-a-logo">After DMARC: stronger transport and a logo</h2>
+<ul>
+<li><strong>MTA-STS</strong> tells other mail servers to require an encrypted, verified connection when delivering to you. It's a TXT record at <code>_mta-sts</code> plus a small policy file served over HTTPS.</li>
+<li><strong>TLS-RPT</strong> (<code>_smtp._tls</code> TXT) sends you reports when encrypted delivery fails.</li>
+<li><strong>BIMI</strong> lets supporting inboxes show your logo next to authenticated mail. It requires DMARC at enforcement, and the largest providers also require a mark certificate for the logo.</li>
+</ul>
+<h2 id="a-ten-minute-checklist">A ten-minute checklist</h2>
+<ol>
+<li>Run the <a href="../../tools/domain-health/">health check</a> on every domain you own.</li>
+<li>List every service that sends email as you: mailbox, newsletter, CRM, invoicing, support desk, website forms.</li>
+<li>Publish one SPF record covering them.</li>
+<li>Turn on DKIM in each.</li>
+<li>Publish DMARC at <code>p=none</code> with reports.</li>
+<li>Protect non-sending domains with the three records above.</li>
+<li>Calendar a reminder to raise DMARC in four weeks.</li>
+</ol>
+<p>If you'd rather have it done, we set up and monitor email authentication across whole portfolios. <a href="../../get-started/?goal=consult">Ask for a plan</a>.</p><div class="panel panel-sun" style="margin-top:2.5rem"><h3>Want this handled for you?</h3><p>Tell us the domain and the outcome you want. You get a written plan and a quote, with no obligation.</p><a class="btn" href="../../get-started/">Start a project</a></div></article><aside class="aside-sticky"><div class="panel"><h3>Tools for this guide</h3><ul><li><a href="../../tools/domain-health/">Domain health check</a></li><li><a href="../../tools/dns-lookup/">DNS lookup</a></li></ul></div><div class="panel" style="margin-top:1rem"><h3>Keep reading</h3><ul><li><a href="../../learn/who-owns-a-domain/">How to find out who owns a domain (and how to reach them)</a></li><li><a href="../../learn/buy-a-taken-domain/">How to buy a domain someone else owns</a></li><li><a href="../../learn/domain-expiry-lifecycle/">What happens when a domain expires</a></li><li><a href="../../learn/dns-records-explained/">DNS records explained</a></li></ul></div></aside></div></section>
+</main>
+<footer class="site-footer">
+  <div class="wrap">
+    <div class="foot-grid">
+      <div>
+        <a class="logo" href="../../">web<i aria-hidden="true"></i>works</a>
+        <p style="margin-top:.75rem">Free registry and DNS tools, a no-login domain desk, and a daily brief on the business of domains and websites. Human help when you need a name bought, protected or built on.</p>
+        <a class="btn btn-sun btn-small" href="../../get-started/">Start a project</a>
+      </div>
+      <div><h4>Tools</h4><ul>
+        <li><a href="../../tools/domain-lookup/">Domain lookup</a></li>
+        <li><a href="../../tools/dns-lookup/">DNS lookup</a></li>
+        <li><a href="../../tools/domain-health/">Domain health check</a></li>
+        <li><a href="../../tools/lookalike-finder/">Lookalike finder</a></li>
+        <li><a href="../../tools/name-generator/">Name generator</a></li>
+        <li><a href="../../tools/">All tools</a></li></ul></div>
+      <div><h4>Read &amp; watch</h4><ul>
+        <li><a href="../../brief/">Daily brief</a></li>
+        <li><a href="../../news/">News wire</a></li>
+        <li><a href="../../videos/">Videos</a></li>
+        <li><a href="../../learn/">Guides</a></li>
+        <li><a href="../../glossary/">Glossary</a></li></ul></div>
+      <div><h4>Work with us</h4><ul>
+        <li><a href="../../services/">Services</a></li>
+        <li><a href="../../advertise/">Advertise &amp; sponsor</a></li>
+        <li><a href="../../contests/">Naming contest</a></li>
+        <li><a href="../../support/">Support the project</a></li>
+        <li><a href="../../careers/">Careers &amp; talent</a></li></ul></div>
+      <div><h4>Company</h4><ul>
+        <li><a href="../../about/">About</a></li>
+        <li><a href="../../contact/">Contact</a></li>
+        <li><a href="../../privacy/">Privacy policy</a></li>
+        <li><a href="../../terms/">Terms of use</a></li>
+        <li><a href="../../cookies/">Cookie policy</a></li>
+        <li><a href="../../disclaimer/">Trademark &amp; copyright</a></li></ul></div>
+    </div>
+    <div class="foot-legal">
+      <div>© <span data-year>2026</span> Web.Works. Original text, tools and design © Web.Works. All rights reserved.</div>
+      <div>Web.Works is an independent website and is not affiliated with, endorsed by or connected to any company, product or trademark named “WebWorks” or “Web Works”. Third-party names and marks belong to their owners. <a href="../../disclaimer/">Full disclosure</a>.</div>
+      <div>Headlines and videos link to their original publishers. Registry data: IANA and registry RDAP services. DNS: Google Public DNS and Cloudflare. Content refreshed <time datetime="2026-11-23T15:55:39+00:00">Nov 23, 2026</time>.</div>
+    </div>
+  </div>
+</footer>
+<script src="../../assets/js/config.js?v=d10110c0"></script>
+<script src="../../assets/js/site.js?v=d10110c0"></script>
+
+</body>
+</html>

@@ -105,6 +105,7 @@ def update_news(sources):
                 feed = feedparser.parse(raw)
                 for e in feed.entries[:25]:
                     title = clean_text(e.get("title", ""), 30)
+                    title = re.sub(r"\s+via\s+@\w+(,\s*@\w+)*\s*$", "", title)
                     link = e.get("link", "")
                     if not title or not link.startswith("http"):
                         continue
@@ -206,9 +207,14 @@ def update_tlds():
         # enrich with type + manager from the root zone database
         try:
             page = fetch("https://www.iana.org/domains/root/db").decode("utf-8", "replace")
-            for m in re.finditer(r'<a href="/domains/root/db/([^".]+)\.html">[^<]*</a></span></td>\s*<td>([^<]*)</td>\s*<td>([^<]*)</td>', page):
-                t, typ, mgr = m.group(1).lower(), m.group(2).strip(), html.unescape(m.group(3).strip())
-                meta[t] = {"tld": t, "type": typ, "manager": mgr}
+            parsed = 0
+            for row in re.findall(r"<tr[^>]*>(.*?)</tr>", page, flags=re.S | re.I):
+                m = re.search(r"/domains/root/db/([a-z0-9-]+)\.html", row, flags=re.I)
+                cells = [html.unescape(re.sub(r"<[^>]+>", "", c)).strip() for c in re.findall(r"<td[^>]*>(.*?)</td>", row, flags=re.S | re.I)]
+                if m and len(cells) >= 3:
+                    meta[m.group(1).lower()] = {"tld": m.group(1).lower(), "type": cells[1], "manager": cells[2]}
+                    parsed += 1
+            STATUS["sources"].append({"kind": "data", "name": "IANA root zone database", "url": "https://www.iana.org/domains/root/db", "ok": parsed > 0, "count": parsed})
         except Exception as e:  # noqa: BLE001
             STATUS["sources"].append({"kind": "data", "name": "IANA root zone database", "ok": False, "error": str(e)[:160]})
         items = []

@@ -1,0 +1,35 @@
+<!--meta {"path": "tools/bulk-checker/", "title": "Bulk domain checker: up to 100 names, CSV export", "description": "Check up to 100 domain names at once. Fast DNS mode for availability, or registry mode for registrar and expiry dates. Export to CSV or add names to your watchlist.", "scripts": ["domain.js", "tools/bulk.js"], "nav": "tools/", "h1": "Bulk domain checker", "lede": "Paste up to 100 names, one per line or separated by commas. Bare words get .com added.", "crumbs": [["Tools", "tools/"], ["Bulk domain checker", "tools/bulk-checker/"]], "priority": "0.8"} -->
+<section class="section">
+  <div class="wrap split">
+    <div>
+      <form id="bulk-form" class="form">
+        <div><label for="bulk-in">Domain names</label><textarea id="bulk-in" rows="10" placeholder="brightharbor.com&#10;brightharbor.ca&#10;getbrightharbor&#10;harborbright.co"></textarea></div>
+        <fieldset><legend class="visually-hidden">Mode</legend>
+          <div class="choice-grid">
+            <label class="choice"><input type="radio" name="mode" value="quick" checked><span><strong>Fast</strong>DNS only. Registered or free in seconds.</span></label>
+            <label class="choice"><input type="radio" name="mode" value="full"><span><strong>Registry</strong>Adds registrar, expiry and status. Slower.</span></label>
+          </div>
+        </fieldset>
+        <div class="btn-row"><button class="btn" type="submit">Check names</button><span class="small muted" id="bulk-count"></span></div>
+      </form>
+    </div>
+    <aside class="panel">
+      <h3>Good for</h3>
+      <ul>
+        <li>Shortlists from a naming session</li>
+        <li>Checking every extension of your brand</li>
+        <li>Auditing a portfolio’s expiry dates in one go</li>
+      </ul>
+      <p class="small muted">Lookups run from your browser to public DNS and registry services. Some registries limit how often one visitor may query them; Registry mode pauses between names for that reason.</p>
+    </aside>
+  </div>
+</section>
+<section class="section" style="padding-top:0"><div class="wrap"><div id="bulk-out"></div></div></section>
+<section class="section section-mist">
+  <div class="wrap prose">
+    <h2>Fast vs registry mode</h2>
+    <p><b>Fast mode</b> asks DNS whether each name has nameservers. Registered names almost always do; a “no such name” answer from the extension’s servers means nobody holds it. It’s the quickest way to filter a long list.</p>
+    <p><b>Registry mode</b> reads each name’s RDAP record, the same data the <a href="{{base}}tools/domain-lookup/">domain lookup</a> shows. Use it when you need expiry dates or registrars, for example to plan renewals across a portfolio.</p>
+    <p>Found the perfect name but it’s taken? Our <a href="{{base}}services/#acquisition">acquisition desk</a> can approach the owner without revealing who you are.</p>
+  </div>
+</section>

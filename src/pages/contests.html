@@ -1,0 +1,66 @@
+<!--meta {"path": "contests/", "title": "Monthly naming contest: {{contest_title}}", "description": "Enter the free Web.Works monthly naming contest. This month: {{contest_title}}. Submit up to five names with domains; judged on fit, memorability and domain availability. Sponsor-funded prizes.", "nav": "", "h1": "The monthly naming contest", "lede": "One brief a month, free to enter, judged by people who name things for a living. The best name with a domain you can actually get wins the prize.", "crumbs": [["Contests", "contests/"]], "priority": "0.8", "freq": "weekly"} -->
+<section class="section">
+  <div class="wrap split">
+    <div>
+      <div class="panel panel-sun">
+        <p class="small" style="margin:0 0 .25rem">{{contest_month}} brief</p>
+        <h2 style="margin-bottom:.35rem">{{contest_title}}</h2>
+        <p class="lede" style="margin-bottom:1rem">{{contest_brief}}</p>
+        <dl class="kv">
+          <dt>Prize</dt><dd data-cfg="contestPrize">Announced at launch</dd>
+          <dt>Closes</dt><dd>{{contest_deadline_human}}, 23:59 UTC. <b data-countdown="{{contest_deadline}}"></b></dd>
+          <dt>Winner announced</dt><dd>{{contest_announce}}, in the daily brief</dd>
+          <dt>Entry fee</dt><dd>None</dd>
+        </dl>
+      </div>
+
+      <h2 style="margin-top:2.5rem">Enter</h2>
+      <form class="form panel" data-ww-form="contest" data-subject="Contest entry ({{contest_month}})" data-success="contest-done" novalidate>
+        <div class="hp" aria-hidden="true"><label>Leave empty<input name="_honey" tabindex="-1" autocomplete="off"></label></div>
+        <input type="hidden" name="round" value="{{contest_month}}: {{contest_title}}">
+        <div class="row">
+          <div><label for="c-name">Your name</label><input id="c-name" name="name" required autocomplete="name"></div>
+          <div><label for="c-email">Email</label><input id="c-email" name="email" type="email" required autocomplete="email"></div>
+        </div>
+        <div><label for="c-names">Your names <span class="hint">Up to five, one per line, each with its domain, e.g. Brightcup — brightcup.com</span></label><textarea id="c-names" name="entries" rows="5" required></textarea></div>
+        <div><label for="c-why">Why your favourite works <span class="hint">Two or three sentences</span></label><textarea id="c-why" name="rationale" rows="3"></textarea></div>
+        <label class="check"><input type="checkbox" name="age_confirm" value="18+" required> <span>I am 18 or older and the age of majority where I live.</span></label>
+        <label class="check"><input type="checkbox" name="rules_accepted" value="yes" required> <span>I accept the <a href="#rules">official rules</a> below.</span></label>
+        <button class="btn" type="submit">Submit my entry</button>
+      </form>
+      <div id="contest-done" class="record" tabindex="-1" hidden><div class="record-head"><div class="record-name">Entry received</div><span class="status ok">Good luck</span></div><p>We’ll email you if you are shortlisted. Check the names you submitted in the <a href="{{base}}tools/bulk-checker/">bulk checker</a> while you wait.</p></div>
+    </div>
+    <aside class="aside-sticky">
+      <div class="panel">
+        <h3>How entries are judged</h3>
+        <div class="table-wrap"><table><tbody>
+          <tr><td>Fit to the brief</td><td class="n">40%</td></tr>
+          <tr><td>Memorable when heard once</td><td class="n">25%</td></tr>
+          <tr><td>Domain available or attainable</td><td class="n">20%</td></tr>
+          <tr><td>Originality</td><td class="n">15%</td></tr>
+        </tbody></table></div>
+        <p class="small muted" style="margin-top:.75rem">Tools that help: <a href="{{base}}tools/name-generator/">name generator</a>, <a href="{{base}}tools/domain-score/">domain score</a>.</p>
+      </div>
+      <div class="panel" style="margin-top:1rem"><h3>Sponsor a round</h3><p>Fund the prize and your brand appears on this page, in every daily brief that month and in the winner announcement.</p><a href="{{base}}advertise/?interest=contest">Sponsor a contest</a></div>
+      <div class="panel" style="margin-top:1rem"><h3>Run your brief here</h3><p>Need a name for your own business? Fund a private or public round with your brief.</p><a href="{{base}}get-started/?goal=brand">Propose a brief</a></div>
+    </aside>
+  </div>
+</section>
+<section class="section section-mist" id="rules">
+  <div class="wrap prose">
+    <h2>Official rules</h2>
+    <ol>
+      <li><b>Organizer.</b> The contest is run by Web.Works. Contact us through the <a href="{{base}}contact/">contact page</a>.</li>
+      <li><b>No purchase necessary.</b> Entry is free. Buying anything does not improve your chances.</li>
+      <li><b>Eligibility.</b> Open to individuals aged 18 or over who have reached the age of majority where they live, where the contest is not prohibited or restricted by law. Void where prohibited. Employees and contractors of Web.Works and of that round’s sponsor, and their households, cannot win.</li>
+      <li><b>Entry period.</b> Each round opens on the first day of the month and closes on the last day of the month at 23:59 UTC. Late entries are not judged.</li>
+      <li><b>How to enter.</b> Submit up to five names per round through the form on this page. One submission per person per round; additional submissions replace earlier ones.</li>
+      <li><b>Judging.</b> A panel chosen by Web.Works scores entries using the published criteria. This is a contest of skill; chance plays no part. The panel’s decision is final.</li>
+      <li><b>Prize.</b> The prize for each round is shown on this page when the round opens and is funded by sponsors or supporters. If no eligible entry meets the brief, no prize is awarded and the prize rolls into the next round. Prizes are not transferable. Cash prizes are paid by bank transfer or PayPal within 30 days of the winner confirming eligibility. Winners are responsible for any taxes. Canadian winners may be asked to answer a time-limited skill-testing question.</li>
+      <li><b>Winner notice.</b> The winner is contacted by email and must reply within 14 days, or an alternate winner may be chosen. The winner’s first name and winning name are announced in the daily brief.</li>
+      <li><b>Your entries.</b> You confirm the names are your own ideas. Names generally cannot be owned until registered or trademarked, so you agree that the brief’s owner, Web.Works and the sponsor may use any name submitted, and that only the winning entry receives a prize. Do not register domains for names you submit to a round while it is open.</li>
+      <li><b>Privacy.</b> Entry details are used to run the contest and contact you, as described in our <a href="{{base}}privacy/">privacy policy</a>.</li>
+      <li><b>Changes.</b> Web.Works may cancel, suspend or modify a round if fraud, technical failure or any other factor impairs its integrity, and will post any change on this page.</li>
+    </ol>
+  </div>
+</section>

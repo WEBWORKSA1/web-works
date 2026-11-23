@@ -1,0 +1,47 @@
+<!--meta {"path": "tools/name-generator/", "title": "Business name & domain generator with availability check", "description": "Turn keywords into brandable business names: compounds, blends, prefixes, suffixes and invented words. Check every name's domain availability and save a shortlist.", "scripts": ["domain.js", "tools/names.js"], "nav": "tools/", "h1": "Name generator", "lede": "Give it two to four words about your business. It builds compounds, blends and invented names, and checks whether each domain is registered.", "crumbs": [["Tools", "tools/"], ["Name generator", "tools/name-generator/"]], "priority": "0.9"} -->
+<section class="section">
+  <div class="wrap">
+    <form id="ng-form" class="panel form">
+      <div class="row">
+        <div><label for="ng-k">Keywords <span class="hint">Separate with commas, e.g. harbor, bright, coffee</span></label><input id="ng-k" name="k" type="text" required placeholder="harbor, bright, coffee"></div>
+        <div class="row" style="gap:.75rem">
+          <div><label for="ng-tld">Extension</label><select id="ng-tld"><option>com</option><option>co</option><option>io</option><option>ai</option><option>app</option><option>net</option><option>ca</option><option>shop</option><option>works</option><option>studio</option></select></div>
+          <div><label for="ng-max">Max length</label><select id="ng-max"><option value="8">8 letters</option><option value="10">10 letters</option><option value="12" selected>12 letters</option><option value="16">16 letters</option></select></div>
+        </div>
+      </div>
+      <fieldset><legend style="font-size:1rem">Styles</legend>
+        <div class="chips" id="ng-styles">
+          <label class="check"><input type="checkbox" value="compound" checked> <span>Compounds</span></label>
+          <label class="check"><input type="checkbox" value="affix" checked> <span>Prefixes &amp; suffixes</span></label>
+          <label class="check"><input type="checkbox" value="blend" checked> <span>Blends</span></label>
+          <label class="check"><input type="checkbox" value="invented" checked> <span>Invented words</span></label>
+        </div>
+      </fieldset>
+      <div class="btn-row"><button class="btn" type="submit">Generate names</button><button class="btn btn-ghost" type="button" id="ng-check" disabled>Check all domains</button><span class="small muted" id="ng-note"></span></div>
+    </form>
+    <div id="ng-out" style="margin-top:1.5rem"></div>
+    <div class="panel" style="margin-top:1.5rem" id="ng-short-wrap">
+      <div class="section-head" style="margin-bottom:.75rem"><h3 style="margin:0">Your shortlist</h3><div class="btn-row"><button class="btn btn-ghost btn-small" type="button" id="ng-export">Download CSV</button><button class="btn btn-ghost btn-small" type="button" id="ng-clear">Clear</button></div></div>
+      <div class="chips" id="ng-short"><span class="muted small">Star names to keep them here. The list stays in this browser.</span></div>
+    </div>
+  </div>
+</section>
+<section class="section section-mist">
+  <div class="wrap split">
+    <article class="prose">
+      <h2>How to judge a generated name</h2>
+      <ol>
+        <li><b>Say it once.</b> If someone hearing it can’t spell it, you will spend money explaining it.</li>
+        <li><b>Check the meaning.</b> Search the word in the languages of your main markets.</li>
+        <li><b>Check trademarks.</b> Search the USPTO, CIPO (Canada) or EUIPO databases in your class of goods and services before you commit.</li>
+        <li><b>Check the history.</b> Look the domain up in the Wayback Machine; a spam past can follow it.</li>
+        <li><b>Check social handles.</b> Matching handles are a bonus, not a requirement.</li>
+      </ol>
+      <p>Our guide <a href="{{base}}learn/naming-a-business/">How to name a business and get the domain</a> goes deeper, and the <a href="{{base}}tools/domain-score/">domain score</a> rates any finalist.</p>
+    </article>
+    <aside class="aside-sticky">
+      <div class="panel panel-sun"><h3>Want a professional shortlist?</h3><p>Our naming sprint delivers screened names with attainable domains, usually within a week.</p><a class="btn btn-small" href="{{base}}get-started/?goal=brand">Start a naming sprint</a></div>
+      <div class="panel" style="margin-top:1rem"><h3>Or crowdsource it</h3><p>Our monthly contest puts your brief in front of namers.</p><a href="{{base}}contests/">See the contest</a></div>
+    </aside>
+  </div>
+</section>

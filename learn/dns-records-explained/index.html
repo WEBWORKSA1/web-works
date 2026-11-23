@@ -1,0 +1,200 @@
+<!doctype html>
+<html lang="en" data-base="../../">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>DNS records explained | Web.Works</title>
+<meta name="description" content="A plain-language guide to DNS: what A, AAAA, CNAME, MX, TXT, NS, SOA, CAA and DS records do, how TTL and propagation work, and a checklist for moving DNS without downtime.">
+<meta name="robots" content="index, follow, max-image-preview:large">
+<link rel="canonical" href="https://web.works/learn/dns-records-explained/">
+<meta property="og:type" content="article">
+<meta property="og:site_name" content="Web.Works">
+<meta property="og:title" content="DNS records explained">
+<meta property="og:description" content="A plain-language guide to DNS: what A, AAAA, CNAME, MX, TXT, NS, SOA, CAA and DS records do, how TTL and propagation work, and a checklist for moving DNS without downtime.">
+<meta property="og:url" content="https://web.works/learn/dns-records-explained/">
+<meta property="og:image" content="https://web.works/assets/img/og.png">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="theme-color" content="#2335e8">
+<link rel="icon" href="../../assets/img/favicon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="../../assets/img/apple-touch-icon.png">
+<link rel="manifest" href="../../manifest.webmanifest">
+<link rel="alternate" type="application/rss+xml" title="Web.Works daily brief" href="../../feed.xml">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@62..125,100..900&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="../../assets/css/site.css?v=d10110c0">
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6620975821265271" crossorigin="anonymous"></script>
+<script type="application/ld+json">[{"@context": "https://schema.org", "@type": "Organization", "name": "Web.Works", "url": "https://web.works/", "logo": "https://web.works/assets/img/icon-512.png"}, {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Home", "item": "https://web.works/"}, {"@type": "ListItem", "position": 2, "name": "Learn", "item": "https://web.works/learn/"}, {"@type": "ListItem", "position": 3, "name": "DNS records explained", "item": "https://web.works/learn/dns-records-explained/"}]}, {"@context": "https://schema.org", "@type": "Article", "headline": "DNS records explained", "description": "A plain-language guide to DNS: what A, AAAA, CNAME, MX, TXT, NS, SOA, CAA and DS records do, how TTL and propagation work, and a checklist for moving DNS without downtime.", "datePublished": "2026-11-23", "dateModified": "2026-11-23", "author": {"@type": "Organization", "name": "Web.Works"}, "publisher": {"@type": "Organization", "name": "Web.Works", "logo": {"@type": "ImageObject", "url": "https://web.works/assets/img/icon-512.png"}}, "mainEntityOfPage": "https://web.works/learn/dns-records-explained/"}]</script>
+
+</head>
+<body>
+<a class="skip" href="#main">Skip to content</a>
+<div class="topbar"><div class="wrap"><a href="https://web.works/contact">Contact, if you are interested in this website/domain name/Sponsorship/Advertisement/Partnership</a></div></div>
+<header class="site-header">
+  <div class="wrap">
+    <a class="logo" href="../../" aria-label="Web.Works home">web<i aria-hidden="true"></i>works</a>
+    <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="nav">Menu</button>
+    <nav class="nav" id="nav" aria-label="Main"><a href="../../tools/">Tools</a><a href="../../desk/">Desk</a><a href="../../brief/">Daily brief</a><a href="../../news/">News</a><a href="../../videos/">Videos</a><a href="../../learn/" aria-current="page">Learn</a><a href="../../services/">Services</a><a href="../../pricing/">Pricing</a><a class="btn" href="../../get-started/">Start a project</a></nav>
+  </div>
+</header>
+<main id="main">
+<section class="page-head"><div class="wrap"><nav class="breadcrumbs" aria-label="Breadcrumb"><a href="../../">Home</a> / <a href="../../learn/">Learn</a> / DNS records explained</nav><h1>DNS records explained</h1><p class="lede">A plain-language guide to DNS: what A, AAAA, CNAME, MX, TXT, NS, SOA, CAA and DS records do, how TTL and propagation work, and a checklist for moving DNS without downtime.</p></div></section><section class="section"><div class="wrap split"><article class="prose"><p class="muted small">9 min read. Updated Nov 23, 2026.</p><nav class="toc" aria-label="On this page"><strong>On this page</strong><ol><li><a href="#how-a-lookup-works">How a lookup works</a></li><li><a href="#the-records-youll-use">The records you&#x27;ll use</a></li><li><a href="#ttl-and-propagation">TTL and &quot;propagation&quot;</a></li><li><a href="#moving-dns-without-downtime">Moving DNS without downtime</a></li></ol></nav><p>DNS is the internet's directory. When someone types your domain, their device asks DNS where to go, and DNS answers from the records you publish. Most website and email problems come down to a missing or wrong record, so a little DNS knowledge saves a lot of support tickets.</p>
+<h2 id="how-a-lookup-works">How a lookup works</h2>
+<ol>
+<li>Your device asks a <strong>resolver</strong>, usually run by your internet provider or a public service like 1.1.1.1 or 8.8.8.8.</li>
+<li>If the resolver doesn't have the answer cached, it asks the <strong>root servers</strong>, which point it to the servers for the extension (.com, .ca, .works).</li>
+<li>Those servers point it to your domain's <strong>authoritative nameservers</strong>, set at your registrar.</li>
+<li>Your nameservers return the record, and the resolver caches it for the record's <strong>TTL</strong>.</li>
+</ol>
+<p>That's why the nameservers in your registry record matter: they decide who holds the truth about your domain.</p>
+<h2 id="the-records-youll-use">The records you'll use</h2>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+<th>Record</th>
+<th>Example</th>
+<th>Use</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>A</td>
+<td><code>@ A 192.0.2.10</code></td>
+<td>Points a name to an IPv4 address</td>
+</tr>
+<tr>
+<td>AAAA</td>
+<td><code>@ AAAA 2001:db8::10</code></td>
+<td>Points a name to an IPv6 address</td>
+</tr>
+<tr>
+<td>CNAME</td>
+<td><code>www CNAME example.com.</code></td>
+<td>Makes one name an alias of another</td>
+</tr>
+<tr>
+<td>MX</td>
+<td><code>@ MX 10 mail.example.com.</code></td>
+<td>Says which servers receive your email</td>
+</tr>
+<tr>
+<td>TXT</td>
+<td><code>@ TXT "v=spf1 -all"</code></td>
+<td>Text policies and verification codes</td>
+</tr>
+<tr>
+<td>NS</td>
+<td><code>@ NS ns1.dnshost.net.</code></td>
+<td>Names the authoritative nameservers</td>
+</tr>
+<tr>
+<td>SOA</td>
+<td>(one per zone)</td>
+<td>Primary server, contact and timers</td>
+</tr>
+<tr>
+<td>CAA</td>
+<td><code>@ CAA 0 issue "letsencrypt.org"</code></td>
+<td>Which authorities may issue certificates</td>
+</tr>
+<tr>
+<td>SRV</td>
+<td><code>_sip._tcp SRV 10 5 5060 sip.example.com.</code></td>
+<td>Locates services like voice or chat</td>
+</tr>
+<tr>
+<td>DS</td>
+<td>(at the registry)</td>
+<td>Links your DNSSEC keys to the parent zone</td>
+</tr>
+<tr>
+<td>HTTPS</td>
+<td><code>@ HTTPS 1 . alpn="h3,h2"</code></td>
+<td>Connection hints for faster HTTPS</td>
+</tr>
+</tbody>
+</table></div>
+<p><code>@</code> means the bare domain itself (example.com).</p>
+<h3 id="a-and-aaaa">A and AAAA</h3>
+<p>The basic records for a website. Most sites need an A record; an AAAA record adds IPv6 support. Hosting providers give you the values.</p>
+<h3 id="cname-and-the-apex-problem">CNAME and the apex problem</h3>
+<p>A CNAME says "this name is the same as that name". It's perfect for <code>www</code> or for pointing <code>shop.example.com</code> at a hosted store. But the DNS standard doesn't allow a CNAME on the bare domain, because the bare domain must also hold NS, SOA and usually MX records. Many DNS hosts solve this with an <strong>ALIAS</strong>, <strong>ANAME</strong> or "CNAME flattening" feature that behaves like a CNAME but returns A records.</p>
+<h3 id="mx">MX</h3>
+<p>MX records list mail servers with a priority number: lower numbers are tried first. A domain that receives no email can publish a single null MX (<code>MX 0 .</code>).</p>
+<h3 id="txt">TXT</h3>
+<p>TXT records hold free text, which is why they carry so many policies: SPF, DMARC (at <code>_dmarc</code>), DKIM keys, and verification codes for search consoles and SaaS tools. You can have many TXT records, except that SPF must be a single record. See <a href="../email-authentication-spf-dkim-dmarc/">SPF, DKIM and DMARC</a>.</p>
+<h3 id="ns-and-soa">NS and SOA</h3>
+<p>NS records name your authoritative nameservers. The set at the registry is what really counts; the NS records inside your zone should match it. The SOA record holds administrative timers you rarely need to touch.</p>
+<h3 id="caa">CAA</h3>
+<p>CAA lists which certificate authorities may issue TLS certificates for your domain. Without it, any public authority may. Add one <code>issue</code> line per authority you use, and an <code>iodef</code> line for reports.</p>
+<h3 id="ds-and-dnssec">DS and DNSSEC</h3>
+<p>DNSSEC signs your records so resolvers can detect forgeries. Your DNS host signs the zone; you publish a <strong>DS</strong> record at your registrar to connect it to the chain of trust from the root. If you move DNS hosts, update or remove the DS record first, or your domain will stop resolving for validating resolvers.</p>
+<h2 id="ttl-and-propagation">TTL and "propagation"</h2>
+<p>Every record has a TTL in seconds. Resolvers cache the answer for that long. "Propagation" is really just caches expiring. To make a change go live fast:</p>
+<ol>
+<li>A day before, lower the TTL on the records you'll change to 300 seconds.</li>
+<li>Make the change.</li>
+<li>Check it with our <a href="../../tools/dns-lookup/">DNS lookup</a>, using <strong>Compare</strong> to see two large resolvers side by side.</li>
+<li>Raise the TTL back to an hour or more.</li>
+</ol>
+<p>Nameserver changes at the registry take longer, because the extension's servers cache NS records too, often for up to two days.</p>
+<h2 id="moving-dns-without-downtime">Moving DNS without downtime</h2>
+<ol>
+<li><strong>Export the old zone.</strong> Every record, including obscure TXT verification records.</li>
+<li><strong>Recreate it at the new host</strong> before you switch anything. Compare record by record.</li>
+<li><strong>Lower TTLs</strong> at the old host a day ahead.</li>
+<li><strong>Handle DNSSEC:</strong> remove the DS record at the registrar, wait for the old TTL, then switch.</li>
+<li><strong>Change nameservers</strong> at the registrar.</li>
+<li><strong>Keep the old host running</strong> for at least 48 hours.</li>
+<li><strong>Re-enable DNSSEC</strong> at the new host and publish the new DS record.</li>
+<li><strong>Run a <a href="../../tools/domain-health/">health check</a></strong> to confirm web and email.</li>
+</ol>
+<p>Most migration outages are a forgotten record. The export step is the one not to skip.</p><div class="panel panel-sun" style="margin-top:2.5rem"><h3>Want this handled for you?</h3><p>Tell us the domain and the outcome you want. You get a written plan and a quote, with no obligation.</p><a class="btn" href="../../get-started/">Start a project</a></div></article><aside class="aside-sticky"><div class="panel"><h3>Tools for this guide</h3><ul><li><a href="../../tools/dns-lookup/">DNS lookup</a></li><li><a href="../../tools/domain-health/">Domain health check</a></li></ul></div><div class="panel" style="margin-top:1rem"><h3>Keep reading</h3><ul><li><a href="../../learn/who-owns-a-domain/">How to find out who owns a domain (and how to reach them)</a></li><li><a href="../../learn/buy-a-taken-domain/">How to buy a domain someone else owns</a></li><li><a href="../../learn/domain-expiry-lifecycle/">What happens when a domain expires</a></li><li><a href="../../learn/email-authentication-spf-dkim-dmarc/">SPF, DKIM and DMARC for small businesses</a></li></ul></div></aside></div></section>
+</main>
+<footer class="site-footer">
+  <div class="wrap">
+    <div class="foot-grid">
+      <div>
+        <a class="logo" href="../../">web<i aria-hidden="true"></i>works</a>
+        <p style="margin-top:.75rem">Free registry and DNS tools, a no-login domain desk, and a daily brief on the business of domains and websites. Human help when you need a name bought, protected or built on.</p>
+        <a class="btn btn-sun btn-small" href="../../get-started/">Start a project</a>
+      </div>
+      <div><h4>Tools</h4><ul>
+        <li><a href="../../tools/domain-lookup/">Domain lookup</a></li>
+        <li><a href="../../tools/dns-lookup/">DNS lookup</a></li>
+        <li><a href="../../tools/domain-health/">Domain health check</a></li>
+        <li><a href="../../tools/lookalike-finder/">Lookalike finder</a></li>
+        <li><a href="../../tools/name-generator/">Name generator</a></li>
+        <li><a href="../../tools/">All tools</a></li></ul></div>
+      <div><h4>Read &amp; watch</h4><ul>
+        <li><a href="../../brief/">Daily brief</a></li>
+        <li><a href="../../news/">News wire</a></li>
+        <li><a href="../../videos/">Videos</a></li>
+        <li><a href="../../learn/">Guides</a></li>
+        <li><a href="../../glossary/">Glossary</a></li></ul></div>
+      <div><h4>Work with us</h4><ul>
+        <li><a href="../../services/">Services</a></li>
+        <li><a href="../../advertise/">Advertise &amp; sponsor</a></li>
+        <li><a href="../../contests/">Naming contest</a></li>
+        <li><a href="../../support/">Support the project</a></li>
+        <li><a href="../../careers/">Careers &amp; talent</a></li></ul></div>
+      <div><h4>Company</h4><ul>
+        <li><a href="../../about/">About</a></li>
+        <li><a href="../../contact/">Contact</a></li>
+        <li><a href="../../privacy/">Privacy policy</a></li>
+        <li><a href="../../terms/">Terms of use</a></li>
+        <li><a href="../../cookies/">Cookie policy</a></li>
+        <li><a href="../../disclaimer/">Trademark &amp; copyright</a></li></ul></div>
+    </div>
+    <div class="foot-legal">
+      <div>© <span data-year>2026</span> Web.Works. Original text, tools and design © Web.Works. All rights reserved.</div>
+      <div>Web.Works is an independent website and is not affiliated with, endorsed by or connected to any company, product or trademark named “WebWorks” or “Web Works”. Third-party names and marks belong to their owners. <a href="../../disclaimer/">Full disclosure</a>.</div>
+      <div>Headlines and videos link to their original publishers. Registry data: IANA and registry RDAP services. DNS: Google Public DNS and Cloudflare. Content refreshed <time datetime="2026-11-23T15:55:39+00:00">Nov 23, 2026</time>.</div>
+    </div>
+  </div>
+</footer>
+<script src="../../assets/js/config.js?v=d10110c0"></script>
+<script src="../../assets/js/site.js?v=d10110c0"></script>
+
+</body>
+</html>

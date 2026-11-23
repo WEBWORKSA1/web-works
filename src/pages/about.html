@@ -1,0 +1,27 @@
+<!--meta {"path": "about/", "title": "About Web.Works", "description": "Web.Works is an independent site with free registry and DNS tools, a daily domain and web brief, and services for buying, protecting and building on domain names. How it works and where the data comes from.", "nav": "", "h1": "About Web.Works", "lede": "An open workbench for domain names and the websites built on them: free tools anyone can use, fresh reading every day, and a desk of people for the jobs tools can’t do.", "crumbs": [["About", "about/"]], "priority": "0.6"} -->
+<section class="section">
+  <div class="wrap split">
+    <article class="prose">
+      <h2>What we do</h2>
+      <p>Web.Works began as a domain management service: monitoring, consulting, branding and acquisitions for portfolios. That work continues. What changed is that the tools we use every day are now public, free and in the open, because most domain problems start with a question anyone should be able to answer: who holds this name, when does it expire, is my email set up right, is someone impersonating us?</p>
+      <h2>What we believe</h2>
+      <ul>
+        <li><b>Public data should be easy to read.</b> Registration and DNS data is public. You shouldn’t need an account or a credit card to see it.</li>
+        <li><b>Your searches are yours.</b> Lookups go from your browser straight to registries and public resolvers. We don’t log them, sell them or sit in the middle.</li>
+        <li><b>Plain words.</b> Every tool explains its result and what to do next.</li>
+        <li><b>Fees in the open.</b> Our quotes separate our fees from third-party costs, and our <a href="{{base}}tools/deal-calculator/">deal calculator</a> shows the rest.</li>
+      </ul>
+      <h2 id="how">How the site keeps itself fresh</h2>
+      <p>An automated job runs every six hours. It collects headlines and new videos from the sources below, downloads the IANA root zone and RDAP bootstrap files, rebuilds the daily brief, the news wire, the video shelf and the sitemap, and publishes the result. Each day gets its own archived brief. Headlines always link to the original publisher; we show only the title, the source and a short excerpt.</p>
+      <h2 id="sources">Sources</h2>
+      {{sources_list}}
+      <p class="small muted">Registry data comes from each registry’s RDAP service, located through IANA’s bootstrap registry. DNS answers come from Google Public DNS and Cloudflare’s 1.1.1.1. Root zone data comes from IANA. Want a source added or removed? <a href="{{base}}contact/">Tell us</a>.</p>
+      <h2>Editorial standards</h2>
+      <p>Guides are written and checked by people, cite primary sources where a fact could change, and carry an updated date. Sponsored placements are labelled. If you spot an error, the <a href="{{base}}contact/">contact form</a> reaches the editor.</p>
+    </article>
+    <aside class="aside-sticky">
+      <div class="panel"><h3>At a glance</h3><dl class="kv"><dt>Tools</dt><dd>{{tool_count}}</dd><dt>Guides</dt><dd>{{guide_count}}</dd><dt>Glossary</dt><dd>{{glossary_count}} terms</dd><dt>Live sources</dt><dd>{{source_count}}</dd><dt>Last refresh</dt><dd>{{updated}}</dd></dl></div>
+      <div class="panel panel-sun" style="margin-top:1rem"><h3>Work with us</h3><ul><li><a href="{{base}}get-started/">Start a project</a></li><li><a href="{{base}}advertise/">Advertise or partner</a></li><li><a href="{{base}}careers/">Join the talent network</a></li><li><a href="{{base}}support/">Support the project</a></li></ul></div>
+    </aside>
+  </div>
+</section>

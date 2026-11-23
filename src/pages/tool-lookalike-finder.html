@@ -1,0 +1,49 @@
+<!--meta {"path": "tools/lookalike-finder/", "title": "Lookalike domain finder: typosquatting check", "description": "Free typosquatting checker. Generates typo, homoglyph, hyphen, keyword and extension variants of your domain and shows which ones are registered and can receive email.", "scripts": ["domain.js", "tools/lookalike.js"], "nav": "tools/", "head": false, "priority": "0.9"} -->
+<section class="console console-small">
+  <div class="wrap">
+    <nav class="breadcrumbs" aria-label="Breadcrumb" style="color:#cfd5ff"><a href="{{base}}">Home</a> / <a href="{{base}}tools/">Tools</a> / Lookalike finder</nav>
+    <h1>Lookalike domain finder</h1>
+    <p class="lede">Builds the typos and look-alikes a phisher would register for your domain, then checks live DNS to show which ones already exist and which can receive email.</p>
+    <form class="console-form" id="la-form" role="search">
+      <label class="visually-hidden" for="la-q">Your domain</label>
+      <input id="la-q" name="d" placeholder="yourbrand.com" autocomplete="off" autocapitalize="off" spellcheck="false">
+      <button class="btn" type="submit">Scan</button>
+    </form>
+    <div class="console-hints" id="la-opts">
+      <span>Include:</span>
+      <label class="check" style="color:#fff;font-weight:500;margin:0"><input type="checkbox" value="typo" checked> <span>Typos</span></label>
+      <label class="check" style="color:#fff;font-weight:500;margin:0"><input type="checkbox" value="glyph" checked> <span>Look-alike letters</span></label>
+      <label class="check" style="color:#fff;font-weight:500;margin:0"><input type="checkbox" value="word" checked> <span>Added words</span></label>
+      <label class="check" style="color:#fff;font-weight:500;margin:0"><input type="checkbox" value="tld" checked> <span>Other extensions</span></label>
+    </div>
+  </div>
+</section>
+<section class="section" style="padding-top:2rem">
+  <div class="wrap"><div id="la-out"><div class="empty">Enter your domain to scan up to 300 variants. It takes about a minute and runs entirely in your browser.</div></div></div>
+</section>
+<section class="section section-mist">
+  <div class="wrap split">
+    <article class="prose">
+      <h2>How attackers pick lookalikes</h2>
+      <ul>
+        <li><b>Typos:</b> a missing, doubled or swapped letter, or a neighbouring key on the keyboard (exampel.com, exanple.com).</li>
+        <li><b>Look-alike letters:</b> rn for m, vv for w, 0 for o, 1 for l. These fool people reading quickly on a phone.</li>
+        <li><b>Added words:</b> login, secure, support, pay or app attached to your name. Common in fake invoice and password-reset emails.</li>
+        <li><b>Other extensions:</b> your name on .co, .net or a cheap new extension.</li>
+      </ul>
+      <h2>Reading the results</h2>
+      <p>A variant marked <b>registered</b> exists in DNS. That alone isn’t proof of bad intent: many are parked or owned defensively, sometimes by you. The flag to act on is <b>accepts email</b>: a lookalike with MX records can send and receive mail that pretends to be you.</p>
+      <h2>What to do about one</h2>
+      <ol>
+        <li>Look it up to find the registrar and its abuse contact.</li>
+        <li>If it hosts phishing or malware, report it to the registrar and to Google Safe Browsing.</li>
+        <li>If it uses your trademark in bad faith, a UDRP complaint can transfer it to you.</li>
+        <li>Register the most dangerous unregistered variants yourself. A handful of defensive names costs less than one incident.</li>
+      </ol>
+      <p>More in the guide: <a href="{{base}}learn/typosquatting-protection/">Protecting your brand from lookalike domains</a>.</p>
+    </article>
+    <aside class="aside-sticky">
+      <div class="panel panel-sun"><h3>Monitor them continuously</h3><p>New lookalikes appear every week. Our monitoring re-scans your brands, watches certificate logs and alerts a person when one goes live.</p><a class="btn btn-small" href="{{base}}get-started/?goal=monitor">Set up monitoring</a></div>
+    </aside>
+  </div>
+</section>

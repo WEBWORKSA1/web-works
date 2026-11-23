@@ -1,0 +1,140 @@
+<!--meta {"path": "", "title": "Web.Works: domain lookup, DNS tools and a daily web brief", "description": "Look up who holds any domain, check DNS and email health, find lookalike domains, and read a daily brief on domains and websites. Free, no account. Expert help to buy, sell, protect and build on names.", "scripts": ["domain.js"], "head": false, "priority": "1.0", "freq": "daily"} -->
+<section class="console">
+  <div class="wrap">
+    <h1>Look up any domain. Then do something about it.</h1>
+    <p class="lede">Registry records, DNS and email health, lookalike scans and a fresh daily brief, free and without an account. When a name needs buying, selling, protecting or building on, our desk takes it from there.</p>
+    <form class="console-form" data-lookup="home-out" role="search">
+      <label class="visually-hidden" for="home-q">Domain name</label>
+      <input id="home-q" name="d" placeholder="yourbrand.com" autocomplete="off" autocapitalize="off" spellcheck="false" inputmode="url">
+      <button class="btn" type="submit">Look up</button>
+    </form>
+    <div class="console-hints"><span>Today’s generated ideas:</span>{{names_today}}</div>
+    <div class="console-out" id="home-out"></div>
+  </div>
+</section>
+
+<section class="section">
+  <div class="wrap">
+    <div class="stats">
+      <div><b>{{tld_count}}</b><span>extensions in the root zone, synced from IANA</span></div>
+      <div><b>{{tool_count}}</b><span>free tools that run in your browser</span></div>
+      <div><b>{{source_count}}</b><span>news and video sources, refreshed every 6 hours</span></div>
+      <div><b>{{guide_count}}</b><span>original guides, plus {{glossary_count}} glossary terms</span></div>
+    </div>
+  </div>
+</section>
+
+<section class="section" style="padding-top:0">
+  <div class="wrap">
+    <div class="section-head"><div><h2>The workbench</h2><p>Registry-grade answers without signing up. Results stay in your browser.</p></div><a href="{{base}}tools/">All tools</a></div>
+    {{tools_directory}}
+  </div>
+</section>
+
+<section class="section section-mist">
+  <div class="wrap split">
+    <div>
+      <div class="section-head"><div><h2>Latest from the wire</h2><p>Refreshed {{updated}}. Each headline opens the original publisher.</p></div><a href="{{base}}news/">Full news wire</a></div>
+      {{news_home}}
+    </div>
+    <aside>
+      <div class="panel panel-ultra">
+        <h3>Daily brief: {{brief_today_long}}</h3>
+        <p>Top stories by topic, a term and a tip, an extension of the day and fresh name ideas, on one page.</p>
+        <a class="btn btn-sun" href="{{base}}brief/{{brief_today}}/">Read today’s brief</a>
+      </div>
+      <div class="panel panel-sun" style="margin-top:1rem">
+        <h3>Naming contest, {{contest_month}}</h3>
+        <p><b>{{contest_title}}.</b> {{contest_brief}}</p>
+        <p class="small"><span data-countdown="{{contest_deadline}}">Open</span></p>
+        <a class="btn btn-small" href="{{base}}contests/">Enter the contest</a>
+      </div>
+    </aside>
+  </div>
+</section>
+
+<section class="section section-ink" id="services">
+  <div class="wrap">
+    <div class="section-head"><div><h2>When a domain needs more than a lookup</h2><p>The same four service lines web.works has always offered, now with the tools in the open.</p></div><a class="btn btn-sun" href="{{base}}get-started/">Start a project</a></div>
+    <div class="grid grid-4">
+      <div><h3>Monitoring &amp; protection</h3><p class="muted">Expiry, DNS and lookalike watch across your portfolio, with a named person to call when something changes.</p><a href="{{base}}services/#monitoring">How monitoring works</a></div>
+      <div><h3>Acquisition</h3><p class="muted">We find the owner of a taken name, negotiate anonymously within your budget and close through escrow.</p><a href="{{base}}services/#acquisition">How we buy names</a></div>
+      <div><h3>Naming &amp; branding</h3><p class="muted">Shortlists of names that are available or attainable, screened for pronunciation, meaning and trademark conflicts.</p><a href="{{base}}services/#branding">See the naming process</a></div>
+      <div><h3>Consulting &amp; builds</h3><p class="muted">Portfolio reviews, DNS and email hardening, and fast, ad-ready websites on the names you already own.</p><a href="{{base}}services/#consulting">What we review</a></div>
+    </div>
+  </div>
+</section>
+
+<section class="section">
+  <div class="wrap split">
+    <div>
+      <h2>Every domain you care about, on one desk</h2>
+      <p class="lede">Add names to a watchlist and the Desk reads their registry records each time you open it: days to expiry, registrar, status changes and nameservers. Track names you want to buy, with budget and stage. Export reminders to your calendar.</p>
+      <p>No account and no server: the list lives in this browser, and you can export it at any time.</p>
+      <div class="btn-row"><a class="btn" href="{{base}}desk/">Open your Desk</a><a class="btn btn-ghost" href="{{base}}services/#monitoring">Need 24/7 monitoring instead?</a></div>
+    </div>
+    <div class="record" aria-hidden="true">
+      <div class="record-head"><div class="record-name" style="font-size:1.25rem">Watchlist preview</div><span class="status info">3 names</span></div>
+      <dl>
+        <dt>yourbrand.com</dt><dd><span class="status ok">Expires in 287 days</span></dd>
+        <dt>yourbrand.ca</dt><dd><span class="status warn">Expires in 21 days</span></dd>
+        <dt>yourbrand.co</dt><dd><span class="status bad">Lookalike, registered by someone else</span></dd>
+      </dl>
+    </div>
+  </div>
+</section>
+
+<section class="section section-mist">
+  <div class="wrap">
+    <div class="section-head"><div><h2>Watch and learn</h2><p>New uploads from channels that teach search, web development and site building.</p></div><a href="{{base}}videos/">All videos</a></div>
+    {{videos_home}}
+  </div>
+</section>
+
+<section class="section">
+  <div class="wrap">
+    <div class="section-head"><div><h2>Guides</h2><p>Original, practical and written for owners.</p></div><a href="{{base}}learn/">All guides</a></div>
+    {{guides_short}}
+  </div>
+</section>
+
+<section class="section section-mist">
+  <div class="wrap split">
+    <div>
+      <h2>Tell us about the domain</h2>
+      <p class="lede">Want a name you can’t get, an offer on one you own, or a site built on it? Leave the basics and we’ll reply with a plan and a quote.</p>
+      <p class="small muted">Prefer more detail? Use the <a href="{{base}}get-started/">full project planner</a>.</p>
+    </div>
+    <div class="panel">
+      <form class="form" data-ww-form="quick-lead" data-subject="Quick lead (home)" data-done="Received. Expect a reply by email with next steps." novalidate>
+        <div class="hp" aria-hidden="true"><label>Leave empty<input name="_honey" tabindex="-1" autocomplete="off"></label></div>
+        <div>
+          <label for="ql-goal">I want to</label>
+          <select id="ql-goal" name="goal" required>
+            <option value="">Choose one</option>
+            <option value="buy">Buy a domain someone else owns</option>
+            <option value="sell">Sell a domain I own</option>
+            <option value="monitor">Monitor and protect my domains</option>
+            <option value="brand">Find a name for a business</option>
+            <option value="build">Build a website on my domain</option>
+            <option value="consult">Get advice on my portfolio</option>
+          </select>
+        </div>
+        <div class="row">
+          <div><label for="ql-domain">Domain <span class="hint">if you have one in mind</span></label><input id="ql-domain" name="domain" type="text" placeholder="example.com"></div>
+          <div><label for="ql-email">Your email</label><input id="ql-email" name="email" type="email" required autocomplete="email"></div>
+        </div>
+        <label class="check"><input type="checkbox" name="consent" value="yes" required> <span>You may contact me about this request. See the <a href="{{base}}privacy/">privacy policy</a>.</span></label>
+        <button class="btn" type="submit">Send my request</button>
+      </form>
+    </div>
+  </div>
+</section>
+
+<section class="section">
+  <div class="wrap grid grid-3">
+    <div class="panel"><h3>Keep the tools free</h3><p>Support covers servers, data, promotion and contest prizes. Every contribution is put to a stated use.</p><a href="{{base}}support/">Support the project</a></div>
+    <div class="panel"><h3>Reach domain owners</h3><p>Sponsor a tool, the daily brief or a monthly contest and appear where decisions about names get made.</p><a href="{{base}}advertise/">Advertise &amp; sponsor</a></div>
+    <div class="panel"><h3>Work with us</h3><p>Researchers, writers, brokers, designers and developers: join the talent network for paid projects.</p><a href="{{base}}careers/">Careers &amp; talent</a></div>
+  </div>
+</section>

@@ -1,0 +1,52 @@
+<!--meta {"path": "support/", "title": "Support Web.Works: keep the tools free", "description": "Support the free domain tools, daily brief and naming contests. Contributions fund operations, promotion and marketing, hiring writers and developers, and contest prizes.", "nav": "", "h1": "Keep the tools free", "lede": "No paywalls, no account walls and no selling your searches. Support pays for the people and the prizes that keep it that way.", "crumbs": [["Support", "support/"]], "priority": "0.6"} -->
+<section class="section">
+  <div class="wrap">
+    <h2>Where your contribution goes</h2>
+    <div class="grid grid-4" style="margin-bottom:1rem">
+      <div class="panel"><h3>Operations</h3><div class="meter"><i style="width:35%"></i></div><p class="small muted">35% of support</p><p>Data feeds, domains, monitoring infrastructure and the time to keep {{tool_count}} tools working.</p></div>
+      <div class="panel"><h3>Promotion &amp; marketing</h3><div class="meter"><i style="width:20%"></i></div><p class="small muted">20%</p><p>Getting free tools in front of the small businesses that need them most.</p></div>
+      <div class="panel"><h3>Hiring talent</h3><div class="meter"><i style="width:20%"></i></div><p class="small muted">20%</p><p>Paying writers, researchers and developers from the <a href="{{base}}careers/">talent network</a>.</p></div>
+      <div class="panel"><h3>Contests &amp; prizes</h3><div class="meter"><i style="width:25%"></i></div><p class="small muted">25%</p><p>Funding the prize pool of the <a href="{{base}}contests/">monthly naming contest</a>.</p></div>
+    </div>
+    <p class="small muted">This is how we plan to allocate support. You can earmark yours for one purpose in the form below.</p>
+  </div>
+</section>
+<section class="section section-mist">
+  <div class="wrap">
+    <div class="grid grid-4">
+      <div class="panel tier"><h3>Supporter</h3><div class="price">$5 <small>per month</small></div><ul><li>Our thanks in the monthly brief (if you want it)</li><li>Early look at new tools</li></ul><button class="btn btn-ghost" type="button" data-tier="Supporter, $5/month">Choose Supporter</button></div>
+      <div class="panel tier featured"><h3>Builder</h3><div class="price">$25 <small>per month</small></div><ul><li>Everything in Supporter</li><li>Name listed on this page</li><li>Vote on the next tool we build</li></ul><button class="btn" type="button" data-tier="Builder, $25/month">Choose Builder</button></div>
+      <div class="panel tier"><h3>Patron</h3><div class="price">$100 <small>per month</small></div><ul><li>Everything in Builder</li><li>A yearly portfolio review</li><li>Logo in the footer of the daily brief</li></ul><button class="btn btn-ghost" type="button" data-tier="Patron, $100/month">Choose Patron</button></div>
+      <div class="panel tier"><h3>One-time</h3><div class="price">Any <small>amount</small></div><ul><li>Fund a specific purpose</li><li>Top up a contest prize</li></ul><button class="btn btn-ghost" type="button" data-tier="One-time">Give once</button></div>
+    </div>
+    <div class="btn-row" id="pay-buttons" style="margin-top:1.5rem" hidden></div>
+  </div>
+</section>
+<section class="section">
+  <div class="wrap split">
+    <div>
+      <h2 id="pledge">Make a pledge</h2>
+      <p>Tell us the amount and purpose. We reply with a secure payment link (card or PayPal) and a receipt. Nothing is charged until you complete that link.</p>
+      <form class="form panel" data-ww-form="support" data-subject="Support pledge" data-success="support-done" novalidate>
+        <div class="hp" aria-hidden="true"><label>Leave empty<input name="_honey" tabindex="-1" autocomplete="off"></label></div>
+        <div class="row">
+          <div><label for="s-tier">Level</label><select id="s-tier" name="tier" required><option value="">Choose one</option><option>Supporter, $5/month</option><option>Builder, $25/month</option><option>Patron, $100/month</option><option>One-time</option><option>Contest prize sponsor</option></select></div>
+          <div><label for="s-amount">Amount (USD) <span class="hint">for one-time gifts</span></label><input id="s-amount" name="amount" type="number" min="1" step="1"></div>
+        </div>
+        <div><label for="s-purpose">Earmark for</label><select id="s-purpose" name="purpose"><option>Wherever it’s needed most</option><option>Operations</option><option>Promotion &amp; marketing</option><option>Hiring talent</option><option>Contests &amp; prizes</option></select></div>
+        <div class="row">
+          <div><label for="s-name">Your name</label><input id="s-name" name="name" required autocomplete="name"></div>
+          <div><label for="s-email">Email</label><input id="s-email" name="email" type="email" required autocomplete="email"></div>
+        </div>
+        <div><label for="s-msg">Message <span class="hint">optional</span></label><textarea id="s-msg" name="message" rows="3"></textarea></div>
+        <label class="check"><input type="checkbox" name="public_credit" value="yes"> <span>You may thank me by name in the brief.</span></label>
+        <label class="check"><input type="checkbox" name="consent" value="yes" required> <span>Email me a payment link and receipt. See the <a href="{{base}}privacy/">privacy policy</a>.</span></label>
+        <button class="btn" type="submit">Send my pledge</button>
+      </form>
+      <div id="support-done" class="record" tabindex="-1" hidden><div class="record-head"><div class="record-name">Thank you</div><span class="status ok">Pledge received</span></div><p>Your payment link is on its way by email. Nothing is charged until you complete it.</p></div>
+    </div>
+    <aside class="aside-sticky">
+      <div class="panel"><h3>Good to know</h3><ul><li>Web.Works is not a registered charity, so contributions are not tax-deductible.</li><li>Monthly support can be cancelled at any time by replying to any receipt.</li><li>Businesses that want visibility should look at <a href="{{base}}advertise/">sponsorship</a> instead.</li></ul></div>
+    </aside>
+  </div>
+</section>

@@ -1,0 +1,52 @@
+<!--meta {"path": "tools/deal-calculator/", "title": "Domain deal calculator: broker, escrow and marketplace fees", "description": "Work out what a domain purchase or sale really costs: escrow fees, broker commissions, marketplace commissions and lease-to-own monthly payments, side by side. Free, editable assumptions.", "scripts": ["tools/deal.js"], "nav": "tools/", "h1": "Deal calculator", "lede": "What a domain really costs the buyer and nets the seller, by route. Every assumption is editable, because fees change.", "crumbs": [["Tools", "tools/"], ["Deal calculator", "tools/deal-calculator/"]], "priority": "0.8"} -->
+<section class="section">
+  <div class="wrap split">
+    <form id="deal-form" class="panel form">
+      <div class="row">
+        <div><label for="dc-price">Agreed price (USD)</label><input id="dc-price" type="number" min="1" step="1" value="5000"></div>
+        <div><label for="dc-domain">Domain <span class="hint">optional, for your notes</span></label><input id="dc-domain" name="d" type="text" placeholder="example.com"></div>
+      </div>
+      <h3 style="margin:.5rem 0 0">Escrow</h3>
+      <div class="row">
+        <div><label for="dc-esc">Escrow fee (%)</label><input id="dc-esc" type="number" step="0.1" value="2.6"></div>
+        <div><label for="dc-escmin">Minimum fee (USD)</label><input id="dc-escmin" type="number" step="1" value="50"></div>
+      </div>
+      <div><label for="dc-escwho">Escrow fee paid by</label><select id="dc-escwho"><option value="buyer">Buyer</option><option value="split" selected>Split 50/50</option><option value="seller">Seller</option></select></div>
+      <h3 style="margin:.5rem 0 0">Broker and marketplace</h3>
+      <div class="row">
+        <div><label for="dc-bfee">Buy-side broker flat fee (USD)</label><input id="dc-bfee" type="number" step="0.01" value="99.99"></div>
+        <div><label for="dc-bcom">Buy-side broker commission (%)</label><input id="dc-bcom" type="number" step="0.5" value="20"></div>
+      </div>
+      <div class="row">
+        <div><label for="dc-mcom">Marketplace commission on sale (%)</label><input id="dc-mcom" type="number" step="0.5" value="15"></div>
+        <div><label for="dc-scom">Sell-side broker commission (%)</label><input id="dc-scom" type="number" step="0.5" value="15"></div>
+      </div>
+      <h3 style="margin:.5rem 0 0">Lease to own</h3>
+      <div class="row">
+        <div><label for="dc-down">Down payment (%)</label><input id="dc-down" type="number" step="1" value="10"></div>
+        <div><label for="dc-months">Months</label><input id="dc-months" type="number" step="1" min="1" max="120" value="24"></div>
+      </div>
+      <div><label for="dc-lfee">Financing markup (% of price)</label><input id="dc-lfee" type="number" step="0.5" value="0"></div>
+      <p class="small muted" style="margin:0">Defaults are a starting point, not a quote. GoDaddy lists its broker service at $99.99 plus 20% of the sale price; Escrow.com’s domain fees start at 2.6% with a $50 minimum and fall for larger amounts. Check each provider’s current terms.</p>
+    </form>
+    <div>
+      <div class="record" id="deal-out" aria-live="polite"></div>
+      <div class="panel" style="margin-top:1rem">
+        <h3>Offer planner</h3>
+        <p class="small muted">A simple ladder for direct negotiation, based on the price above as your target.</p>
+        <dl class="kv" id="ladder"></dl>
+      </div>
+      <div class="panel panel-sun" style="margin-top:1rem"><h3>Rather not negotiate yourself?</h3><p>Our acquisition desk approaches the owner anonymously, negotiates to your ceiling and closes through escrow.</p><a class="btn btn-small" href="{{base}}get-started/?goal=buy" id="dc-cta">Start an acquisition</a></div>
+    </div>
+  </div>
+</section>
+<section class="section section-mist">
+  <div class="wrap prose">
+    <h2>Choosing a route</h2>
+    <p><b>Direct deal with escrow</b> is the cheapest route when you can find and talk to the owner yourself. The escrow agent holds the money until the domain has moved, which protects both sides.</p>
+    <p><b>Buy-side broker</b> costs more, but keeps your identity hidden. When a well-known company asks for a name, the price tends to rise; a broker avoids that and handles the back-and-forth.</p>
+    <p><b>Marketplace sale</b> suits sellers with a listed price. The marketplace handles payment and transfer, and takes a commission.</p>
+    <p><b>Lease to own</b> spreads the price over months. Read who holds the domain until the final payment and what happens if a payment is missed.</p>
+    <p>The full playbook is in <a href="{{base}}learn/buy-a-taken-domain/">How to buy a domain someone else owns</a> and <a href="{{base}}learn/selling-a-domain/">How to sell a domain name</a>.</p>
+  </div>
+</section>
