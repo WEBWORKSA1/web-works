@@ -203,7 +203,9 @@ def update_tlds():
         lines = [l.strip() for l in txt.splitlines() if l.strip()]
         version = lines[0].lstrip("# ").strip() if lines and lines[0].startswith("#") else ""
         tlds = [l.lower() for l in lines if not l.startswith("#")]
-        meta = {t["tld"]: t for t in old.get("items", [])}
+        old_meta = {t["tld"]: t for t in old.get("items", [])}
+        meta = {}
+        icann = {}
         # enrich with type + manager from the root zone database
         try:
             page = fetch("https://www.iana.org/domains/root/db").decode("utf-8", "replace")
@@ -214,14 +216,37 @@ def update_tlds():
                 if m and len(cells) >= 3:
                     meta[m.group(1).lower()] = {"tld": m.group(1).lower(), "type": cells[1], "manager": cells[2]}
                     parsed += 1
-            STATUS["sources"].append({"kind": "data", "name": "IANA root zone database", "url": "https://www.iana.org/domains/root/db", "ok": parsed > 0, "count": parsed})
+            rec_db = {"kind": "data", "name": "IANA root zone database", "url": "https://www.iana.org/domains/root/db", "ok": parsed > 0, "count": parsed}
+            if not parsed:
+                t = re.search(r"<title>(.*?)</title>", page, flags=re.S | re.I)
+                rec_db["error"] = f"no table rows parsed ({len(page)} bytes, title: {t.group(1).strip()[:60] if t else 'none'})"
+            STATUS["sources"].append(rec_db)
         except Exception as e:  # noqa: BLE001
             STATUS["sources"].append({"kind": "data", "name": "IANA root zone database", "ok": False, "error": str(e)[:160]})
+        # ICANN's gTLD list: operator names and brand (Specification 13) flags for generic TLDs
+        try:
+            g = json.loads(fetch("https://www.icann.org/resources/registries/gtlds/v2/gtlds.json"))
+            for row in g.get("gTLDs", []):
+                t = str(row.get("gTLD", "")).lower()
+                if t and not row.get("removalDate"):
+                    icann[t] = {"manager": (row.get("registryOperator") or "").strip(), "brand": bool(row.get("specification13"))}
+            STATUS["sources"].append({"kind": "data", "name": "ICANN gTLD list", "url": "https://www.icann.org/resources/registries/gtlds/v2/gtlds.json", "ok": bool(icann), "count": len(icann)})
+        except Exception as e:  # noqa: BLE001
+            STATUS["sources"].append({"kind": "data", "name": "ICANN gTLD list", "ok": False, "error": str(e)[:160]})
         items = []
         for t in tlds:
-            m = meta.get(t, {})
-            typ = m.get("type") or ("country-code" if len(t) == 2 else "generic")
-            item = {"tld": t, "type": typ, "manager": m.get("manager", "")}
+            m, ic, om = meta.get(t), icann.get(t), old_meta.get(t, {})
+            if m:
+                typ, mgr = m["type"], m["manager"]
+            elif icann:
+                typ = "infrastructure" if t == "arpa" else ("generic" if ic else "country-code")
+                mgr = ic["manager"] if ic else ""
+            else:
+                typ = om.get("type") or ("country-code" if len(t) == 2 else "generic")
+                mgr = om.get("manager", "")
+            item = {"tld": t, "type": typ, "manager": mgr}
+            if (ic and ic["brand"]) or (not icann and om.get("brand")):
+                item["brand"] = True
             if t.startswith("xn--"):
                 try:
                     item["unicode"] = t.encode("ascii").decode("idna")

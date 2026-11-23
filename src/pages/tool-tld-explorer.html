@@ -5,7 +5,7 @@
       <div class="row">
         <div><label for="tld-q">Search</label><input id="tld-q" name="q" type="search" placeholder="Try works, shop, india or Verisign"></div>
         <div class="row" style="gap:.75rem">
-          <div><label for="tld-type">Type</label><select id="tld-type"><option value="">All types</option><option value="generic">Generic</option><option value="country-code">Country code</option><option value="sponsored">Sponsored</option><option value="generic-restricted">Generic, restricted</option><option value="infrastructure">Infrastructure</option><option value="idn">Internationalized (IDN)</option></select></div>
+          <div><label for="tld-type">Type</label><select id="tld-type"><option value="">All types</option><option value="generic">Generic</option><option value="country-code">Country code</option><option value="sponsored">Sponsored</option><option value="generic-restricted">Generic, restricted</option><option value="infrastructure">Infrastructure</option><option value="idn">Internationalized (IDN)</option><option value="brand">Brand (.brand)</option></select></div>
           <div><label for="tld-rdap">RDAP</label><select id="tld-rdap"><option value="">Any</option><option value="yes">Publishes RDAP</option><option value="no">No RDAP</option></select></div>
         </div>
       </div>
@@ -25,6 +25,7 @@
       <li><b>Country-code</b> extensions are two letters (.ca, .in, .uk) and follow each country’s own rules; some require local presence.</li>
       <li><b>Internationalized</b> extensions use non-Latin scripts and appear in DNS as an <code>xn--</code> Punycode form.</li>
       <li><b>Sponsored</b> and <b>restricted</b> extensions limit who can register, such as .gov or .museum.</li>
+      <li><b>Brand</b> extensions belong to one company for its own use, such as a car maker or a bank. Nobody else can register names under them.</li>
     </ul>
     <p>RDAP support matters because it decides whether the <a href="{{base}}tools/domain-lookup/">domain lookup</a> can read registration dates directly. Most generic extensions publish RDAP; many country codes do not yet.</p>
   </div>
