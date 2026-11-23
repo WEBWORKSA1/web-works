@@ -65,9 +65,12 @@ p { margin: 0 0 1em; }
 
 /* ---------- top contact bar (required on every page) */
 .topbar { background: var(--ink); color: #dfe3f3; font-size: var(--step--1); }
-.topbar .wrap { display: flex; justify-content: center; padding: .5rem 0; text-align: center; }
+.topbar .wrap { display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: .45rem 1.25rem; padding: .45rem 0; text-align: center; }
 .topbar a { color: var(--sun); font-weight: 600; text-decoration: none; }
 .topbar a:hover { text-decoration: underline; color: #fff3b8; }
+.topbar-links { display: flex; gap: .5rem; }
+.topbar .topbar-btn { color: #fff; background: var(--ultra); border-radius: 999px; padding: .18rem .8rem; font-weight: 650; line-height: 1.5; }
+.topbar .topbar-btn:hover { background: var(--sun); color: var(--ink); text-decoration: none; }
 
 /* ---------- header */
 .site-header { border-bottom: 1px solid var(--line); background: var(--paper); position: sticky; top: 0; z-index: 30; }
