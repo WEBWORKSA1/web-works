@@ -1,5 +1,5 @@
 {
- "run_at": "2026-11-23T15:55:39+00:00",
+ "run_at": "2026-11-23T16:27:15+00:00",
  "sources": [
   {
    "kind": "news",
@@ -38,25 +38,10 @@
   },
   {
    "kind": "news",
-   "name": "CircleID",
-   "url": "https://circleid.com/rss",
-   "ok": false,
-   "count": 0
-  },
-  {
-   "kind": "news",
    "name": "Google News: domain names",
    "url": "https://news.google.com/rss/search?q=%22domain+name%22+OR+ICANN+OR+registrar&hl=en-US&gl=US&ceid=US:en",
    "ok": true,
    "count": 25
-  },
-  {
-   "kind": "news",
-   "name": "Search Engine Land",
-   "url": "https://searchengineland.com/feed",
-   "ok": false,
-   "count": 0,
-   "error": "HTTP Error 403: Forbidden"
   },
   {
    "kind": "news",
@@ -67,8 +52,22 @@
   },
   {
    "kind": "news",
+   "name": "Google News: SEO and search",
+   "url": "https://news.google.com/rss/search?q=SEO+OR+%22Google+Search%22+algorithm&hl=en-US&gl=US&ceid=US:en",
+   "ok": true,
+   "count": 25
+  },
+  {
+   "kind": "news",
    "name": "Google Search Central",
    "url": "https://developers.google.com/search/blog/feed.xml",
+   "ok": true,
+   "count": 10
+  },
+  {
+   "kind": "news",
+   "name": "web.dev",
+   "url": "https://web.dev/static/blog/feed.xml",
    "ok": true,
    "count": 10
   },
@@ -85,14 +84,6 @@
    "url": "https://www.smashingmagazine.com/feed/",
    "ok": true,
    "count": 25
-  },
-  {
-   "kind": "news",
-   "name": "CSS-Tricks",
-   "url": "https://css-tricks.com/feed/",
-   "ok": false,
-   "count": 0,
-   "error": "HTTP Error 403: Forbidden"
   },
   {
    "kind": "news",
@@ -235,12 +226,11 @@
    "count": 5
   },
   {
-   "kind": "video",
-   "name": "Cloudflare",
-   "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCuB2xXAmKzSxS0CbwpWCLcw",
+   "kind": "data",
+   "name": "IANA root zone database",
+   "url": "https://www.iana.org/domains/root/db",
    "ok": false,
-   "count": 0,
-   "error": "HTTP Error 404: Not Found"
+   "count": 0
   },
   {
    "kind": "data",
@@ -257,8 +247,8 @@
    "count": 1203
   }
  ],
- "news_items": 157,
+ "news_items": 158,
  "video_items": 60,
- "ok_sources": 32,
- "total_sources": 36
+ "ok_sources": 34,
+ "total_sources": 35
 }

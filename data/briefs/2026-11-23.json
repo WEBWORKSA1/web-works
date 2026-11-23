@@ -1,8 +1,14 @@
 {
  "date": "2026-11-23",
- "updated": "2026-11-23T16:26:44+00:00",
+ "updated": "2026-11-23T16:27:29+00:00",
  "headlines": {
   "domains": [
+   {
+    "title": "Peptides company tries reverse domain name hijacking",
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSXd3VURrZEs0T1FSX3N2R1JObmRSWmxHbjdLZkZsQUoySy1ONm11a0NfS3RSWjdBQkpoTmtwamJCUGFNWHBYdTFfWmpjak9Vb1huQklMUVVESWhvOW4wZ3BxdF9XbWJYSnlVNk1MaE51REtqeEJPcm83WEszUzk3b1pWSGZsamttd1EtSlhkcVJQNGtJeGc?oc=5",
+    "source": "Domain Name Wire",
+    "date": "2026-11-23T16:15:08+00:00"
+   },
    {
     "title": "Older Than the Trademark: Three Reverse Domain Name Hijacking Cases",
     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONVBGQmwzV2x6N05FS251ZEtDYWJncXlXV1duYm4xQ2Fmb0U5VGd1SVBVeGR6Qkc5ZkxNME54UnZIZm0wS2UxamozOG9BRVNxVFVQb1VjdThpYlliMGJ3bW9TamgtX25SSXNsc3BYNU9oR0szcnZoRzRBYi1YeFBnRWdZbzVOcE9qZWYtaHBOcEI5Wm9VN20wTw?oc=5",
@@ -26,12 +32,6 @@
     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5Gc2FFRnEtb3A1bkh6eHlJWV9zYncteUN0WG83aUVmWElrWmVjeGtuYTFzMzNkbVZrVk1tb0F6SGFac2l5X1hvR1ZkR2tjeU5sTGdRMkJfRDhYTUlpY193OElqVnYwT0pKSDhzVVNoSThRNmk1UlE?oc=5",
     "source": "finance.biggo.com",
     "date": "2026-11-23T01:55:00+00:00"
-   },
-   {
-    "title": "ChatChat.com sold for $100,000 dollars via Afternic LTO",
-    "link": "https://domaingang.com/domain-news/chatchat-com-sold-for-100000-dollars-via-afternic-lto/",
-    "source": "DomainGang",
-    "date": "2026-11-22T15:01:19+00:00"
    }
   ],
   "web": [
@@ -71,7 +71,7 @@
     "title": "Hackers breach Austrian Foreign Ministry website, access diplomats' contact details",
     "link": "https://therecord.media/austrian-foreign-ministry-says-website-hacked",
     "source": "The Record",
-    "date": "2026-11-23T15:55:39+00:00"
+    "date": "2026-11-23T16:27:15+00:00"
    },
    {
     "title": "Norway says hackers exploited Microsoft security flaw to attack energy firms Equinor, Skagerak Energi",
@@ -100,6 +100,18 @@
   ],
   "business": [
    {
+    "title": "Ladybird Is Now in Alpha",
+    "link": "https://ladybird.org/posts/alpha/",
+    "source": "Hacker News",
+    "date": "2026-11-23T16:13:12+00:00"
+   },
+   {
+    "title": "Buckle Up the AI Bubble Is Popping",
+    "link": "https://mathbabe.org/2026/11/23/buckle-up-the-ai-bubble-is-popping/",
+    "source": "Hacker News",
+    "date": "2026-11-23T16:01:20+00:00"
+   },
+   {
     "title": "One Man's Quest to End Daylight Savings",
     "link": "https://www.newyorker.com/magazine/2026/11/30/one-mans-quest-to-end-daylight-savings",
     "source": "Hacker News",
@@ -116,18 +128,6 @@
     "link": "https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director",
     "source": "Hacker News",
     "date": "2026-11-23T14:01:23+00:00"
-   },
-   {
-    "title": "Win4wine – Run Windows Shell as the Linux Desktop on Wine",
-    "link": "https://github.com/mikuta0407/win4wine",
-    "source": "Hacker News",
-    "date": "2026-11-23T12:28:11+00:00"
-   },
-   {
-    "title": "The next circle of security hell",
-    "link": "https://blogs.gentoo.org/mgorny/2026/10/27/the-next-circle-of-security-hell/",
-    "source": "Hacker News",
-    "date": "2026-11-23T11:34:16+00:00"
    }
   ]
  },
@@ -138,10 +138,10 @@
  "tip": "Before you buy a name on the aftermarket, look it up in the Wayback Machine. A past life as a spam site can follow a domain for years.",
  "names": [
   "Vudex",
-  "Sibil",
   "Camux",
-  "Luces",
   "Losir",
+  "Sibil",
+  "Luces",
   "Getmark",
   "TideDrift",
   "MapleLumen"

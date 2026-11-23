@@ -1,13 +1,37 @@
 {
- "updated": "2026-11-23T15:55:39+00:00",
+ "updated": "2026-11-23T16:27:15+00:00",
  "items": [
   {
    "title": "Hackers breach Austrian Foreign Ministry website, access diplomats' contact details",
    "link": "https://therecord.media/austrian-foreign-ministry-says-website-hacked",
    "source": "The Record",
-   "date": "2026-11-23T15:55:39+00:00",
+   "date": "2026-11-23T16:27:15+00:00",
    "summary": "Austria's Foreign Ministry said late last week that hackers breached one of its websites and accessed the names and official contact information of employees at its Vienna headquarters and at Austria’s diplomatic…",
    "cat": "security"
+  },
+  {
+   "title": "Peptides company tries reverse domain name hijacking",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSXd3VURrZEs0T1FSX3N2R1JObmRSWmxHbjdLZkZsQUoySy1ONm11a0NfS3RSWjdBQkpoTmtwamJCUGFNWHBYdTFfWmpjak9Vb1huQklMUVVESWhvOW4wZ3BxdF9XbWJYSnlVNk1MaE51REtqeEJPcm83WEszUzk3b1pWSGZsamttd1EtSlhkcVJQNGtJeGc?oc=5",
+   "source": "Domain Name Wire",
+   "date": "2026-11-23T16:15:08+00:00",
+   "summary": "",
+   "cat": "domains"
+  },
+  {
+   "title": "Ladybird Is Now in Alpha",
+   "link": "https://ladybird.org/posts/alpha/",
+   "source": "Hacker News",
+   "date": "2026-11-23T16:13:12+00:00",
+   "summary": "52 points, 3 comments on Hacker News.",
+   "cat": "business"
+  },
+  {
+   "title": "Buckle Up the AI Bubble Is Popping",
+   "link": "https://mathbabe.org/2026/11/23/buckle-up-the-ai-bubble-is-popping/",
+   "source": "Hacker News",
+   "date": "2026-11-23T16:01:20+00:00",
+   "summary": "16 points, 19 comments on Hacker News.",
+   "cat": "business"
   },
   {
    "title": "Norway says hackers exploited Microsoft security flaw to attack energy firms Equinor, Skagerak Energi",
@@ -22,7 +46,7 @@
    "link": "https://www.newyorker.com/magazine/2026/11/30/one-mans-quest-to-end-daylight-savings",
    "source": "Hacker News",
    "date": "2026-11-23T15:28:41+00:00",
-   "summary": "8 points, 1 comments on Hacker News.",
+   "summary": "21 points, 17 comments on Hacker News.",
    "cat": "business"
   },
   {
@@ -62,7 +86,7 @@
    "link": "https://boland.dev/snet/",
    "source": "Hacker News",
    "date": "2026-11-23T14:16:37+00:00",
-   "summary": "4 points, 0 comments on Hacker News.",
+   "summary": "9 points, 1 comments on Hacker News.",
    "cat": "business"
   },
   {
@@ -71,6 +95,14 @@
    "source": "Hacker News",
    "date": "2026-11-23T14:01:23+00:00",
    "summary": "1461 points, 1251 comments on Hacker News.",
+   "cat": "business"
+  },
+  {
+   "title": "Nvidia Reinstates Jensen Huang as CEO",
+   "link": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html",
+   "source": "Hacker News",
+   "date": "2026-11-23T14:00:18+00:00",
+   "summary": "127 points, 1440 comments on Hacker News.",
    "cat": "business"
   },
   {
@@ -110,7 +142,7 @@
    "link": "https://github.com/mikuta0407/win4wine",
    "source": "Hacker News",
    "date": "2026-11-23T12:28:11+00:00",
-   "summary": "89 points, 36 comments on Hacker News.",
+   "summary": "108 points, 53 comments on Hacker News.",
    "cat": "business"
   },
   {
@@ -126,7 +158,7 @@
    "link": "https://blogs.gentoo.org/mgorny/2026/10/27/the-next-circle-of-security-hell/",
    "source": "Hacker News",
    "date": "2026-11-23T11:34:16+00:00",
-   "summary": "118 points, 61 comments on Hacker News.",
+   "summary": "128 points, 67 comments on Hacker News.",
    "cat": "business"
   },
   {
@@ -134,7 +166,7 @@
    "link": "https://github.com/os6/nospeaker",
    "source": "Hacker News",
    "date": "2026-11-23T11:31:54+00:00",
-   "summary": "102 points, 39 comments on Hacker News.",
+   "summary": "117 points, 49 comments on Hacker News.",
    "cat": "business"
   },
   {
@@ -142,7 +174,7 @@
    "link": "https://z.ai/blog/glm-5.4",
    "source": "Hacker News",
    "date": "2026-11-23T10:06:43+00:00",
-   "summary": "631 points, 234 comments on Hacker News.",
+   "summary": "666 points, 249 comments on Hacker News.",
    "cat": "business"
   },
   {
@@ -158,7 +190,7 @@
    "link": "https://jola.dev/posts/you-cant-afford-ssh-keys-disk",
    "source": "Hacker News",
    "date": "2026-11-23T09:55:38+00:00",
-   "summary": "24 points, 9 comments on Hacker News.",
+   "summary": "33 points, 21 comments on Hacker News.",
    "cat": "business"
   },
   {
@@ -206,7 +238,7 @@
    "link": "https://micjm.com/blog/yes-17m-lines-of-lean-is-a-lot/",
    "source": "Hacker News",
    "date": "2026-11-23T05:00:49+00:00",
-   "summary": "199 points, 238 comments on Hacker News.",
+   "summary": "209 points, 250 comments on Hacker News.",
    "cat": "business"
   },
   {
@@ -214,7 +246,7 @@
    "link": "https://phoenix.labri.fr/software/tempo/",
    "source": "Hacker News",
    "date": "2026-11-23T04:51:48+00:00",
-   "summary": "91 points, 22 comments on Hacker News.",
+   "summary": "91 points, 23 comments on Hacker News.",
    "cat": "business"
   },
   {
@@ -222,7 +254,7 @@
    "link": "https://github.com/AFK-surf/xnulinux",
    "source": "Hacker News",
    "date": "2026-11-23T03:49:24+00:00",
-   "summary": "485 points, 205 comments on Hacker News.",
+   "summary": "496 points, 207 comments on Hacker News.",
    "cat": "business"
   },
   {
@@ -230,7 +262,7 @@
    "link": "https://www.docker.com/blog/meet-the-new-docker-built-to-run-on-trust/",
    "source": "Hacker News",
    "date": "2026-11-23T03:34:29+00:00",
-   "summary": "86 points, 165 comments on Hacker News.",
+   "summary": "91 points, 170 comments on Hacker News.",
    "cat": "business"
   },
   {
@@ -246,7 +278,7 @@
    "link": "https://pengowray.github.io/riemann-zeta-proof-visualizer/",
    "source": "Hacker News",
    "date": "2026-11-23T01:50:23+00:00",
-   "summary": "149 points, 62 comments on Hacker News.",
+   "summary": "153 points, 64 comments on Hacker News.",
    "cat": "business"
   },
   {
@@ -254,7 +286,7 @@
    "link": "https://spelunkr.tv",
    "source": "Hacker News",
    "date": "2026-11-23T01:13:51+00:00",
-   "summary": "735 points, 136 comments on Hacker News.",
+   "summary": "749 points, 138 comments on Hacker News.",
    "cat": "business"
   },
   {
@@ -262,7 +294,7 @@
    "link": "https://www.gl-inet.com/en-us/blogs/blog/glinet-security-notice-2026-11-20",
    "source": "Hacker News",
    "date": "2026-11-22T23:06:37+00:00",
-   "summary": "246 points, 118 comments on Hacker News.",
+   "summary": "252 points, 119 comments on Hacker News.",
    "cat": "business"
   },
   {
@@ -278,7 +310,7 @@
    "link": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
    "source": "Hacker News",
    "date": "2026-11-22T21:01:16+00:00",
-   "summary": "650 points, 263 comments on Hacker News.",
+   "summary": "660 points, 267 comments on Hacker News.",
    "cat": "business"
   },
   {
@@ -286,7 +318,7 @@
    "link": "https://smallsf.com/",
    "source": "Hacker News",
    "date": "2026-11-22T20:33:23+00:00",
-   "summary": "329 points, 107 comments on Hacker News.",
+   "summary": "341 points, 107 comments on Hacker News.",
    "cat": "business"
   },
   {
@@ -294,7 +326,7 @@
    "link": "https://danielsada.tech/blog/assume-people-are-not-interested-in-your-blog-post/",
    "source": "Hacker News",
    "date": "2026-11-22T19:41:30+00:00",
-   "summary": "277 points, 136 comments on Hacker News.",
+   "summary": "282 points, 139 comments on Hacker News.",
    "cat": "business"
   },
   {
@@ -302,7 +334,7 @@
    "link": "https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife",
    "source": "Hacker News",
    "date": "2026-11-22T19:10:34+00:00",
-   "summary": "590 points, 320 comments on Hacker News.",
+   "summary": "594 points, 326 comments on Hacker News.",
    "cat": "business"
   },
   {
@@ -318,7 +350,7 @@
    "link": "https://openai.com/index/perplexity-and-intelligence/",
    "source": "Hacker News",
    "date": "2026-11-22T17:06:27+00:00",
-   "summary": "651 points, 422 comments on Hacker News.",
+   "summary": "654 points, 426 comments on Hacker News.",
    "cat": "business"
   },
   {
@@ -350,7 +382,7 @@
    "link": "https://johncarlosbaez.wordpress.com/2026/11/22/masullo-on-the-riemann-hypothesis/",
    "source": "Hacker News",
    "date": "2026-11-22T10:59:56+00:00",
-   "summary": "277 points, 258 comments on Hacker News.",
+   "summary": "279 points, 261 comments on Hacker News.",
    "cat": "business"
   },
   {
@@ -414,7 +446,7 @@
    "link": "https://www.allaboutcircuits.com/technical-articles/mram-basics-how-magnetic-memory-is-replacing-embedded-flash/",
    "source": "Hacker News",
    "date": "2026-11-21T10:14:11+00:00",
-   "summary": "47 points, 19 comments on Hacker News.",
+   "summary": "52 points, 22 comments on Hacker News.",
    "cat": "business"
   },
   {
@@ -422,7 +454,7 @@
    "link": "https://www.theguardian.com/science/2026/nov/20/spacecraft-mercury-second-ever-mission-orbit-bepicolombo",
    "source": "Hacker News",
    "date": "2026-11-21T09:14:02+00:00",
-   "summary": "30 points, 3 comments on Hacker News.",
+   "summary": "56 points, 13 comments on Hacker News.",
    "cat": "business"
   },
   {
@@ -430,7 +462,7 @@
    "link": "https://blog.regehr.org/archives/1621",
    "source": "Hacker News",
    "date": "2026-11-21T08:49:14+00:00",
-   "summary": "39 points, 15 comments on Hacker News.",
+   "summary": "44 points, 23 comments on Hacker News.",
    "cat": "business"
   },
   {
@@ -446,7 +478,7 @@
    "link": "https://github.com/elixir-hls/elixir-hls",
    "source": "Hacker News",
    "date": "2026-11-21T00:47:57+00:00",
-   "summary": "102 points, 6 comments on Hacker News.",
+   "summary": "108 points, 7 comments on Hacker News.",
    "cat": "business"
   },
   {
@@ -462,7 +494,7 @@
    "link": "https://underjord.io/reviving-the-donkey-car-with-erlang.html",
    "source": "Hacker News",
    "date": "2026-11-20T22:56:20+00:00",
-   "summary": "19 points, 0 comments on Hacker News.",
+   "summary": "24 points, 0 comments on Hacker News.",
    "cat": "business"
   },
   {
@@ -886,7 +918,7 @@
    "link": "https://apnews.com/article/sudan-antiquities-nubia-cathedral-1b16f67da881ee5592de4481ee55c527",
    "source": "Hacker News",
    "date": "2026-11-18T15:43:29+00:00",
-   "summary": "319 points, 116 comments on Hacker News.",
+   "summary": "327 points, 119 comments on Hacker News.",
    "cat": "business"
   },
   {
@@ -970,14 +1002,6 @@
    "cat": "domains"
   },
   {
-   "title": "Pedestal AI raises $4.7 million to agentify the supply chain",
-   "link": "https://techcrunch.com/2026/11/17/pedestal-ai-raises-4-7-million-to-agentify-the-supply-chain/",
-   "source": "TechCrunch Startups",
-   "date": "2026-11-17T18:04:16+00:00",
-   "summary": "The company uses agentic AI to make supply chains faster and more reliable.",
-   "cat": "business"
-  },
-  {
    "title": "Sedo weekly domain name sales led by 5658.com",
    "link": "https://www.thedomains.com/2026/11/17/sedo-weekly-domain-name-sales-led-by-5658-com/",
    "source": "TheDomains",
@@ -992,22 +1016,6 @@
    "date": "2026-11-17T15:19:43+00:00",
    "summary": "NameJet/SnapNames released their October 2026 domain name sales.NameJet/SnapNames October 2026 Aftermarket report led by Commissary.com Domain Name Brand Product Sales Amt halcyon.org Namejet Expiry $12,705 iep.org Namejet Expiry $6,123 ...",
    "cat": "domains"
-  },
-  {
-   "title": "Science Corporation’s brain tech is worth $3.5 billion after new funding",
-   "link": "https://techcrunch.com/2026/11/17/science-corporations-brain-tech-is-worth-3-5-billion-after-new-funding/",
-   "source": "TechCrunch Startups",
-   "date": "2026-11-17T14:26:46+00:00",
-   "summary": "Science Corp. raised a $400 million Series D to scale up its anti-blindness business.",
-   "cat": "business"
-  },
-  {
-   "title": "Hank Green is self-funding ClockwiseTV, a curated educational video platform for kids",
-   "link": "https://techcrunch.com/2026/11/17/hank-green-is-self-funding-clockwisetv-a-curated-educational-video-platform-for-kids/",
-   "source": "TechCrunch Startups",
-   "date": "2026-11-17T14:00:00+00:00",
-   "summary": "Alongside CEO Leslie Morgan, Hank Green set out to create the video platform he wished his kid had.",
-   "cat": "business"
   },
   {
    "title": "When Your Host Is Also Your Registrar, a Fresh Backup Won't Save You Fast",
@@ -1162,6 +1170,14 @@
    "cat": "security"
   },
   {
+   "title": "Google’s November 2026 Core Update Starts Rolling Out",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOdklvcnJPcFQ0MEl2Nmt5TTZQZEVMVTE5b1pEZTdSM2lVUlRraVdLcXlFNW1RSE5QbWNBTjhIUEdOVE5uMGdiX3BfOEhQWXpiSkowLXZJNnRwQTFCbl9NM1p1M1ZZOEhnLWVBdU5VbjdCbWViWXByN3ZjN185S1BMZml3?oc=5",
+   "source": "Search Engine Journal",
+   "date": "2026-11-10T08:00:00+00:00",
+   "summary": "",
+   "cat": "web"
+  },
+  {
    "title": "Vote for Beanstalk Challenge People’s Choice Awards",
    "link": "https://domaininvesting.com/vote-for-beanstalk-challenge-peoples-choice-awards/",
    "source": "DomainInvesting",
@@ -1231,14 +1247,6 @@
    "source": "Google Search Central",
    "date": "2026-11-04T00:00:00+00:00",
    "summary": "Search Central Live is coming to Zurich on December 4, 2026!",
-   "cat": "web"
-  },
-  {
-   "title": "Introducing Zero Wire, a hub for investigating critical Internet vulnerabilities",
-   "link": "https://blog.cloudflare.com/zero-wire/",
-   "source": "Cloudflare Blog",
-   "date": "2026-11-03T14:00:00+00:00",
-   "summary": "Zero Wire on Cloudflare Radar pairs plain-language briefings with global attack telemetry and remediation steps. Triage critical CVEs faster and decide how to protect your infrastructure.",
    "cat": "web"
   },
   {
