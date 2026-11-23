@@ -129,7 +129,7 @@ def layout(path, title, description, body, scripts=(), nav=None, jsonld=None, no
 </head>
 <body>
 <a class="skip" href="#main">Skip to content</a>
-<div class="topbar"><div class="wrap"><a href="{CONTACT_BAR}">Contact, if you are interested in this website/domain name/Sponsorship/Advertisement/Partnership</a><nav class="topbar-links" aria-label="Partner sites"><a class="topbar-btn" href="https://betternic.com" target="_blank" rel="noopener">BetterNic.com</a><a class="topbar-btn" href="https://domainsdispute.com" target="_blank" rel="noopener">DomainsDispute.com</a></nav></div></div>
+<div class="topbar"><div class="wrap"><a href="{base}contact/">Contact, if you are interested in this website/domain name/Sponsorship/Advertisement/Partnership</a><nav class="topbar-links" aria-label="Partner sites"><a class="topbar-btn" href="https://betternic.com" target="_blank" rel="noopener">BetterNic.com</a><a class="topbar-btn" href="https://domainsdispute.com" target="_blank" rel="noopener">DomainsDispute.com</a></nav></div></div>
 <header class="site-header">
   <div class="wrap">
     <a class="logo" href="{base}" aria-label="{NAME} home">web<i aria-hidden="true"></i>works</a>
