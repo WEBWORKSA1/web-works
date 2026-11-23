@@ -1,0 +1,264 @@
+{
+ "run_at": "2026-11-23T15:55:39+00:00",
+ "sources": [
+  {
+   "kind": "news",
+   "name": "Domain Name Wire",
+   "url": "https://domainnamewire.com/feed",
+   "ok": true,
+   "count": 5
+  },
+  {
+   "kind": "news",
+   "name": "DomainInvesting",
+   "url": "https://feeds.feedburner.com/DomainInvesting",
+   "ok": true,
+   "count": 5
+  },
+  {
+   "kind": "news",
+   "name": "TheDomains",
+   "url": "https://www.thedomains.com/feed/",
+   "ok": true,
+   "count": 5
+  },
+  {
+   "kind": "news",
+   "name": "DomainGang",
+   "url": "https://domaingang.com/feed/",
+   "ok": true,
+   "count": 15
+  },
+  {
+   "kind": "news",
+   "name": "OnlineDomain",
+   "url": "https://onlinedomain.com/feed/",
+   "ok": true,
+   "count": 25
+  },
+  {
+   "kind": "news",
+   "name": "CircleID",
+   "url": "https://circleid.com/rss",
+   "ok": false,
+   "count": 0
+  },
+  {
+   "kind": "news",
+   "name": "Google News: domain names",
+   "url": "https://news.google.com/rss/search?q=%22domain+name%22+OR+ICANN+OR+registrar&hl=en-US&gl=US&ceid=US:en",
+   "ok": true,
+   "count": 25
+  },
+  {
+   "kind": "news",
+   "name": "Search Engine Land",
+   "url": "https://searchengineland.com/feed",
+   "ok": false,
+   "count": 0,
+   "error": "HTTP Error 403: Forbidden"
+  },
+  {
+   "kind": "news",
+   "name": "Search Engine Journal",
+   "url": "https://www.searchenginejournal.com/feed/",
+   "ok": true,
+   "count": 20
+  },
+  {
+   "kind": "news",
+   "name": "Google Search Central",
+   "url": "https://developers.google.com/search/blog/feed.xml",
+   "ok": true,
+   "count": 10
+  },
+  {
+   "kind": "news",
+   "name": "Google Search Central",
+   "url": "https://feeds.feedburner.com/blogspot/amDG",
+   "ok": true,
+   "count": 10
+  },
+  {
+   "kind": "news",
+   "name": "Smashing Magazine",
+   "url": "https://www.smashingmagazine.com/feed/",
+   "ok": true,
+   "count": 25
+  },
+  {
+   "kind": "news",
+   "name": "CSS-Tricks",
+   "url": "https://css-tricks.com/feed/",
+   "ok": false,
+   "count": 0,
+   "error": "HTTP Error 403: Forbidden"
+  },
+  {
+   "kind": "news",
+   "name": "Cloudflare Blog",
+   "url": "https://blog.cloudflare.com/rss/",
+   "ok": true,
+   "count": 20
+  },
+  {
+   "kind": "news",
+   "name": "Krebs on Security",
+   "url": "https://krebsonsecurity.com/feed/",
+   "ok": true,
+   "count": 10
+  },
+  {
+   "kind": "news",
+   "name": "BleepingComputer",
+   "url": "https://www.bleepingcomputer.com/feed/",
+   "ok": true,
+   "count": 15
+  },
+  {
+   "kind": "news",
+   "name": "The Record",
+   "url": "https://therecord.media/feed/",
+   "ok": true,
+   "count": 5
+  },
+  {
+   "kind": "news",
+   "name": "Google News: phishing domains",
+   "url": "https://news.google.com/rss/search?q=phishing+domain+OR+typosquatting+OR+%22lookalike+domain%22&hl=en-US&gl=US&ceid=US:en",
+   "ok": true,
+   "count": 25
+  },
+  {
+   "kind": "news",
+   "name": "TechCrunch Startups",
+   "url": "https://techcrunch.com/category/startups/feed/",
+   "ok": true,
+   "count": 20
+  },
+  {
+   "kind": "news",
+   "name": "Google News: website builders and AI",
+   "url": "https://news.google.com/rss/search?q=%22website+builder%22+OR+%22AI+website%22&hl=en-US&gl=US&ceid=US:en",
+   "ok": true,
+   "count": 25
+  },
+  {
+   "kind": "news",
+   "name": "Hacker News",
+   "url": "https://hn.algolia.com/api/v1/search?tags=front_page&hitsPerPage=30",
+   "ok": true,
+   "count": 30
+  },
+  {
+   "kind": "video",
+   "name": "Google Search Central",
+   "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCWf2ZlNsCGDS89VBF_awNvA",
+   "ok": true,
+   "count": 5
+  },
+  {
+   "kind": "video",
+   "name": "Ahrefs",
+   "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCWquNQV8Y0_defMKnGKrFOQ",
+   "ok": true,
+   "count": 5
+  },
+  {
+   "kind": "video",
+   "name": "Neil Patel",
+   "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCl-Zrl0QhF66lu1aGXaTbfw",
+   "ok": true,
+   "count": 5
+  },
+  {
+   "kind": "video",
+   "name": "Kevin Powell",
+   "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCJZv4d5rbIKd4QHMPkcABCw",
+   "ok": true,
+   "count": 5
+  },
+  {
+   "kind": "video",
+   "name": "Web Dev Simplified",
+   "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCFbNIlppjAuEX4znoulh0Cw",
+   "ok": true,
+   "count": 5
+  },
+  {
+   "kind": "video",
+   "name": "Traversy Media",
+   "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC29ju8bIPH5as8OGnQzwJyA",
+   "ok": true,
+   "count": 5
+  },
+  {
+   "kind": "video",
+   "name": "freeCodeCamp.org",
+   "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8butISFwT-Wl7EV0hUK0BQ",
+   "ok": true,
+   "count": 5
+  },
+  {
+   "kind": "video",
+   "name": "Chrome for Developers",
+   "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCnUYZLuoy1rq1aVMwx4aTzw",
+   "ok": true,
+   "count": 5
+  },
+  {
+   "kind": "video",
+   "name": "Google for Developers",
+   "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC_x5XG1OV2P6uZZ5FSM9Ttw",
+   "ok": true,
+   "count": 5
+  },
+  {
+   "kind": "video",
+   "name": "Fireship",
+   "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsBjURrPoezykLs9EqgamOA",
+   "ok": true,
+   "count": 5
+  },
+  {
+   "kind": "video",
+   "name": "Theo - t3.gg",
+   "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCbRP3c757lWg9M-U7TyEkXA",
+   "ok": true,
+   "count": 5
+  },
+  {
+   "kind": "video",
+   "name": "Matt Wolfe",
+   "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UChpleBmo18P08aKCIgti38g",
+   "ok": true,
+   "count": 5
+  },
+  {
+   "kind": "video",
+   "name": "Cloudflare",
+   "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCuB2xXAmKzSxS0CbwpWCLcw",
+   "ok": false,
+   "count": 0,
+   "error": "HTTP Error 404: Not Found"
+  },
+  {
+   "kind": "data",
+   "name": "IANA root zone",
+   "url": "https://data.iana.org/TLD/tlds-alpha-by-domain.txt",
+   "ok": true,
+   "count": 1435
+  },
+  {
+   "kind": "data",
+   "name": "IANA RDAP bootstrap",
+   "url": "https://data.iana.org/rdap/dns.json",
+   "ok": true,
+   "count": 1203
+  }
+ ],
+ "news_items": 157,
+ "video_items": 60,
+ "ok_sources": 32,
+ "total_sources": 36
+}

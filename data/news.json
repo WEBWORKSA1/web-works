@@ -1,0 +1,1261 @@
+{
+ "updated": "2026-11-23T15:55:39+00:00",
+ "items": [
+  {
+   "title": "Hackers breach Austrian Foreign Ministry website, access diplomats' contact details",
+   "link": "https://therecord.media/austrian-foreign-ministry-says-website-hacked",
+   "source": "The Record",
+   "date": "2026-11-23T15:55:39+00:00",
+   "summary": "Austria's Foreign Ministry said late last week that hackers breached one of its websites and accessed the names and official contact information of employees at its Vienna headquarters and at Austria’s diplomatic…",
+   "cat": "security"
+  },
+  {
+   "title": "Norway says hackers exploited Microsoft security flaw to attack energy firms Equinor, Skagerak Energi",
+   "link": "https://therecord.media/norway-microsoft-cyberattack-equinor",
+   "source": "The Record",
+   "date": "2026-11-23T15:45:00+00:00",
+   "summary": "Norwegian energy companies Equinor and Skagerak Energi were affected by a Microsoft cloud security vulnerability that hackers have exploited to target sensitive credentials, Norway's cybersecurity authorities said.",
+   "cat": "security"
+  },
+  {
+   "title": "One Man's Quest to End Daylight Savings",
+   "link": "https://www.newyorker.com/magazine/2026/11/30/one-mans-quest-to-end-daylight-savings",
+   "source": "Hacker News",
+   "date": "2026-11-23T15:28:41+00:00",
+   "summary": "8 points, 1 comments on Hacker News.",
+   "cat": "business"
+  },
+  {
+   "title": "'Overwhelming' support leads Trump to lock in Davies for national cyber czar",
+   "link": "https://therecord.media/kirsten-davies-trump-intends-nominate-national-cyber-director",
+   "source": "The Record",
+   "date": "2026-11-23T15:14:00+00:00",
+   "summary": "The Pentagon's chief information officer, who has filled in as the acting national cyber director, is the president's likely pick for the full nomination.",
+   "cat": "security"
+  },
+  {
+   "title": "The Final Ad Checklist Before BFCM – What To Fix Now & What To Leave via @sejournal, @tonyadam",
+   "link": "https://www.searchenginejournal.com/the-final-ad-checklist-before-bfcm-what-to-fix-now-what-to-leave/597701/",
+   "source": "Search Engine Journal",
+   "date": "2026-11-23T15:00:32+00:00",
+   "summary": "Keep Black Friday ads running with final checks on budgets, purchase tracking, billing, and offers before the holiday rush.",
+   "cat": "web"
+  },
+  {
+   "title": "AI Agents Are Creating a Shared Responsibility Gap",
+   "link": "https://www.bleepingcomputer.com/news/security/ai-agents-are-creating-a-shared-responsibility-gap/",
+   "source": "BleepingComputer",
+   "date": "2026-11-23T15:00:10+00:00",
+   "summary": "AI agents operate across multiple platforms, creating security gaps when no single vendor can see or control their actions. Token Security examines the shared responsibility problem and explains how organizations can better…",
+   "cat": "security"
+  },
+  {
+   "title": "Older Than the Trademark: Three Reverse Domain Name Hijacking Cases",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONVBGQmwzV2x6N05FS251ZEtDYWJncXlXV1duYm4xQ2Fmb0U5VGd1SVBVeGR6Qkc5ZkxNME54UnZIZm0wS2UxamozOG9BRVNxVFVQb1VjdThpYlliMGJ3bW9TamgtX25SSXNsc3BYNU9oR0szcnZoRzRBYi1YeFBnRWdZbzVOcE9qZWYtaHBOcEI5Wm9VN20wTw?oc=5",
+   "source": "CircleID",
+   "date": "2026-11-23T14:43:04+00:00",
+   "summary": "",
+   "cat": "domains"
+  },
+  {
+   "title": "Building a wireless network adapter for the Super Nintendo",
+   "link": "https://boland.dev/snet/",
+   "source": "Hacker News",
+   "date": "2026-11-23T14:16:37+00:00",
+   "summary": "4 points, 0 comments on Hacker News.",
+   "cat": "business"
+  },
+  {
+   "title": "Jensen Huang Reinstated as Nvidia CEO",
+   "link": "https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director",
+   "source": "Hacker News",
+   "date": "2026-11-23T14:01:23+00:00",
+   "summary": "1461 points, 1251 comments on Hacker News.",
+   "cat": "business"
+  },
+  {
+   "title": "Probing DNS at Cloudflare",
+   "link": "https://blog.cloudflare.com/probing-dns-at-cloudflare/",
+   "source": "Cloudflare Blog",
+   "date": "2026-11-23T14:00:00+00:00",
+   "summary": "At Cloudflare we’ve built tools to enable teams to extend our internal testing framework and build test tooling for networking protocols. This is the story of how this was used for DNS.",
+   "cat": "web"
+  },
+  {
+   "title": "Microsoft testing fix for Windows 11 Bluetooth audio quality drops",
+   "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-fix-for-windows-11-bluetooth-audio-quality-drops/",
+   "source": "BleepingComputer",
+   "date": "2026-11-23T13:28:45+00:00",
+   "summary": "Microsoft is working to fix a long-standing Windows issue that has been causing significant audio quality drops for Bluetooth headphone users. [...]",
+   "cat": "security"
+  },
+  {
+   "title": "Google Publishes Guidance For Google-Agent Crawler via @sejournal, @martinibuster",
+   "link": "https://www.searchenginejournal.com/google-publishes-guidance-for-google-agent-crawler/598526/",
+   "source": "Search Engine Journal",
+   "date": "2026-11-23T13:12:32+00:00",
+   "summary": "Google explains how website owners and SEOs can identify legitimate Google-Agent requests and prevent security systems from blocking them.",
+   "cat": "web"
+  },
+  {
+   "title": "35 AI Prompts & Examples For SEO (Updated November 2026) via @sejournal, @theshelleywalsh",
+   "link": "https://www.searchenginejournal.com/ai-prompts-examples-for-seo-2026/596734/",
+   "source": "Search Engine Journal",
+   "date": "2026-11-23T13:00:17+00:00",
+   "summary": "Use these SEO prompts with verified data, native AI tools, and connected sources to get deeper insights from tool data.",
+   "cat": "web"
+  },
+  {
+   "title": "Win4wine – Run Windows Shell as the Linux Desktop on Wine",
+   "link": "https://github.com/mikuta0407/win4wine",
+   "source": "Hacker News",
+   "date": "2026-11-23T12:28:11+00:00",
+   "summary": "89 points, 36 comments on Hacker News.",
+   "cat": "business"
+  },
+  {
+   "title": "Call center operator gets 8 years for helping scam 30,000 Americans",
+   "link": "https://www.bleepingcomputer.com/news/security/call-center-operator-gets-8-years-for-helping-scam-30-000-americans/",
+   "source": "BleepingComputer",
+   "date": "2026-11-23T12:02:23+00:00",
+   "summary": "A Peruvian call center operator was sentenced to eight years in prison for helping steal millions of dollars from over 30,000 Spanish-speaking US residents in a years-long government-impersonation fraud scheme. [...]",
+   "cat": "security"
+  },
+  {
+   "title": "The next circle of security hell",
+   "link": "https://blogs.gentoo.org/mgorny/2026/10/27/the-next-circle-of-security-hell/",
+   "source": "Hacker News",
+   "date": "2026-11-23T11:34:16+00:00",
+   "summary": "118 points, 61 comments on Hacker News.",
+   "cat": "business"
+  },
+  {
+   "title": "Nospeaker ─ Make your MacBook's trackpad talk using its haptic motor",
+   "link": "https://github.com/os6/nospeaker",
+   "source": "Hacker News",
+   "date": "2026-11-23T11:31:54+00:00",
+   "summary": "102 points, 39 comments on Hacker News.",
+   "cat": "business"
+  },
+  {
+   "title": "GLM-5.4: Toward Generalized Coding with Our First Loop Transformer",
+   "link": "https://z.ai/blog/glm-5.4",
+   "source": "Hacker News",
+   "date": "2026-11-23T10:06:43+00:00",
+   "summary": "631 points, 234 comments on Hacker News.",
+   "cat": "business"
+  },
+  {
+   "title": "Over 500 new '.vn' domain names were registered within an hour of domain registration opening.",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbmZJTE9SYWZDbU5mblZCamltUVVXRl9UZ0tvZUpuZG1qRHNlWUI1UHFXYm1OT3NKa3FqYjh1VWVvVThHbXc4V2FSd1hHMlpoZVozYlNIajhNMlhmeXpYMXdMTF9xMTBXckNqWWg5OTFkVXR3Mk5kRE9id21pV0hRTnZUU1phQjk1?oc=5",
+   "source": "Vietnam.vn",
+   "date": "2026-11-23T10:01:35+00:00",
+   "summary": "",
+   "cat": "domains"
+  },
+  {
+   "title": "You can't afford to keep your SSH keys on disk",
+   "link": "https://jola.dev/posts/you-cant-afford-ssh-keys-disk",
+   "source": "Hacker News",
+   "date": "2026-11-23T09:55:38+00:00",
+   "summary": "24 points, 9 comments on Hacker News.",
+   "cat": "business"
+  },
+  {
+   "title": "Microsoft confirms Windows printing issues affecting Forcepoint users",
+   "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-printing-issues-after-kb5132043-windows-hotpatch/",
+   "source": "BleepingComputer",
+   "date": "2026-11-23T09:11:15+00:00",
+   "summary": "Microsoft confirmed printing issues on systems running Forcepoint DLP software after installing the KB5132043 November 2026 Windows 11 hotpatch. [...]",
+   "cat": "security"
+  },
+  {
+   "title": "Check Your Nov. 18 Rank Data Before Blaming The Core Update via @sejournal, @MattGSouthern",
+   "link": "https://www.searchenginejournal.com/check-your-nov-18-rank-data-before-blaming-the-core-update/598449/",
+   "source": "Search Engine Journal",
+   "date": "2026-11-23T09:00:04+00:00",
+   "summary": "A rank tracker received about a tenth of its usual Google results for hours during the core update, with a sign-in page among the blocks.",
+   "cat": "web"
+  },
+  {
+   "title": "CISA flags critical Cisco RCE flaw as actively exploited in attacks",
+   "link": "https://www.bleepingcomputer.com/news/security/cisa-flags-critical-cisco-expressway-rce-flaw-as-actively-exploited/",
+   "source": "BleepingComputer",
+   "date": "2026-11-23T07:44:19+00:00",
+   "summary": "The US Cybersecurity and Infrastructure Security Agency (CISA) warned federal agencies that attackers are now exploiting a recently patched critical Cisco Expressway vulnerability in the wild. [...]",
+   "cat": "security"
+  },
+  {
+   "title": "CollectWise (YC F24) Is Hiring",
+   "link": "https://www.ycombinator.com/companies/collectwise/jobs/lgobCse-founding-customer-success-manager",
+   "source": "Hacker News",
+   "date": "2026-11-23T07:01:08+00:00",
+   "summary": "0 points, 0 comments on Hacker News.",
+   "cat": "business"
+  },
+  {
+   "title": "Claremont McKenna College Sued for Discrimination and Retaliation",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQeTg4SVNpdXEwamtXTEE2N3Ata1RUYnpnVEVWanl1bE9IT3RZSHFiN1pKNHlpdUJkaXBVcldVMmNGQWVDbUh2djVQY01QWE5DTUlIUWt0Y041cE5ZVERyYmdTa180Vm40d2NBWjdCbEZISmtwMS1TNk5yVWNpdjhKSUhWNFVzcjV2M3B6c2tqM0tVcDRGTVV0NFdidWZGbWpneFFHeDV0RFJibV94QW5LZ1hrSHFFcWNDNF91RGNQR1c5RWhOZF9QLTBZYTBOUE12Nk1OMA?oc=5",
+   "source": "LawyersandSettlements.com",
+   "date": "2026-11-23T06:15:00+00:00",
+   "summary": "",
+   "cat": "domains"
+  },
+  {
+   "title": "Yes, 17M lines of Lean is a lot",
+   "link": "https://micjm.com/blog/yes-17m-lines-of-lean-is-a-lot/",
+   "source": "Hacker News",
+   "date": "2026-11-23T05:00:49+00:00",
+   "summary": "199 points, 238 comments on Hacker News.",
+   "cat": "business"
+  },
+  {
+   "title": "A Partial Evaluator for C",
+   "link": "https://phoenix.labri.fr/software/tempo/",
+   "source": "Hacker News",
+   "date": "2026-11-23T04:51:48+00:00",
+   "summary": "91 points, 22 comments on Hacker News.",
+   "cat": "business"
+  },
+  {
+   "title": "XNU Linux: Full OS X GUI Userspace on Linux",
+   "link": "https://github.com/AFK-surf/xnulinux",
+   "source": "Hacker News",
+   "date": "2026-11-23T03:49:24+00:00",
+   "summary": "485 points, 205 comments on Hacker News.",
+   "cat": "business"
+  },
+  {
+   "title": "The New Docker: Built to Run on Trust",
+   "link": "https://www.docker.com/blog/meet-the-new-docker-built-to-run-on-trust/",
+   "source": "Hacker News",
+   "date": "2026-11-23T03:34:29+00:00",
+   "summary": "86 points, 165 comments on Hacker News.",
+   "cat": "business"
+  },
+  {
+   "title": "China Demands Spelling Change for '.HAN' Domain Bearing Korea's Name; Gabia Says \"Unacceptable\"",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5Gc2FFRnEtb3A1bkh6eHlJWV9zYncteUN0WG83aUVmWElrWmVjeGtuYTFzMzNkbVZrVk1tb0F6SGFac2l5X1hvR1ZkR2tjeU5sTGdRMkJfRDhYTUlpY193OElqVnYwT0pKSDhzVVNoSThRNmk1UlE?oc=5",
+   "source": "finance.biggo.com",
+   "date": "2026-11-23T01:55:00+00:00",
+   "summary": "",
+   "cat": "domains"
+  },
+  {
+   "title": "Treemap of the Riemann Hypothesis Lean Proof",
+   "link": "https://pengowray.github.io/riemann-zeta-proof-visualizer/",
+   "source": "Hacker News",
+   "date": "2026-11-23T01:50:23+00:00",
+   "summary": "149 points, 62 comments on Hacker News.",
+   "cat": "business"
+  },
+  {
+   "title": "Free alternative TV network built from the Internet Archive's forgotten videos",
+   "link": "https://spelunkr.tv",
+   "source": "Hacker News",
+   "date": "2026-11-23T01:13:51+00:00",
+   "summary": "735 points, 136 comments on Hacker News.",
+   "cat": "business"
+  },
+  {
+   "title": "GL.iNet Security Notice 2026-11-20",
+   "link": "https://www.gl-inet.com/en-us/blogs/blog/glinet-security-notice-2026-11-20",
+   "source": "Hacker News",
+   "date": "2026-11-22T23:06:37+00:00",
+   "summary": "246 points, 118 comments on Hacker News.",
+   "cat": "business"
+  },
+  {
+   "title": "The struggle for freedom: How BSD escaped AT&T licensing",
+   "link": "https://fosscomics.com/posts/16.%20BSD%20Unix%20Part%206%20-%20The%20Struggle%20for%20Freedom/",
+   "source": "Hacker News",
+   "date": "2026-11-22T21:33:12+00:00",
+   "summary": "151 points, 63 comments on Hacker News.",
+   "cat": "business"
+  },
+  {
+   "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
+   "link": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
+   "source": "Hacker News",
+   "date": "2026-11-22T21:01:16+00:00",
+   "summary": "650 points, 263 comments on Hacker News.",
+   "cat": "business"
+  },
+  {
+   "title": "A miniature San Francisco with live buses, planes and boats",
+   "link": "https://smallsf.com/",
+   "source": "Hacker News",
+   "date": "2026-11-22T20:33:23+00:00",
+   "summary": "329 points, 107 comments on Hacker News.",
+   "cat": "business"
+  },
+  {
+   "title": "Assume People Are Not Interested in Your Blog Post",
+   "link": "https://danielsada.tech/blog/assume-people-are-not-interested-in-your-blog-post/",
+   "source": "Hacker News",
+   "date": "2026-11-22T19:41:30+00:00",
+   "summary": "277 points, 136 comments on Hacker News.",
+   "cat": "business"
+  },
+  {
+   "title": "The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife",
+   "link": "https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife",
+   "source": "Hacker News",
+   "date": "2026-11-22T19:10:34+00:00",
+   "summary": "590 points, 320 comments on Hacker News.",
+   "cat": "business"
+  },
+  {
+   "title": "Hackers exploit GL.iNet cloud flaw to infect routers, KVM devices",
+   "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-glinet-cloud-flaw-to-infect-routers-kvm-devices/",
+   "source": "BleepingComputer",
+   "date": "2026-11-22T18:45:37+00:00",
+   "summary": "GL.iNet has confirmed that hackers exploited a vulnerability in its cloud remote management services to install custom malware on customers' routers and KVM devices, with some affected users reporting backdoors and reverse…",
+   "cat": "security"
+  },
+  {
+   "title": "Perplexity and Intelligence",
+   "link": "https://openai.com/index/perplexity-and-intelligence/",
+   "source": "Hacker News",
+   "date": "2026-11-22T17:06:27+00:00",
+   "summary": "651 points, 422 comments on Hacker News.",
+   "cat": "business"
+  },
+  {
+   "title": "Cleverbridge warns hackers stole credit card numbers, CVVs in data breach",
+   "link": "https://www.bleepingcomputer.com/news/security/cleverbridge-warns-hackers-stole-credit-card-numbers-cvvs-in-data-breach/",
+   "source": "BleepingComputer",
+   "date": "2026-11-22T15:43:04+00:00",
+   "summary": "E-commerce platform Cleverbridge is warning that hackers breached its systems and stole customers' payment card information, including credit card numbers and CVV security codes. [...]",
+   "cat": "security"
+  },
+  {
+   "title": "Signal to block Siri, Gemini AI from capturing chats on iOS, Android",
+   "link": "https://www.bleepingcomputer.com/news/security/signal-to-block-siri-gemini-ai-from-capturing-chats-on-ios-android/",
+   "source": "BleepingComputer",
+   "date": "2026-11-22T15:15:25+00:00",
+   "summary": "Signal has announced new protections that block screenshots on iOS 27 and prevent AI assistants from capturing conversations on supported Android devices. [...]",
+   "cat": "security"
+  },
+  {
+   "title": "ChatChat.com sold for $100,000 dollars via Afternic LTO",
+   "link": "https://domaingang.com/domain-news/chatchat-com-sold-for-100000-dollars-via-afternic-lto/",
+   "source": "DomainGang",
+   "date": "2026-11-22T15:01:19+00:00",
+   "summary": "Domain investor Yinan Wang has announced the successful completion of the $100,000 dollar sale of ChatChat.com, sold through Afternic’s lease to own (LTO) program. According to Wang’s announcement on X, the agreement…",
+   "cat": "domains"
+  },
+  {
+   "title": "Masullo on the Riemann Hypothesis",
+   "link": "https://johncarlosbaez.wordpress.com/2026/11/22/masullo-on-the-riemann-hypothesis/",
+   "source": "Hacker News",
+   "date": "2026-11-22T10:59:56+00:00",
+   "summary": "277 points, 258 comments on Hacker News.",
+   "cat": "business"
+  },
+  {
+   "title": "Rackspace Spot breach let hackers access customer Kubernetes secrets",
+   "link": "https://www.bleepingcomputer.com/news/security/rackspace-spot-breach-let-hackers-access-customer-kubernetes-secrets/",
+   "source": "BleepingComputer",
+   "date": "2026-11-21T22:59:58+00:00",
+   "summary": "Rackspace warned customers that hackers breached its Rackspace Spot cloud platform using compromised credentials, allowing them to deploy unauthorized workloads and access Kubernetes secrets in customer clusters. [...]",
+   "cat": "security"
+  },
+  {
+   "title": "America250style.com UDRP: US anniversary commission targets domains registered in China",
+   "link": "https://domaingang.com/domain-law/america250style-com-udrp-us-anniversary-commission-targets-domains-registered-in-china/",
+   "source": "DomainGang",
+   "date": "2026-11-21T20:11:46+00:00",
+   "summary": "The United States Semiquincentennial Commission, established by Congress to coordinate America’s 250th anniversary celebrations, filed a UDRP against three domains allegedly infringing its AMERICA 250 trademark. The disputed domains, America250style.com, America250wear.com, and…",
+   "cat": "domains"
+  },
+  {
+   "title": "Microsoft Entra Connect Health flaw exploited to steal tenant data",
+   "link": "https://www.bleepingcomputer.com/news/security/microsoft-entra-connect-health-flaw-exploited-to-steal-tenant-data/",
+   "source": "BleepingComputer",
+   "date": "2026-11-21T18:01:58+00:00",
+   "summary": "Microsoft is warning organizations that it suffered a data breach after attackers exploited a vulnerability in its Entra Connect Health service to gain unauthorized access to administrator email addresses and tenant configuration…",
+   "cat": "security"
+  },
+  {
+   "title": "Leonida.com: Mike Mann’s $394,888 “ransom” for GTA VI’s fictional Florida",
+   "link": "https://domaingang.com/domain-news/leonida-com-mike-manns-394888-ransom-for-gta-vis-fictional-florida/",
+   "source": "DomainGang",
+   "date": "2026-11-21T17:11:27+00:00",
+   "summary": "Rockstar Games has officially released Grand Theft Auto VI, the latest installment of its blockbuster gaming franchise, on November 19, 2026. The game takes place in Leonida, a fictional state modeled after…",
+   "cat": "domains"
+  },
+  {
+   "title": "BADBOX botnet returns with record-breaking 40 billion daily ad requests",
+   "link": "https://www.bleepingcomputer.com/news/security/badbox-30-botnet-returns-with-record-breaking-40-billion-daily-ad-requests/",
+   "source": "BleepingComputer",
+   "date": "2026-11-21T15:17:27+00:00",
+   "summary": "The BADBOX malware found in a broad range of generic Android TV boxes has returned to large-scale ad-fraud operations following last year's disruptions. [...]",
+   "cat": "security"
+  },
+  {
+   "title": "FBI reportedly hacked again, this time targeting nationwide police database",
+   "link": "https://www.bleepingcomputer.com/news/security/fbi-reportedly-hacked-again-this-time-targeting-nationwide-police-database/",
+   "source": "BleepingComputer",
+   "date": "2026-11-21T14:26:04+00:00",
+   "summary": "FBI systems have reportedly been breached for the second time in two months, this time targeting the agency's National Crime Information Center (NCIC), which is used to share information between local, state…",
+   "cat": "security"
+  },
+  {
+   "title": "Google’s Branded API Data, CDN Advice & Ask Maps Calls – SEO Pulse via @sejournal, @MattGSouthern",
+   "link": "https://www.searchenginejournal.com/seo-pulse-wordpress-random-redirects-branded-api-data-cdn-advice/598173/",
+   "source": "Search Engine Journal",
+   "date": "2026-11-21T13:00:00+00:00",
+   "summary": "This week's SEO Pulse covers WordPress's random redirect, branded data in Search Console API, Google's CDN guidance, and who controls access for bots and agents.",
+   "cat": "web"
+  },
+  {
+   "title": "MRAM Basics: How Magnetic Memory Is Replacing Embedded Flash",
+   "link": "https://www.allaboutcircuits.com/technical-articles/mram-basics-how-magnetic-memory-is-replacing-embedded-flash/",
+   "source": "Hacker News",
+   "date": "2026-11-21T10:14:11+00:00",
+   "summary": "47 points, 19 comments on Hacker News.",
+   "cat": "business"
+  },
+  {
+   "title": "Spacecraft reaches Mercury on second-ever mission to enter its orbit",
+   "link": "https://www.theguardian.com/science/2026/nov/20/spacecraft-mercury-second-ever-mission-orbit-bepicolombo",
+   "source": "Hacker News",
+   "date": "2026-11-21T09:14:02+00:00",
+   "summary": "30 points, 3 comments on Hacker News.",
+   "cat": "business"
+  },
+  {
+   "title": "What's the difference between an integer and a pointer? (2018)",
+   "link": "https://blog.regehr.org/archives/1621",
+   "source": "Hacker News",
+   "date": "2026-11-21T08:49:14+00:00",
+   "summary": "39 points, 15 comments on Hacker News.",
+   "cat": "business"
+  },
+  {
+   "title": "North County races appear decided, though with some very slim leads - San Diego Union-Tribune",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQT0RVNGtDNmNES2RCQ3dfTkl5d3I2WFpJNXZQN2tfOUJNdDBpSXllQTFfb0NTUDBwRU5pWlZQMjBwbDFPbTRObW5qT1NUQUdpbUJVeFNwNVJWSEp5ZXF1T1NUM2YyV3dZU05IV01Rak9GcUFkZWNzQXNZbFQ0LXlrWDdyV2hMTW9JTEk4c3h2TlVMTG5LUjdmakdjcXFLYTZQeS1td0pyWmNqNTAta2NGNFBKQVVOZw?oc=5",
+   "source": "Google News: domain names",
+   "date": "2026-11-21T03:06:05+00:00",
+   "summary": "",
+   "cat": "domains"
+  },
+  {
+   "title": "Elixir HLS makes FPGA circuits from functions written in Elixir",
+   "link": "https://github.com/elixir-hls/elixir-hls",
+   "source": "Hacker News",
+   "date": "2026-11-21T00:47:57+00:00",
+   "summary": "102 points, 6 comments on Hacker News.",
+   "cat": "business"
+  },
+  {
+   "title": "CTO of ‘RansomwareHelp’ Indicted for Wire Fraud",
+   "link": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/",
+   "source": "Krebs on Security",
+   "date": "2026-11-21T00:36:39+00:00",
+   "summary": "The chief technology officer and co-founder of ransomwarehelp.com, a six year old Florida business that claimed to use \"advanced cryptographic tools\" to restore data locked by ransomware, has been charged with wire…",
+   "cat": "security"
+  },
+  {
+   "title": "Reviving the Donkey Car with Erlang",
+   "link": "https://underjord.io/reviving-the-donkey-car-with-erlang.html",
+   "source": "Hacker News",
+   "date": "2026-11-20T22:56:20+00:00",
+   "summary": "19 points, 0 comments on Hacker News.",
+   "cat": "business"
+  },
+  {
+   "title": "West Virginia Legislature hit with cyber incident affecting IT systems",
+   "link": "https://therecord.media/west-virginia-legislature-cyberattack",
+   "source": "The Record",
+   "date": "2026-11-20T21:34:36+00:00",
+   "summary": "A cybersecurity incident that began Thursday was still ongoing Friday in the West Virginia Legislature. A spokesperson said the disruption did not spread to other government entities.",
+   "cat": "security"
+  },
+  {
+   "title": "DropCatch auctions: Select domain results—November 20, 2026 | TimberKits.com – $3,200",
+   "link": "https://domaingang.com/domain-news/dropcatch-auctions-select-domain-results-november-20-2026-timberkits-com-3200/",
+   "source": "DomainGang",
+   "date": "2026-11-20T21:31:17+00:00",
+   "summary": "DropCatch is a major domain backordering service that specializes in acquiring expiring domain names as soon as they return to availability. The platform uses an extensive network of ICANN-accredited registrars to improve…",
+   "cat": "domains"
+  },
+  {
+   "title": "Experts warn: Nearly everyone in AI is susceptible to a honey-trap scheme right now",
+   "link": "https://techcrunch.com/2026/11/20/experts-warn-nearly-everyone-in-ai-is-susceptible-to-a-honey-trap-scheme-right-now/",
+   "source": "TechCrunch Startups",
+   "date": "2026-11-20T20:58:29+00:00",
+   "summary": "Techies are building technology that can advance all aspects of the world — but can they protect their hearts? That's the vulnerability that honey pots exploit.",
+   "cat": "business"
+  },
+  {
+   "title": "Brake Check: Hijacking Trailer Brakes over Bluetooth",
+   "link": "https://elementdigital.com.au/blog/brake-check-trailer-brakes-over-bluetooth/",
+   "source": "Hacker News",
+   "date": "2026-11-20T20:57:16+00:00",
+   "summary": "63 points, 45 comments on Hacker News.",
+   "cat": "business"
+  },
+  {
+   "title": "US companies’ use of Chinese open weight AI draws rebuke from House chairmen",
+   "link": "https://therecord.media/chinese-open-weight-AI-use-by-US-companies-house-investigation",
+   "source": "The Record",
+   "date": "2026-11-20T20:25:00+00:00",
+   "summary": "An investigation led by the House Homeland Security Committee focused on the dangers of U.S. companies using lower-cost open weight AI models for certain projects.",
+   "cat": "security"
+  },
+  {
+   "title": "How Cloudflare WAF protects against ruby2shell (CVE-2026-132825)",
+   "link": "https://blog.cloudflare.com/ruby2shell-waf-protection/",
+   "source": "Cloudflare Blog",
+   "date": "2026-11-20T20:24:38+00:00",
+   "summary": "ruby2shell lets attackers corrupt memory in default Rails and Sinatra apps without logging in. Cloudflare WAF blocks it for every customer, including Free plans. Upgrade Ruby now, and use the WAF to…",
+   "cat": "web"
+  },
+  {
+   "title": "Salesforce CEO Says ‘Goodbye SEO.’ Salesforce’s SEO Guide Disagrees via @sejournal, @MattGSouthern",
+   "link": "https://www.searchenginejournal.com/salesforce-ceo-goodbye-seo-salesforce-seo-guide/598343/",
+   "source": "Search Engine Journal",
+   "date": "2026-11-20T20:20:52+00:00",
+   "summary": "Marc Benioff promoted Palmata by saying goodbye to SEO, while Salesforce’s own guide says SEO remains the foundation.",
+   "cat": "web"
+  },
+  {
+   "title": "How Cloudflare WAF helps protect against phpAfterShell and other critical PHP flaws",
+   "link": "https://blog.cloudflare.com/phpaftershell-waf-protection/",
+   "source": "Cloudflare Blog",
+   "date": "2026-11-20T20:00:45+00:00",
+   "summary": "phpAfterShell is a critical flaw in PHP's default session handler that can lead to code execution. Cloudflare WAF blocks it for all customers, including Free plans, and adds new rules for other…",
+   "cat": "web"
+  },
+  {
+   "title": "Why Building Trust Through Real People Stands The Test Of Time In SEO & AI Search via @sejournal, @lilyraynyc",
+   "link": "https://www.searchenginejournal.com/why-building-trust-through-real-people-stands-the-test-of-time-in-seo-ai-search/598110/",
+   "source": "Search Engine Journal",
+   "date": "2026-11-20T20:00:34+00:00",
+   "summary": "Scaled AI content, fake authors, and self-promotional listicles work until they don’t. Here’s why putting real human experts first keeps paying off in search.",
+   "cat": "web"
+  },
+  {
+   "title": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
+   "link": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
+   "source": "TechCrunch Startups",
+   "date": "2026-11-20T19:53:41+00:00",
+   "summary": "Spotify founder Daniel Ek is backing Europa Fusion, a fusion power startup founded by an AI researcher. Here's what the startup is building.",
+   "cat": "business"
+  },
+  {
+   "title": "Bell Canada says 'agentic' hacker stole enterprise customer data",
+   "link": "https://www.bleepingcomputer.com/news/security/bell-canada-says-agentic-hacker-stole-enterprise-customer-data/",
+   "source": "BleepingComputer",
+   "date": "2026-11-20T18:51:43+00:00",
+   "summary": "Bell Canada has confirmed that an \"agentic\" threat actor breached its systems on November 17, 2026, and stole enterprise customer data, including information from a system used to order and provision telecommunications…",
+   "cat": "security"
+  },
+  {
+   "title": "Jensen Huang exits NVIDIA: JensenHuang.com for sale with a $500,000 asking price",
+   "link": "https://domaingang.com/domain-news/jensen-huang-exits-nvidia-jensenhuang-com-for-sale-with-a-500000-asking-price/",
+   "source": "DomainGang",
+   "date": "2026-11-20T18:51:26+00:00",
+   "summary": "Jensen Huang, the co-founder and longtime CEO of NVIDIA, has stepped down from the company he helped establish in 1993, bringing an unexpected end to more than three decades of leadership. According…",
+   "cat": "domains"
+  },
+  {
+   "title": "Hackers use autonomous AI tool Cairn to find zero-day, take over server",
+   "link": "https://www.bleepingcomputer.com/news/security/hackers-use-autonomous-ai-tool-cairn-to-find-zero-day-take-over-server/",
+   "source": "BleepingComputer",
+   "date": "2026-11-20T17:30:00+00:00",
+   "summary": "Threat actors used the open-source AI penetration-testing framework Cairn to find a previously unknown vulnerability in a medical imaging application. [...]",
+   "cat": "security"
+  },
+  {
+   "title": "Google’s ‘Top 10’ Line For CMOs Points At Generic Tips Posts via @sejournal, @MattGSouthern",
+   "link": "https://www.searchenginejournal.com/google-told-cmos-to-stop-top-10-listicles/598310/",
+   "source": "Search Engine Journal",
+   "date": "2026-11-20T16:17:43+00:00",
+   "summary": "Google's marketing account told CMOs to replace generic tips posts with content grounded in first-hand expertise.",
+   "cat": "web"
+  },
+  {
+   "title": "Bending Spoons buys Mailchimp for $3.68B",
+   "link": "https://techcrunch.com/2026/11/20/bending-spoons-buys-mailchimp-for-3-68-billion/",
+   "source": "TechCrunch Startups",
+   "date": "2026-11-20T16:16:06+00:00",
+   "summary": "Intuit acquired the company in 2021 for roughly $12 billion, so it looks like Bending Spoons is getting quite a bargain.",
+   "cat": "business"
+  },
+  {
+   "title": "Vendor data breach exposes Chase, Visa, Mastercard customer info",
+   "link": "https://www.bleepingcomputer.com/news/security/vendor-data-breach-exposes-chase-visa-mastercard-customer-info/",
+   "source": "BleepingComputer",
+   "date": "2026-11-20T15:58:06+00:00",
+   "summary": "J.P. Morgan Chase warned it suffered a data breach after a cyberattack at a third-party service provider exposed customers' personal information and marketing data. [...]",
+   "cat": "security"
+  },
+  {
+   "title": "Booger Kit: The most fun project that we came across at NamesCon!",
+   "link": "https://domaingang.com/domain-news/booger-kit-the-most-fun-project-that-we-came-across-at-namescon/",
+   "source": "DomainGang",
+   "date": "2026-11-20T15:51:17+00:00",
+   "summary": "Sean Stafford has been an inventive entrepreneur throughout his entire career; the Louisville, KY resident began domaining more than two decades ago. In the late 2000’s he wrote a great domain investing…",
+   "cat": "domains"
+  },
+  {
+   "title": "A Charity Rescue Dog Outscored Amazon’s Christmas Ad – PPC Accounts Need A Story Before Cyber Week via @sejournal, @gregjarboe",
+   "link": "https://www.searchenginejournal.com/a-charity-rescue-dog-outscored-amazons-christmas-ad-ppc-accounts-need-a-story-before-cyber-week/597789/",
+   "source": "Search Engine Journal",
+   "date": "2026-11-20T15:00:09+00:00",
+   "summary": "Give holiday Google Ads a stronger story, using DAIVID's ranking of 75 Christmas ads where Dogs Trust outscored Amazon.",
+   "cat": "web"
+  },
+  {
+   "title": "The fallout from Nvidia’s Jensen Huang scandal continues",
+   "link": "https://techcrunch.com/podcast/the-fallout-from-nvidias-jensen-huang-scandal-continues/",
+   "source": "TechCrunch Startups",
+   "date": "2026-11-20T14:55:44+00:00",
+   "summary": "In the midst of dealing with the fallout from its ouster of CEO Jensen Huang, Nvidia delivered its latest earnings report this week, with healthy growth and promises that the good times…",
+   "cat": "business"
+  },
+  {
+   "title": "RightOfTheDot extends NamesCon 2026 domain auction through November 30",
+   "link": "https://domaingang.com/domain-news/rightofthedot-extends-namescon-2026-domain-auction-through-november-30/",
+   "source": "DomainGang",
+   "date": "2026-11-20T14:51:18+00:00",
+   "summary": "Following the live domain auction at NamesCon Global 2026 in Miami on November 11, RightOfTheDot (ROTD) has extended its online timed auction, giving domain investors and potential end-user buyers additional time to…",
+   "cat": "domains"
+  },
+  {
+   "title": "GoDaddy Website Builder Black Friday Deal 2026: Save Up to 33%",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZUd0TUtpSWVhWmNqOFoyQmozQnZYRnJ4SE04R0V6UE4zTWRvYUNHa3RPT01SRVRLbUZ5LTgwMjZJWGxjWFMyaDVGNnMwenF5dHlWSzc4LVhZeVk3RWtlNnJYQ3N0SlA4c25DTnlFZGg1ZFZPcGdLSEVjVFhuNGZMWg?oc=5",
+   "source": "Cybernews",
+   "date": "2026-11-20T14:50:13+00:00",
+   "summary": "",
+   "cat": "business"
+  },
+  {
+   "title": "Eighteen end user domain name sales this week",
+   "link": "https://domainnamewire.com/2026/11/20/eighteen-end-user-domain-name-sales-this-week/",
+   "source": "Domain Name Wire",
+   "date": "2026-11-20T14:24:51+00:00",
+   "summary": "A German bakery, a UK business telecoms provider, and a medical lab bought domain names. Sedo had a short sales list this week. The top public sale was a four-digit domain, 5658…",
+   "cat": "domains"
+  },
+  {
+   "title": "SedoTMP: RSOC arbitrage platform to shut down",
+   "link": "https://domaingang.com/domain-news/sedotmp-rsoc-arbitrage-platform-to-shut-down/",
+   "source": "DomainGang",
+   "date": "2026-11-20T14:11:42+00:00",
+   "summary": "Sedo is shutting down SedoTMP, its search arbitrage monetization platform, with the service scheduled to close on November 25, 2026. According to a LinkedIn post by Stefan Wiegard, SedoTMP customers have been…",
+   "cat": "domains"
+  },
+  {
+   "title": "Nameshift domain sales: November 9-15, 2026 – Cmt.at sold for €5,999 EUR",
+   "link": "https://domaingang.com/domain-news/nameshift-domain-sales-november-9-15-2026-cmt-at-sold-for-e5999-eur/",
+   "source": "DomainGang",
+   "date": "2026-11-20T14:05:52+00:00",
+   "summary": "Nameshift is a European domain marketplace created by established domain investors to connect domain sellers with entrepreneurs, businesses, and creators searching for the right domain name. This domain sales report is presented…",
+   "cat": "domains"
+  },
+  {
+   "title": "Most AI Citations That Disappeared Came Back, Study Finds via @sejournal, @MattGSouthern",
+   "link": "https://www.searchenginejournal.com/ai-citations-what-to-check-before-reacting-to-a-lost-one/598166/",
+   "source": "Search Engine Journal",
+   "date": "2026-11-20T13:00:00+00:00",
+   "summary": "Most AI citations that disappear later come back. Here are four things to check about a lost citation before you decide to change a page.",
+   "cat": "web"
+  },
+  {
+   "title": "Actual SEO Media, Inc. Introduces AI Website Auditing That Reviews Every Page, Not a Sample",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOTUxkN2E2OFUzdUdjbmJxN1BwWEl6eG9nN1gzRmh4dGRFNU53UGVIS2ZRcmktd0duRzBpNzBaVDk3Qnh2dXpmZHJMSTVQbEJSTjA3ZVN4NEI4a3VXWjNxcU53d2RaNXpnbFpJZ3BySXBGS29vWjdJVFpUaW5EbUFpdVVfT0haaUQtd0FMbDdSeFBuQ09zV1QzVkt0LTRzUWJDaVRpa2dGUnNEN1d3RkdQYzlDMDVNZ0daU0NfT2hNa2VaODYwemszbU5BNk5SSVBFYkVDTw?oc=5",
+   "source": "Detroit Free Press",
+   "date": "2026-11-20T11:33:03+00:00",
+   "summary": "",
+   "cat": "business"
+  },
+  {
+   "title": "nginx2root: Five new nginx vulnerabilities, and how Cloudflare protects origins from the worst of them",
+   "link": "https://blog.cloudflare.com/nginx2root/",
+   "source": "Cloudflare Blog",
+   "date": "2026-11-20T01:58:29+00:00",
+   "summary": "Five memory corruption bugs in nginx, called nginx2root, can let an unauthenticated attacker run code on a server. Here’s how they work, and why origins behind Cloudflare's proxy are shielded from the…",
+   "cat": "web"
+  },
+  {
+   "title": "DropCatch auctions: Select domain results—November 19, 2026 | APKCombo.com – $48,000",
+   "link": "https://domaingang.com/domain-news/dropcatch-auctions-select-domain-results-november-19-2026-apkcombo-com-48000/",
+   "source": "DomainGang",
+   "date": "2026-11-19T23:31:34+00:00",
+   "summary": "DropCatch is a major domain backordering service that specializes in acquiring expiring domain names as soon as they return to availability. The platform uses an extensive network of ICANN-accredited registrars to improve…",
+   "cat": "domains"
+  },
+  {
+   "title": "Steven Maviglio: The case for repealing California’s top-two primary system",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcG40QVdKd2IyMW51UnZUSmhNd2pTN2NOYkpjMkFaVldCWUFXMnFQMDBWR0NtUkJQNkMtNHpMeXVpQV9Mb2Q0QkV4SEFxSElJbWdrZVhZbnQ1b1VZTEp6ejZ1MXFjenRWMVFpNmZKcFlLYU5xZ29OYlpBY2NiNDBWbFNUbzRRcjhYQWl2b1VZRi1NQVRSRTJfeXliTUJHMWZhbFY2OE4yRVRVOEJXbW5xbWtB?oc=5",
+   "source": "Orange County Register",
+   "date": "2026-11-19T22:00:48+00:00",
+   "summary": "",
+   "cat": "domains"
+  },
+  {
+   "title": "APKCombo.com: Popular Android download site expires; DropCatch auction tops $48,000",
+   "link": "https://domaingang.com/domain-news/apkcombo-com-popular-android-download-site-expires-dropcatch-auction-tops-48000/",
+   "source": "DomainGang",
+   "date": "2026-11-19T20:21:34+00:00",
+   "summary": "For weeks, Android users have been wondering what happened to APKCombo.com, a popular platform for downloading Android applications and games. The website disappeared without an apparent explanation, leaving users searching for alternatives…",
+   "cat": "domains"
+  },
+  {
+   "title": "21 Alternative Search Engines You Can Use Instead of Google via @sejournal, @lorenbaker",
+   "link": "https://www.searchenginejournal.com/21-alternative-search-engines-you-can-use-instead-of-google/596605/",
+   "source": "Search Engine Journal",
+   "date": "2026-11-19T20:00:05+00:00",
+   "summary": "Compare 21 Google alternatives for everyday search, private search, AI answers, specialist research, and regional results.",
+   "cat": "web"
+  },
+  {
+   "title": "Google’s Next Update Won’t Touch The Index, And Nobody Will Announce It via @sejournal, @DuaneForrester",
+   "link": "https://www.searchenginejournal.com/googles-next-update-wont-touch-the-index-and-nobody-will-announce-it/597481/",
+   "source": "Search Engine Journal",
+   "date": "2026-11-19T18:00:31+00:00",
+   "summary": "Stop matching traffic drops to update dates. Sample what AI assistants say about your company on a schedule and track which facts drift.",
+   "cat": "web"
+  },
+  {
+   "title": "Skate to where the puck is going, not where it has been",
+   "link": "https://domainnamewire.com/2026/11/19/skate-to-where-the-puck-is-going-not-where-it-has-been/",
+   "source": "Domain Name Wire",
+   "date": "2026-11-19T17:16:06+00:00",
+   "summary": "What worked for you a few years ago might not be the appropriate strategy going forward. Last week at NamesCon, Atom CEO Darpan Munjal presented a session titled “Buy what will sell…",
+   "cat": "domains"
+  },
+  {
+   "title": "Namecheap launches Private Email mobile app for iOS and Android",
+   "link": "https://domaingang.com/domain-news/namecheap-launches-private-email-mobile-app-for-ios-and-android/",
+   "source": "DomainGang",
+   "date": "2026-11-19T17:11:15+00:00",
+   "summary": "Domain registrar Namecheap has announced the launch of its dedicated Private Email mobile app, bringing its business email service to iOS and Android devices. The new app is included with every Private…",
+   "cat": "domains"
+  },
+  {
+   "title": "Former Alibaba exec’s Everful raises $48.5M to connect retailers with Chinese factories",
+   "link": "https://techcrunch.com/2026/11/19/former-alibaba-execs-everful-raises-48-5m-to-connect-retailers-with-chinese-factories/",
+   "source": "TechCrunch Startups",
+   "date": "2026-11-19T17:00:00+00:00",
+   "summary": "Everful has raised $48.5 million to expand its factory-direct sourcing platform, helping retailers source products from overseas manufacturers.",
+   "cat": "business"
+  },
+  {
+   "title": "NamesCon 2026: Bigger and better",
+   "link": "https://domainnamewire.com/2026/11/19/namescon-2026-bigger-and-better/",
+   "source": "Domain Name Wire",
+   "date": "2026-11-19T15:56:14+00:00",
+   "summary": "NamesCon 2026 was bigger, with better content and an improved venue setup. NamesCon 2026 is in the books, and on all accounts, it was a nice improvement over 2025. The event was…",
+   "cat": "domains"
+  },
+  {
+   "title": "Your WordPress Sitemap Isn’t Broken – Chrome 158 Has Dropped XSLT via @sejournal, @TaylorDanRW",
+   "link": "https://www.searchenginejournal.com/your-wordpress-sitemap-isnt-broken-chrome-158-has-dropped-xslt/597549/",
+   "source": "Search Engine Journal",
+   "date": "2026-11-19T15:00:06+00:00",
+   "summary": "Chrome dropping XSLT makes WordPress sitemaps display as raw XML. Skip the unnecessary fixes and use Google Search Console to verify crawlers still read them.",
+   "cat": "web"
+  },
+  {
+   "title": "WordPress 7.1.5 Security Release Fixes 18 Vulnerabilities via @sejournal, @martinibuster",
+   "link": "https://www.searchenginejournal.com/wordpress-7-1-5-security-release-fixes-18-vulnerabilities/598080/",
+   "source": "Search Engine Journal",
+   "date": "2026-11-19T14:40:05+00:00",
+   "summary": "WordPress 7.1.5 fixes 18 vulnerabilities and adds two security improvements, including an unauthenticated flaw that could lead to RCE.",
+   "cat": "web"
+  },
+  {
+   "title": "Internet traffic and attacks during the 2026 U.S. midterm elections",
+   "link": "https://blog.cloudflare.com/internet-traffic-2026-us-election/",
+   "source": "Cloudflare Blog",
+   "date": "2026-11-19T14:00:00+00:00",
+   "summary": "On November 3, 2026 U.S. voters headed to the polls. Here’s what Cloudflare data across more than 1,400 protected sites tells us about Election Day Internet traffic and cyberattacks.",
+   "cat": "web"
+  },
+  {
+   "title": "Rawchella.com UDRP: Coachella continues its aggressive trademark enforcement",
+   "link": "https://domaingang.com/domain-law/rawchella-com-udrp-coachella-continues-its-aggressive-trademark-enforcement/",
+   "source": "DomainGang",
+   "date": "2026-11-19T13:36:21+00:00",
+   "summary": "Coachella Music Festival, LLC filed a UDRP against Rawchella.com, a domain registered two months ago. The Complainant has aggressively pursued domains containing the “chella” suffix, particularly those associated with music, entertainment, and…",
+   "cat": "domains"
+  },
+  {
+   "title": "WordPress 7.2 Arrives Dec. 8 – Last-Minute Changes Still Being Made via @sejournal, @MattGSouthern",
+   "link": "https://www.searchenginejournal.com/wordpress-7-2-seo-ai-changes/597616/",
+   "source": "Search Engine Journal",
+   "date": "2026-11-19T13:00:50+00:00",
+   "summary": "WordPress 7.2 plans a default-on random post redirect with no settings toggle. Here's what changes, what can wait, and what's still undecided before release.",
+   "cat": "web"
+  },
+  {
+   "title": "Election results: Sarah Chapman to become Vacaville’s next mayor",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUGYtU0JJb3N0b2Y3dEp0cUd2Mno1Y2g4NkQ2aExaNC1pWXhNYUoxMVR3YXVRVnh6azdmRWRSanZYYkVsS1NDeEJua0hjR2F0MnVfZWxLN3VMUG45RVRpLXFRdnQyV0lSX0pWQVRaWnVheTNCR2drdEN2aHhCRkJ4Qy1TRHp4UnNWTGx4Z2t3?oc=5",
+   "source": "The Vacaville Reporter",
+   "date": "2026-11-19T03:31:24+00:00",
+   "summary": "",
+   "cat": "domains"
+  },
+  {
+   "title": "OpenAI Publishes Prompting Guidance For GPT-6.2 Astra via @sejournal, @MattGSouthern",
+   "link": "https://www.searchenginejournal.com/openai-gpt-6-2-astra-prompting-guidance/597877/",
+   "source": "Search Engine Journal",
+   "date": "2026-11-18T22:26:21+00:00",
+   "summary": "OpenAI's GPT-6.2 guide says Astra writes more concisely by default, suggests revisiting \"be concise\" prompts and flags an API change for edited history.",
+   "cat": "web"
+  },
+  {
+   "title": "An updated Clairic and Clairic-flash are now open-weight, from the new Workers AI Superintelligence team",
+   "link": "https://blog.cloudflare.com/open-clairic/",
+   "source": "Cloudflare Blog",
+   "date": "2026-11-18T22:00:00+00:00",
+   "summary": "Clairic graduates from preview, while Clairic-flash joins the repertoire on Workers AI. We’re doing an open-weight release for both extraction models.",
+   "cat": "web"
+  },
+  {
+   "title": "DropCatch auctions: Select domain results—November 18, 2026 | 24KBet.com – $12,138",
+   "link": "https://domaingang.com/domain-news/dropcatch-auctions-select-domain-results-november-18-2026-24kbet-com-12138/",
+   "source": "DomainGang",
+   "date": "2026-11-18T21:51:22+00:00",
+   "summary": "DropCatch is a major domain backordering service that specializes in acquiring expiring domain names as soon as they return to availability. The platform uses an extensive network of ICANN-accredited registrars to improve…",
+   "cat": "domains"
+  },
+  {
+   "title": "After shunning first round, easyDNS has a change of heart on new TLDs",
+   "link": "https://domainnamewire.com/2026/11/18/easydns-newtlds/",
+   "source": "Domain Name Wire",
+   "date": "2026-11-18T21:44:06+00:00",
+   "summary": "easyDNS sees new opportunities in the next round of top level domain expansion. When domains from the previous round of new top level domain expansion rolled out, internet infrastructure company easyDNS was…",
+   "cat": "domains"
+  },
+  {
+   "title": "easyDNS: From new gTLD cash grabs to .canuck, .asdf and .geek",
+   "link": "https://domaingang.com/domain-news/easydns-from-new-gtld-cash-grabs-to-canuck-asdf-and-geek/",
+   "source": "DomainGang",
+   "date": "2026-11-18T20:11:19+00:00",
+   "summary": "In 2014, Canadian domain registrar easyDNS was openly critical of ICANN’s new gTLD expansion, describing many of the new extensions as little more than cash grabs. Fast forward twelve years and the…",
+   "cat": "domains"
+  },
+  {
+   "title": "Robots.txt Guide – Best Practices For Search & AI Crawlers via @sejournal, @vahandev",
+   "link": "https://www.searchenginejournal.com/technical-seo/robots-txt-guide-best-practices-for-search-ai-crawlers/",
+   "source": "Search Engine Journal",
+   "date": "2026-11-18T20:00:31+00:00",
+   "summary": "Learn how to configure robots.txt, avoid crawl and indexing mistakes, and manage AI training, search crawlers, and user-requested visits separately.",
+   "cat": "web"
+  },
+  {
+   "title": "Spend management platform Payhawk announces $280M raise, 2B valuation",
+   "link": "https://techcrunch.com/2026/11/18/spend-management-platform-payhawk-announces-280m-raise-2b-valuation/",
+   "source": "TechCrunch Startups",
+   "date": "2026-11-18T19:29:41+00:00",
+   "summary": "Founded in 2018, Payhawk is an enterprise financial management platform that helps companies track and manage expenses and procurement using AI agents.",
+   "cat": "business"
+  },
+  {
+   "title": "DNX launches domain registrar",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE10akJBcnFVWjVYLW9sUkJhUGxmSnJ4amg0eWxBZDVJNUU1YjRGWmw0T0FRdl90QXkyV1pKSExLWkRjRzZ0YnpnclJUOWF5TlJFSW5rSTBGYXYzMUNGb0NjeDIzUU1XM2o1VEFUTW5XR2l5Q3V5eHBz?oc=5",
+   "source": "Domain Name Wire",
+   "date": "2026-11-18T18:19:50+00:00",
+   "summary": "",
+   "cat": "domains"
+  },
+  {
+   "title": "Microsoft Rebuilds Its Smart Bidding Prediction Models, Rolling Out Automatically via @sejournal, @brookeosmundson",
+   "link": "https://www.searchenginejournal.com/microsoft-rolls-out-its-biggest-bidding-upgrade-in-a-decade/597963/",
+   "source": "Search Engine Journal",
+   "date": "2026-11-18T18:19:49+00:00",
+   "summary": "Microsoft Advertising is automatically updating its bidding models, reporting faster target adjustments, smoother budget pacing, and best practices for CPA and ROAS campaigns.",
+   "cat": "web"
+  },
+  {
+   "title": "How I’m Approaching AI Search (And How You Should To)",
+   "link": "https://www.searchenginejournal.com/how-im-approaching-ai-search-and-how-you-should-to/597775/",
+   "source": "Search Engine Journal",
+   "date": "2026-11-18T18:00:01+00:00",
+   "summary": "Citation tactics miss the point. Build a brand worth recommending and a business that benefits whether the citation comes or not.",
+   "cat": "web"
+  },
+  {
+   "title": "Cathedral floor emerges in Sudan, revealing one of the biggest medieval churches",
+   "link": "https://apnews.com/article/sudan-antiquities-nubia-cathedral-1b16f67da881ee5592de4481ee55c527",
+   "source": "Hacker News",
+   "date": "2026-11-18T15:43:29+00:00",
+   "summary": "319 points, 116 comments on Hacker News.",
+   "cat": "business"
+  },
+  {
+   "title": "Nick DiGiovanni Launches Chef on Chef.com",
+   "link": "https://domaininvesting.com/nick-digiovanni-launches-chef-on-chef-com/",
+   "source": "DomainInvesting",
+   "date": "2026-11-18T15:08:41+00:00",
+   "summary": "In Andrew Miller’s September Domain Name Briefing newsletter on Substack, he shared that ATM Holdings, along with Hilco Digital, oversaw the sale of the Chef.com domain name. Andrew later shared that his…",
+   "cat": "domains"
+  },
+  {
+   "title": "How To Find The Questions Your Customers Ask AI (And Your Keyword Tools Miss)",
+   "link": "https://www.searchenginejournal.com/how-to-find-the-questions-your-customers-ask-ai-and-your-keyword-tools-miss/596522/",
+   "source": "Search Engine Journal",
+   "date": "2026-11-18T15:00:12+00:00",
+   "summary": "Turn sales calls, support tickets, and forum threads into a content plan built around the questions your customers ask AI.",
+   "cat": "web"
+  },
+  {
+   "title": "How Cloudflare WAF helps protect against Java4Shell (CVE-2026-114938)",
+   "link": "https://blog.cloudflare.com/java4shell-waf-protection/",
+   "source": "Cloudflare Blog",
+   "date": "2026-11-18T14:52:10+00:00",
+   "summary": "Java4Shell is a critical memory-corruption flaw in OpenJDK's Base64 decoder that can lead to remote code execution. Cloudflare has released six WAF managed rules for paid plans that logs matching requests by…",
+   "cat": "web"
+  },
+  {
+   "title": "I tried Gemini Notebook’s new website builder",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5jV0Z6UmpPOXpsNWdLd3J2UWJ6QnNMUkZadzVaU3lBalJhZ3FJcGtDdkNTVmYxNEtUUnNQa3kxLXdmaHBhZURrMVY0S2xCV0NGbE1WUXUybDVheDVTY2Fxck4ybXFJQl9EaHhGUzBFSGxTM0JfRW9fcE1GbEc0QQ?oc=5",
+   "source": "Mezha.net",
+   "date": "2026-11-18T13:06:38+00:00",
+   "summary": "",
+   "cat": "business"
+  },
+  {
+   "title": "Felicis leads $7.5M bet on Unsiloed AI to make enterprise documents usable by AI agents",
+   "link": "https://techcrunch.com/2026/11/18/felicis-leads-7-5m-bet-on-unsiloed-ai-to-make-enterprise-documents-usable-by-ai-agents/",
+   "source": "TechCrunch Startups",
+   "date": "2026-11-18T12:00:00+00:00",
+   "summary": "With a team of just seven, Unsiloed AI plans to compete with tech giants and specialized startups in the crowded AI document-processing market.",
+   "cat": "business"
+  },
+  {
+   "title": "India’s Humyn Labs raises $47M to feed US robotics companies the data they need",
+   "link": "https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers/",
+   "source": "TechCrunch Startups",
+   "date": "2026-11-18T11:30:00+00:00",
+   "summary": "Founded in February, Humyn Labs competes with startups such as Mecka AI and XDOF, with about 90% of its revenue coming from the U.S.",
+   "cat": "business"
+  },
+  {
+   "title": "Attackers Used Optimizely to A/B Test Malware on Top Websites",
+   "link": "https://krebsonsecurity.com/2026/11/attackers-used-optimizely-to-a-b-test-malware-on-top-websites/",
+   "source": "Krebs on Security",
+   "date": "2026-11-18T02:52:04+00:00",
+   "summary": "At least 178 top web destinations unwittingly served a variety of malware exploits against visitors over the past 24 hours thanks to a security vulnerability involving Optimizely, a company that helps websites…",
+   "cat": "security"
+  },
+  {
+   "title": "Nvidia’s startup stakes ballooned to $65B, but Huang’s exit puts future deals in doubt",
+   "link": "https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/",
+   "source": "TechCrunch Startups",
+   "date": "2026-11-18T01:44:21+00:00",
+   "summary": "The value of Nvidia’s private investments has nearly tripled over the past nine months, fueled by Jensen Huang’s aggressive dealmaking and rising valuations of its existing portfolio companies.",
+   "cat": "business"
+  },
+  {
+   "title": "Quad9’s withdrawal from France: A canary in the coal mine",
+   "link": "https://blog.cloudflare.com/quad9-withdrawal-from-france/",
+   "source": "Cloudflare Blog",
+   "date": "2026-11-17T20:24:27+00:00",
+   "summary": "Quad9's forced withdrawal from France highlights the dangers of mandating DNS-level blocking. We explore why forcing public resolvers to act as content filters is technically flawed and threatens the open Internet.",
+   "cat": "web"
+  },
+  {
+   "title": "Nine new TLD applications withdrawn, 152 switch to backups",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPLW0xemZfMnJ2c3psQ2hmT3JsTDRzZzhBakFSUU1yZGl2N0lsMDhDem5NUmtIclJ4ZEtYLV8zRk9FaDI5M0Z6dENBZ2l6SlJ1NjVacEFKQlBpUEhFSURPX1YtUHlQSk5sLV9DM29rbGU5cEN6TEdFQ3R0S2cwTGY4cGl1X0pRUHpXcS1FeGtpcmtYTzA4bEVsZ2hOYTI?oc=5",
+   "source": "Domain Name Wire",
+   "date": "2026-11-17T19:19:41+00:00",
+   "summary": "",
+   "cat": "domains"
+  },
+  {
+   "title": "Pedestal AI raises $4.7 million to agentify the supply chain",
+   "link": "https://techcrunch.com/2026/11/17/pedestal-ai-raises-4-7-million-to-agentify-the-supply-chain/",
+   "source": "TechCrunch Startups",
+   "date": "2026-11-17T18:04:16+00:00",
+   "summary": "The company uses agentic AI to make supply chains faster and more reliable.",
+   "cat": "business"
+  },
+  {
+   "title": "Sedo weekly domain name sales led by 5658.com",
+   "link": "https://www.thedomains.com/2026/11/17/sedo-weekly-domain-name-sales-led-by-5658-com/",
+   "source": "TheDomains",
+   "date": "2026-11-17T16:02:38+00:00",
+   "summary": "Sedo released their weekly domain name sales and 5658.com led the way at $48,000. Bitcoin.biz was second at $33,000. 14 .com sales 19 cctld sales 1 other tld sale Domain name Price...",
+   "cat": "domains"
+  },
+  {
+   "title": "NameJet/SnapNames October 2026 Aftermarket report led by Commissary.com",
+   "link": "https://www.thedomains.com/2026/11/17/namejet-snapnames-october-2026-aftermarket-report-led-by-commissary-com/",
+   "source": "TheDomains",
+   "date": "2026-11-17T15:19:43+00:00",
+   "summary": "NameJet/SnapNames released their October 2026 domain name sales.NameJet/SnapNames October 2026 Aftermarket report led by Commissary.com Domain Name Brand Product Sales Amt halcyon.org Namejet Expiry $12,705 iep.org Namejet Expiry $6,123 ...",
+   "cat": "domains"
+  },
+  {
+   "title": "Science Corporation’s brain tech is worth $3.5 billion after new funding",
+   "link": "https://techcrunch.com/2026/11/17/science-corporations-brain-tech-is-worth-3-5-billion-after-new-funding/",
+   "source": "TechCrunch Startups",
+   "date": "2026-11-17T14:26:46+00:00",
+   "summary": "Science Corp. raised a $400 million Series D to scale up its anti-blindness business.",
+   "cat": "business"
+  },
+  {
+   "title": "Hank Green is self-funding ClockwiseTV, a curated educational video platform for kids",
+   "link": "https://techcrunch.com/2026/11/17/hank-green-is-self-funding-clockwisetv-a-curated-educational-video-platform-for-kids/",
+   "source": "TechCrunch Startups",
+   "date": "2026-11-17T14:00:00+00:00",
+   "summary": "Alongside CEO Leslie Morgan, Hank Green set out to create the video platform he wished his kid had.",
+   "cat": "business"
+  },
+  {
+   "title": "When Your Host Is Also Your Registrar, a Fresh Backup Won't Save You Fast",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMTRXZE9oUk1VU25BdFZkazA5aWxOaE1UTHNoQzhXSE1yWWVBYkg0Zk5LZGgxS0VnR3dJandISFN2dVY0VUJjR0Q0eUxndlRiQm1FTXNYZWJILUdfQmllMVhPdEt2Y1gxdDdXWkVncFVfZ2Rha2tIN3NtVmZQS2pzdVh5N1JnWUFYeWc0UjMyMEpDUktQMkdpWmtR?oc=5",
+   "source": "HackerNoon",
+   "date": "2026-11-17T12:24:31+00:00",
+   "summary": "",
+   "cat": "domains"
+  },
+  {
+   "title": "Meet AI 2027 Conference (Dec 1)",
+   "link": "https://smashingmagazine.com/2026/11/online-smashingconf-ai-2027/",
+   "source": "Smashing Magazine",
+   "date": "2026-11-17T12:00:00+00:00",
+   "summary": "Roll up your sleeves! Meet shiny new [AI 2027 Conference](https://smashingconf.com/ai-2027-conference), a friendly online conference on AI-ready design systems, AI + Figma and AI design patterns. What to expect in 2027 and where…",
+   "cat": "web"
+  },
+  {
+   "title": "AI Sped Up The Build: How Can Accessibility Testing Keep Up?",
+   "link": "https://smashingmagazine.com/2026/11/ai-sped-up-build-how-can-accessibility-testing-keep-up/",
+   "source": "Smashing Magazine",
+   "date": "2026-11-17T08:00:00+00:00",
+   "summary": "AI has sped up how teams design and build, but quality assurance (QA) testing hasn’t kept pace, and the web may be getting less accessible. Drawing on new research, Andrew Chung explains…",
+   "cat": "web"
+  },
+  {
+   "title": "High volume phishing campaign uses Microsoft 365 outage lures to target multiple industry sectors",
+   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQQUw3a2tVbnNfYXpNTDJqRUJSUGdyVHBEaEpJSXp2aVNsM0lwYzROS09OVGlrQU1ZZDZYQ3Z3R3BxMUJ1TnF5cjkyV1JRNWNKZktJX0xwSFM1NWFRSHR0bzZxSmc2RjNneENBZ0hUMjJWTHAwQTY3SG51MjJUdklWbVc3Q0w2cWFXcHotNm02NnJvYW1PcTVnN2tlTU5DTmhlZ21QeFluQ1J3REY3RTUzXzI5VGNqbG1taG1OSGo4NGIxTFdVRUtpRkNOZFVFeWRRSGtTUkJJaU9FSHFXdzhRSXd5MjFMQmhNUFE?oc=5",
+   "source": "Microsoft",
+   "date": "2026-11-17T00:08:41+00:00",
+   "summary": "",
+   "cat": "security"
+  },
+  {
+   "title": "NotRenewing updates pricing to $199 for .AI domain names",
+   "link": "https://www.thedomains.com/2026/11/16/notrenewing-updates-pricing-to-199-for-ai-domain-names/",
+   "source": "TheDomains",
+   "date": "2026-11-16T20:24:53+00:00",
+   "summary": "NotRenewing.com is making a change. Since the price of .Ai domain names is much greater than traditional extensions like .com, .net, .org and country codes like .io and .si. You can now...",
+   "cat": "domains"
+  },
+  {
+   "title": "Deepinder Goyal Acquires Another Valuable Domain Name",
+   "link": "https://domaininvesting.com/deepinder-goyal-acquires-another-valuable-domain-name/",
+   "source": "DomainInvesting",
+   "date": "2026-11-16T14:17:32+00:00",
+   "summary": "Deepinder Goyal, Founder of Zomato and Eternal, has added another exceptional domain name to his portfolio. I think it is safe to say that Dark.com was acquired for Dark, the new AI…",
+   "cat": "domains"
+  },
+  {
+   "title": "New filtering and reporting capabilities in the Search Analytics API",
+   "link": "https://developers.google.com/search/blog/2026/11/search-analytics-api-update",
+   "source": "Google Search Central",
+   "date": "2026-11-16T00:00:00+00:00",
+   "summary": "Over the past year, we introduced several updates to the Search Console Performance report to help you better slice and understand your traffic, including the branded queries filter, web multimodal search reporting…",
+   "cat": "web"
+  },
+  {
+   "title": "Kitesurf is now open source",
+   "link": "https://blog.cloudflare.com/kitesurf-open-source/",
+   "source": "Cloudflare Blog",
+   "date": "2026-11-13T20:20:21+00:00",
+   "summary": "Kitesurf, our experimental browser engine for AI agents, is now open source. Inspect the code, run it locally, or deploy your own instance on Cloudflare Workers.",
+   "cat": "web"
+  },
+  {
+   "title": "Adapting to AI penetration testing orchestrators: The Modern Security Model",
+   "link": "https://blog.cloudflare.com/adapting-to-ai-penetration-testing-orchestrators/",
+   "source": "Cloudflare Blog",
+   "date": "2026-11-13T19:26:07+00:00",
+   "summary": "AI-orchestrated penetration testing platforms like ARTEX have become increasingly powerful tools enabling effective attacks on exposed infrastructure. Here we share Cloudflare’s observations and recommended countermeasures.",
+   "cat": "web"
+  },
+  {
+   "title": "Introducing Spend Management: Spending limits and alerts for Cloudflare",
+   "link": "https://blog.cloudflare.com/spend-management/",
+   "source": "Cloudflare Blog",
+   "date": "2026-11-13T14:00:00+00:00",
+   "summary": "Spend Management adds opt-in spending caps for Cloudflare Workers and Durable Objects, and more products soon. Here is how we built the metering pipeline that turns usage into runtime decisions.",
+   "cat": "web"
+  },
+  {
+   "title": "Beanstalk Challenge to be live streamed today",
+   "link": "https://www.thedomains.com/2026/11/12/beanstalk-challenge-to-be-live-streamed-today/",
+   "source": "TheDomains",
+   "date": "2026-11-12T17:38:36+00:00",
+   "summary": "Rick Schwartz announced today that the Beanstalk challenge overall winner decided by the five judges will be live streamed today. Courtesy of Todd Ryan starting at 3:45 TODAY! http://Dick.com/Todd But Rick did...",
+   "cat": "domains"
+  },
+  {
+   "title": "Will You Register .Web Domain Names?",
+   "link": "https://domaininvesting.com/will-you-register-web/",
+   "source": "DomainInvesting",
+   "date": "2026-11-12T14:04:28+00:00",
+   "summary": "In a press release from Verisign, the company announced the timeline for the release of .Web domain names. There are three registration periods worth noting – Sunrise Period, Priority Access Program Period…",
+   "cat": "domains"
+  },
+  {
+   "title": "Should You Actually Add AI To That? A Four-Question Audit For Product Teams",
+   "link": "https://smashingmagazine.com/2026/11/should-you-add-ai-audit-product-teams/",
+   "source": "Smashing Magazine",
+   "date": "2026-11-12T10:00:00+00:00",
+   "summary": "An AI feature can save users time on a task, only for them to spend it checking the results. This practical audit helps product teams decide where AI earns its place and…",
+   "cat": "web"
+  },
+  {
+   "title": "Who Runs the Ransomware Group Qilin?",
+   "link": "https://krebsonsecurity.com/2026/11/who-runs-the-ransomware-group-qilin/",
+   "source": "Krebs on Security",
+   "date": "2026-11-11T18:06:01+00:00",
+   "summary": "The cybercrime group Qilin has emerged as the world's most active ransomware affiliate program, claiming at least 365 victim organizations in the past three months alone. But even top Russian hackers make…",
+   "cat": "security"
+  },
+  {
+   "title": "This Afternic Broker is Persistent",
+   "link": "https://domaininvesting.com/this-afternic-broker-is-persistent/",
+   "source": "DomainInvesting",
+   "date": "2026-11-11T16:49:04+00:00",
+   "summary": "Shout out to @afternic broker Chris A. who is not giving up on this lead. Offer is far below the BIN price, but he’s persistent. https://t.co/hyYhzLakQS — Elliot Silver (@DInvesting) November 10…",
+   "cat": "domains"
+  },
+  {
+   "title": "Choosing QuePaxa, an unusual consensus algorithm",
+   "link": "https://blog.cloudflare.com/choosing-quepaxa/",
+   "source": "Cloudflare Blog",
+   "date": "2026-11-11T14:24:46+00:00",
+   "summary": "Cloudflare is building an experimental consensus service using a never-before-deployed consensus algorithm, QuePaxa. In this post we explain how QuePaxa works and why we chose it.",
+   "cat": "web"
+  },
+  {
+   "title": "NamesCon Live Auction today at 4PM Est",
+   "link": "https://www.thedomains.com/2026/11/11/namescon-live-auction-today-at-4pm-est/",
+   "source": "TheDomains",
+   "date": "2026-11-11T06:55:04+00:00",
+   "summary": "NamesCon starts today and the live auction starts at 4pm Eastern. RightofTheDot.com has a brand new platform Live Auction: Wednesday, November 11, at 4:00 PM ET, at NamesCon Global in Miami. In-person...",
+   "cat": "domains"
+  },
+  {
+   "title": "Moving to a CDN without overwhelming your origin (or blocking Googlebot)",
+   "link": "https://developers.google.com/search/blog/2026/11/crawling-cdn",
+   "source": "Google Search Central",
+   "date": "2026-11-11T00:00:00+00:00",
+   "summary": "Deploying a Content Delivery Network (CDN) to distribute your site's assets across fast, globally distributed edge servers closer to users can be a major upgrade for any growing site: it lowers visitor…",
+   "cat": "web"
+  },
+  {
+   "title": "Microsoft Fixes Nearly 1,100 Security Vulnerabilities",
+   "link": "https://krebsonsecurity.com/2026/11/microsoft-fixes-nearly-1100-security-vulnerabilities/",
+   "source": "Krebs on Security",
+   "date": "2026-11-10T21:55:03+00:00",
+   "summary": "Microsoft did another four-digit patch drop today, releasing updates to fix almost 1,100 security vulnerabilities in its Windows operating systems and supported software. This month's Patch Tuesday addresses 63 critical flaws --…",
+   "cat": "security"
+  },
+  {
+   "title": "Vote for Beanstalk Challenge People’s Choice Awards",
+   "link": "https://domaininvesting.com/vote-for-beanstalk-challenge-peoples-choice-awards/",
+   "source": "DomainInvesting",
+   "date": "2026-11-09T14:26:44+00:00",
+   "summary": "Rick Schwartz’s Beanstalk Challenge brings together entrepreneurs, web developers, and domain investors to build businesses on valuable domain names from Rick’s portfolio, without having to purchase the domain names. The idea is…",
+   "cat": "domains"
+  },
+  {
+   "title": "Launching the Vite Ecosystem Fund",
+   "link": "https://blog.cloudflare.com/launching-vite-ecosystem-fund/",
+   "source": "Cloudflare Blog",
+   "date": "2026-11-09T13:00:00+00:00",
+   "summary": "Cloudflare is distributing the first $301,300 of the Vite Ecosystem Fund to open source projects and maintainers. The recipients were chosen by a panel of Vite stack core team members, including maintainers…",
+   "cat": "web"
+  },
+  {
+   "title": "The post-quantum future of web privacy",
+   "link": "https://blog.cloudflare.com/vole-mole/",
+   "source": "Cloudflare Blog",
+   "date": "2026-11-06T14:00:00+00:00",
+   "summary": "Cryptographic protocols like Privacy Pass help keep web sites safe from abuse while keeping their users private. This post looks at the quantum threat to these protocols, and some new post-quantum cryptography…",
+   "cat": "web"
+  },
+  {
+   "title": "A New Community For In-House UX People",
+   "link": "https://smashingmagazine.com/2026/11/ux-insiders-community-in-house-ux-people/",
+   "source": "Smashing Magazine",
+   "date": "2026-11-06T08:00:00+00:00",
+   "summary": "We’ve been working on something new! We’ve teamed up for a **new small community** for people doing UX-inside organizations — with weekly calls and a shared library of the business cases, templates…",
+   "cat": "web"
+  },
+  {
+   "title": "Agents aren’t humans (but they kinda are)",
+   "link": "https://blog.cloudflare.com/trusted-agent-delegation/",
+   "source": "Cloudflare Blog",
+   "date": "2026-11-05T17:03:04+00:00",
+   "summary": "AI agents act for millions, but servers see intermediaries that strip user visibility. This post defines the problem space and introduces a collaborative approach to safely identifying, allowing, and managing this automated…",
+   "cat": "web"
+  },
+  {
+   "title": "Making Immersive LLM Chat Experiences More Accessible",
+   "link": "https://smashingmagazine.com/2026/11/making-immersive-llm-chat-experiences-more-accessible/",
+   "source": "Smashing Magazine",
+   "date": "2026-11-05T13:00:00+00:00",
+   "summary": "As LLM chat patterns become more widespread, making them accessible is essential to ensuring everyone can access the information, tools, and opportunities they offer. Drawing on his work improving these interfaces, Eric…",
+   "cat": "web"
+  },
+  {
+   "title": "Want to Rent an Internet Address at the White House?",
+   "link": "https://krebsonsecurity.com/2026/11/want-to-rent-an-internet-address-at-the-white-house/",
+   "source": "Krebs on Security",
+   "date": "2026-11-05T04:36:17+00:00",
+   "summary": "Several staffers at the White House are using computers or mobile devices equipped with residential proxy services that render their internet address available for others to rent, security experts warned today. One…",
+   "cat": "security"
+  },
+  {
+   "title": "See the agents, set the terms: New visibility and control for personal agents",
+   "link": "https://blog.cloudflare.com/personal-agents-visibility-control/",
+   "source": "Cloudflare Blog",
+   "date": "2026-11-04T14:00:00+00:00",
+   "summary": "Personal AI agents have changed how users interact with the web, blurring the lines between automated and human traffic. Learn how Cloudflare gives site owners visibility and control to manage personal agent…",
+   "cat": "web"
+  },
+  {
+   "title": "Search Central Live in Zurich is back!",
+   "link": "https://developers.google.com/search/blog/2026/11/search-central-live-zurich-2026",
+   "source": "Google Search Central",
+   "date": "2026-11-04T00:00:00+00:00",
+   "summary": "Search Central Live is coming to Zurich on December 4, 2026!",
+   "cat": "web"
+  },
+  {
+   "title": "Introducing Zero Wire, a hub for investigating critical Internet vulnerabilities",
+   "link": "https://blog.cloudflare.com/zero-wire/",
+   "source": "Cloudflare Blog",
+   "date": "2026-11-03T14:00:00+00:00",
+   "summary": "Zero Wire on Cloudflare Radar pairs plain-language briefings with global attack telemetry and remediation steps. Triage critical CVEs faster and decide how to protect your infrastructure.",
+   "cat": "web"
+  },
+  {
+   "title": "Shopify filing confirms $99 million acquisition of shop.com domain name",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQazY1aHlpNTJSc2pranpTRVVobVE2NVg1Vl8tS1VLRk5nWDViRXZDVE9KWHNkQkI3OURja3RVU2FBMGN0MmlkZ0VPV2MzSVp4S2tvcVlzWGJ3eHlkV05rRlBBUzRpbzFZRFhOTnBRSEpmSUxCblJ3YUpNaVFIYldFLWRXM0ZSUXNCamVPVVhKdkp2ODFFS0VMR1UxZHdiSEhJUnhKRUlPX2dMS1NkSlE?oc=5",
+   "source": "Domain Name Wire",
+   "date": "2026-11-03T08:00:00+00:00",
+   "summary": "",
+   "cat": "domains"
+  },
+  {
+   "title": "Tech Firms Dismantle Botnet That Turned 1.3M TV Boxes Into Proxies",
+   "link": "https://krebsonsecurity.com/2026/11/tech-firms-dismantle-botnet-that-turned-1-3m-tv-boxes-into-proxies/",
+   "source": "Krebs on Security",
+   "date": "2026-11-03T02:24:31+00:00",
+   "summary": "Google said today it worked with industry partners to dismantle a botnet made up of more than 1.3 million Android TV set-top boxes that ship with malicious software which secretly rents the…",
+   "cat": "security"
+  }
+ ]
+}

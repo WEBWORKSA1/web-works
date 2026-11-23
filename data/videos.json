@@ -1,0 +1,485 @@
+{
+ "updated": "2026-11-23T15:55:39+00:00",
+ "items": [
+  {
+   "id": "D9tpr6xvbag",
+   "title": "Google Can Now Rewrite Your Ads",
+   "channel": "Neil Patel",
+   "topic": "Search & SEO",
+   "date": "2026-11-23T13:03:35+00:00",
+   "summary": "Google isn’t just running your ads anymore. It can help write them. AI Max can expand your keywords, generate new headlines from your landing pages, and choose which…"
+  },
+  {
+   "id": "zW8ZndIH0IU",
+   "title": "Google borrowed a 1922 idea",
+   "channel": "Ahrefs",
+   "topic": "Search & SEO",
+   "date": "2026-11-23T12:26:16+00:00",
+   "summary": "In 1922, Reader's Digest was built out of other magazines, condensed into one. Google's AI Overviews do the same to your page. We studied 300,000 keywords: when an…"
+  },
+  {
+   "id": "8RNSJ6Ud4nY",
+   "title": "Google Cooked With This New Model!",
+   "channel": "Matt Wolfe",
+   "topic": "AI tools",
+   "date": "2026-11-22T20:58:01+00:00",
+   "summary": "Sharing the latest news and advancements in AI Discover More: 🛠️ Explore AI Tools & News: https://futuretools.io/ 📰 Weekly Newsletter: https://futuretools.io/newsletter Socials: ❌ Twiter/X: https://x.com/mreflow 🖼️ Instagram: https://instagram.com/mr.eflow…"
+  },
+  {
+   "id": "MPFb7ILW1QM",
+   "title": "ChatGPT Now Shows Ads Next to Your Pictures",
+   "channel": "Neil Patel",
+   "topic": "Search & SEO",
+   "date": "2026-11-22T19:05:50+00:00",
+   "summary": "Ask ChatGPT to design your living room. Next to the picture, a labeled ad shows you a couch you can buy. OpenAI is testing this with a small…"
+  },
+  {
+   "id": "B2rFx4Fy1us",
+   "title": "If you like Open Models, I'm sorry",
+   "channel": "Theo - t3.gg",
+   "topic": "Web platform",
+   "date": "2026-11-22T15:00:39+00:00",
+   "summary": "It used to be that the Open Weight models were only a LITTLE behind, but it's gotten worse and we have to talk about it. Thank you Blacksmith…"
+  },
+  {
+   "id": "EAxjoOE8HJ8",
+   "title": "AI Is Recommending You to the Wrong Customer",
+   "channel": "Neil Patel",
+   "topic": "Search & SEO",
+   "date": "2026-11-22T13:03:27+00:00",
+   "summary": "Most brands check one thing. Did AI mention us? That’s the wrong question. The right question is who it’s recommending you to. Say you sell to coffee chains…"
+  },
+  {
+   "id": "GFxHjrYwoFk",
+   "title": "They built cyborg cockroaches with built-in AI...",
+   "channel": "Matt Wolfe",
+   "topic": "AI tools",
+   "date": "2026-11-21T21:25:07+00:00",
+   "summary": "Sharing the latest news and advancements in AI Discover More: 🛠️ Explore AI Tools & News: https://futuretools.io/ 📰 Weekly Newsletter: https://futuretools.io/newsletter Socials: ❌ Twiter/X: https://x.com/mreflow 🖼️ Instagram: https://instagram.com/mr.eflow…"
+  },
+  {
+   "id": "IaA48TYPFOg",
+   "title": "7 in 10 Google Searches Get Zero Clicks Now",
+   "channel": "Neil Patel",
+   "topic": "Search & SEO",
+   "date": "2026-11-21T19:02:14+00:00",
+   "summary": "If your traffic is down, you’re not imagining it. From January to April this year, nearly 7 in 10 US Google searches ended without a single click. Two…"
+  },
+  {
+   "id": "zt5SzLjHWb0",
+   "title": "AI Schema for Google Is Selling You Air",
+   "channel": "Neil Patel",
+   "topic": "Search & SEO",
+   "date": "2026-11-21T13:06:07+00:00",
+   "summary": "Some people are selling special AI schema and llms.txt files as the secret to showing up in Google’s AI results. Google Search ignores them. Save your budget. Rewrite…"
+  },
+  {
+   "id": "7_pMINxEEPU",
+   "title": "What else could you use this for?",
+   "channel": "Matt Wolfe",
+   "topic": "AI tools",
+   "date": "2026-11-21T03:42:44+00:00",
+   "summary": "Sharing the latest news and advancements in AI Discover More: 🛠️ Explore AI Tools & News: https://futuretools.io/ 📰 Weekly Newsletter: https://futuretools.io/newsletter Socials: ❌ Twiter/X: https://x.com/mreflow 🖼️ Instagram: https://instagram.com/mr.eflow…"
+  },
+  {
+   "id": "SiXka_MUmbk",
+   "title": "How to ship an in-browser image generator in under 50 MB",
+   "channel": "Chrome for Developers",
+   "topic": "Web platform",
+   "date": "2026-11-20T22:16:04+00:00",
+   "summary": "I’ll show how I adapted image generation models for in-browser inference under strict constraints, from a 48 MB GAN implementation to a larger 400 MB diffusion pipeline. I’ll…"
+  },
+  {
+   "id": "wn08Fr8CcBU",
+   "title": "Real-time multi-camera biomechanics on the web",
+   "channel": "Chrome for Developers",
+   "topic": "Web platform",
+   "date": "2026-11-20T22:13:27+00:00",
+   "summary": "For almost half a century, multi-camera analytics has been the gold standard of biomechanics, used in the most sophisticated labs around the world. Today, Factorial Biomechanics brings that…"
+  },
+  {
+   "id": "kSnoPNB5ND8",
+   "title": "The state of Transformers.js: What shipped, what's next",
+   "channel": "Chrome for Developers",
+   "topic": "Web platform",
+   "date": "2026-11-20T22:10:25+00:00",
+   "summary": "One year after the v4 preview, Transformers.js has grown from 1.7 to 10 million monthly downloads. We cover what shipped: the new WebGPU runtime for browsers and server-side…"
+  },
+  {
+   "id": "nAeiMBLgQOA",
+   "title": "WebLLM 2.0: Engineering browser AI across execution, interface, and storage boundaries",
+   "channel": "Chrome for Developers",
+   "topic": "Web platform",
+   "date": "2026-11-20T22:07:48+00:00",
+   "summary": "WebLLM brings local AI to browsers using MLC-LLM and TVM. As browser AI advances, systems challenges increasingly lie beyond model kernels. This talk explores runtime optimization across JavaScript…"
+  },
+  {
+   "id": "SI1gOfeqqEg",
+   "title": "Harnessing on-device AI: What’s new in web APIs",
+   "channel": "Chrome for Developers",
+   "topic": "Web platform",
+   "date": "2026-11-20T22:03:41+00:00",
+   "summary": "Join us for an update on the web’s Built-in AI and AI-centric compute APIs. We’ll cover the Prompt and Task APIs, explore new multimodal inputs, and discuss Chrome’s…"
+  },
+  {
+   "id": "WN-JK-hMAyg",
+   "title": "Google Antigravity and Gemini 4: Creating an interactive MIDI mapped 3D world",
+   "channel": "Google for Developers",
+   "topic": "Web platform",
+   "date": "2026-11-20T20:00:04+00:00",
+   "summary": "Tune in to learn how creative technologist Tiago Aragona orchestrates modular 3D modeling, custom synthesizer design, and MIDI mapping into an interactive, real time audio-reactive Unity world using…"
+  },
+  {
+   "id": "rMaMe32qQkA",
+   "title": "If you’ve deployed anything since 2015, I have bad news...",
+   "channel": "Fireship",
+   "topic": "Web platform",
+   "date": "2026-11-20T19:49:02+00:00",
+   "summary": "Paper gives your coding agent a design canvas built on real HTML and CSS. Try it: https://paper.design/?utm_source=youtube&utm_medium=sponsor&utm_campaign=fireship&utm_content=fireship-1 Hackers hijacked 178 major websites through Optimizely, a single Base64 string…"
+  },
+  {
+   "id": "wqNIzUmNt9M",
+   "title": "AI News: This Is The Make or Break Week!!",
+   "channel": "Matt Wolfe",
+   "topic": "AI tools",
+   "date": "2026-11-20T19:00:16+00:00",
+   "summary": "Hire your own team of agents with Hyperagent for free here: https://hyperagent.com/login?utm_source=youtube&utm_medium=influencer&utm_campaign=MATT Anthropic’s IPO puts the AI bubble to the test as OpenAI and Google launch powerful new…"
+  },
+  {
+   "id": "HQlk9RGx2dk",
+   "title": "Where was Google hiding this?",
+   "channel": "Theo - t3.gg",
+   "topic": "Web platform",
+   "date": "2026-11-20T15:40:19+00:00",
+   "summary": "I don't know what black magic Google used to make this model, but Gemini 4 Neon is insane Thanks to WorkOS for sponsoring! Check them out here: https://soydev.link/workos…"
+  },
+  {
+   "id": "YbZDDCHDSnE",
+   "title": "This will test if AI truly is a bubble",
+   "channel": "Matt Wolfe",
+   "topic": "AI tools",
+   "date": "2026-11-19T21:14:46+00:00",
+   "summary": "Sharing the latest news and advancements in AI Discover More: 🛠️ Explore AI Tools & News: https://futuretools.io/ 📰 Weekly Newsletter: https://futuretools.io/newsletter Socials: ❌ Twiter/X: https://x.com/mreflow 🖼️ Instagram: https://instagram.com/mr.eflow…"
+  },
+  {
+   "id": "TDoXk7o3rxs",
+   "title": "I'm gonna miss coding",
+   "channel": "Theo - t3.gg",
+   "topic": "Web platform",
+   "date": "2026-11-19T17:59:24+00:00",
+   "summary": "Coding is dead and I'm gonna miss writing it by hand, but we have an incredible opportunity moving forward. Lets talk about it. Thank you Depot for sponsoring!…"
+  },
+  {
+   "id": "Qxor6jpfSiU",
+   "title": "The only software that didn’t break this week...",
+   "channel": "Fireship",
+   "topic": "Web platform",
+   "date": "2026-11-19T17:40:33+00:00",
+   "summary": "Use all your coding agents side by side in one IDE with JetBrains Air: https://jb.gg/JetBrainsAir-in-IDEs Solid 2.0 is the framework's first major release in over five years. Why…"
+  },
+  {
+   "id": "f2bpv9mFUeE",
+   "title": "Google Antigravity and Gemini 4: Building a custom groovebox on a $40 macro pad",
+   "channel": "Google for Developers",
+   "topic": "Web platform",
+   "date": "2026-11-18T20:00:24+00:00",
+   "summary": "Watch music producer, DJ, and pianist Arlander Taylor transform a generic $40 16-key, 3-knob gaming macro pad into a custom groovebox and polyrhythmic synthesizer in a single shot…"
+  },
+  {
+   "id": "9KvI-zg4mfo",
+   "title": "Astra 6.2 Is Unusable",
+   "channel": "Theo - t3.gg",
+   "topic": "Web platform",
+   "date": "2026-11-18T17:48:56+00:00",
+   "summary": "Astra 6.2 is simply underwhelming and I honestly hate using it. But lets break down why (spoiler: it's not because it's not capable). Thank you Coderabbit for sponsoring!…"
+  },
+  {
+   "id": "zXAXpMYnJV8",
+   "title": "Add error messages to your CSS",
+   "channel": "Kevin Powell",
+   "topic": "Build websites",
+   "date": "2026-11-18T14:00:29+00:00",
+   "summary": "👉 Writing Resilient CSS is the newest module in CSS Demystified, and the whole course is 32% off for Black Friday: https://thecascade.dev/courses/css-demystified/?utm_source=youtube&utm_medium=social&utm_campaign=regular-video Use :has() and :not() to flag…"
+  },
+  {
+   "id": "ybe6EGe_wjo",
+   "title": "Learn Data Structures and Algorithms in Python with Visualizations",
+   "channel": "freeCodeCamp.org",
+   "topic": "Build websites",
+   "date": "2026-11-18T12:37:46+00:00",
+   "summary": "Learn data structures and algorithms in Python in this beginner's course. This course covers arrays, linked lists, stacks, queues, hash tables, trees, heaps, and graphs, plus recursion, searching…"
+  },
+  {
+   "id": "W28rNVnHPtU",
+   "title": "This site died when Facebook changed its feed",
+   "channel": "Ahrefs",
+   "topic": "Search & SEO",
+   "date": "2026-11-18T10:01:36+00:00",
+   "summary": "In January 2018, Facebook changed its News Feed. LittleThings lost 75% of its Facebook traffic and shut down a month later. Most traffic runs on somebody else's rules…"
+  },
+  {
+   "id": "ty277pJL9ec",
+   "title": "Google Just Fixed AI Slop - At Least For Web Devs",
+   "channel": "Web Dev Simplified",
+   "topic": "Build websites",
+   "date": "2026-11-17T17:00:31+00:00",
+   "summary": "AI Simplified Course: https://webdevsimplified.com/ai-simplified-waitlist.html Google’s new Modern Web Guidelines is a completely free library/skill that forces AI to write high quality, performant, modern web code. In this video…"
+  },
+  {
+   "id": "aRIFzzr_Mi0",
+   "title": "EmbeddingGemma 2: How natively multimodal embeddings work",
+   "channel": "Google for Developers",
+   "topic": "Web platform",
+   "date": "2026-11-17T17:00:29+00:00",
+   "summary": "Learn how EmbeddingGemma 2, Google's open, lightweight multimodal embedding model, maps text, code, images, video, and audio into a single, unified embedding space. The video covers: * How…"
+  },
+  {
+   "id": "ytmawkPTP24",
+   "title": "Why Microsoft couldn’t fix its own servers for 36 hours...",
+   "channel": "Fireship",
+   "topic": "Web platform",
+   "date": "2026-11-16T20:18:59+00:00",
+   "summary": "OpenRouter gives you one API for every AI model that routes and governs every request, so your AI is better, faster, and cheaper. Try it free: https://openrouter.ai/?utm_source=fireship&utm_medium=video&utm_campaign=2026-11_dev-sponsorships&utm_content=description Microsoft…"
+  },
+  {
+   "id": "PjYcrCEzV6M",
+   "title": "MCP Crash Course: Everything You Need to Know",
+   "channel": "Traversy Media",
+   "topic": "Build websites",
+   "date": "2026-11-16T15:30:10+00:00",
+   "summary": "Learn all about MCP from both ends. How to connect and how a server works. Check out Apify and get $25 free in credits with the code: TRAVERSY25…"
+  },
+  {
+   "id": "TWoS5Nmyoc8",
+   "title": "Stop Searching For the Perfect Model",
+   "channel": "Theo - t3.gg",
+   "topic": "Web platform",
+   "date": "2026-11-16T00:09:03+00:00",
+   "summary": "We're at the point where you have to stop searching for a single model to do all your work and realize that the best model is all of…"
+  },
+  {
+   "id": "L5zoGpiqZvM",
+   "title": "Moved to a CDN: Why Is Everything Crawling Everywhere All at Once?",
+   "channel": "Google Search Central",
+   "topic": "Search & SEO",
+   "date": "2026-11-13T14:28:00+00:00",
+   "summary": "Watch the full episode right now - https://youtu.be/alGu2A97c98"
+  },
+  {
+   "id": "SOwUWPtXQ9I",
+   "title": "Jensen Huang just pulled out of Nvidia...",
+   "channel": "Fireship",
+   "topic": "Web platform",
+   "date": "2026-11-12T21:17:10+00:00",
+   "summary": "Manufact is the easiest way to build and deploy your MCP. Get $100 in free credits: https://manufact.com/fireship Jensen Huang just resigned as Nvidia’s CEO four days after admitting…"
+  },
+  {
+   "id": "vLAegkGGWrM",
+   "title": "Building with Gemini in Google Antigravity",
+   "channel": "Google for Developers",
+   "topic": "Web platform",
+   "date": "2026-11-12T17:00:11+00:00",
+   "summary": "See what you can build using our latest Gemini models in Google Antigravity. From in-browser animation and multimodal prototyping to autonomous codebase modernization, explore how you can ship…"
+  },
+  {
+   "id": "alGu2A97c98",
+   "title": "Moved to a CDN: Why Is Everything Crawling Everywhere All at Once?",
+   "channel": "Google Search Central",
+   "topic": "Search & SEO",
+   "date": "2026-11-11T15:02:01+00:00",
+   "summary": "You just added a CDN to your website to make it fast, light, and secure… and now your origin server is busier than ever? Why is sudden crawler…"
+  },
+  {
+   "id": "UYgFF47blb0",
+   "title": "Let CSS figure out the layout",
+   "channel": "Kevin Powell",
+   "topic": "Build websites",
+   "date": "2026-11-11T14:00:15+00:00",
+   "summary": "👉 Start writing CSS with confidence with CSS Demystified: https://thecascade.dev/courses/css-demystified/?utm_source=youtube&utm_medium=social&utm_campaign=regular-video&utm_content=number-of-cols A quick look at setting something up that picks its own number of columns based on how many…"
+  },
+  {
+   "id": "w1D750m667k",
+   "title": "How I Used AI to Build a $1.5M Agency for Amish Dog Breeders",
+   "channel": "Ahrefs",
+   "topic": "Search & SEO",
+   "date": "2026-11-11T13:00:39+00:00",
+   "summary": "He scaled a niche agency to 1.5M in 16 months using AI agents, a growing team, and a custom hub. Chuck Holt tells how he did it and…"
+  },
+  {
+   "id": "1FurWDiK9A4",
+   "title": "Did Anthropic just save its $1 trillion IPO?",
+   "channel": "Fireship",
+   "topic": "Web platform",
+   "date": "2026-11-10T18:19:55+00:00",
+   "summary": "Mux is the video API that translates audio and answers questions about your video. Get $50 in free credits: https://mux.com/fireship Anthropic just dropped Fable and Mythos 5.2 in…"
+  },
+  {
+   "id": "qAbGMpCPyAE",
+   "title": "He Doubled his Website Traffic",
+   "channel": "Ahrefs",
+   "topic": "Search & SEO",
+   "date": "2026-11-10T14:00:21+00:00",
+   "summary": "#ahrefs"
+  },
+  {
+   "id": "ajfQWhGQGLE",
+   "title": "Codex & AI Coding Agents - Learn Agentic Coding",
+   "channel": "freeCodeCamp.org",
+   "topic": "Build websites",
+   "date": "2026-11-10T12:00:39+00:00",
+   "summary": "Learn agentic coding with AI coding agents such as Codex: prompting, plan mode, skills, testing, Git, secrets, permissions and MCP in one hands-on course. ✏️ Study this course…"
+  },
+  {
+   "id": "-oBIZFzkqIU",
+   "title": "How Are People Making Games Like This?",
+   "channel": "Traversy Media",
+   "topic": "Build websites",
+   "date": "2026-11-09T18:15:31+00:00",
+   "summary": "I wanted to know how people are making these games with AI, so I built one myself. Turns out it's not one prompt, but it's a lot of…"
+  },
+  {
+   "id": "1euDGKCCCQE",
+   "title": "Use This Tip to BOOST Traffic to Your Website",
+   "channel": "Ahrefs",
+   "topic": "Search & SEO",
+   "date": "2026-11-09T14:00:25+00:00",
+   "summary": "#ahrefs"
+  },
+  {
+   "id": "3M3xlSca-Lg",
+   "title": "301, 302, 307, 308: Which redirect?",
+   "channel": "Google Search Central",
+   "topic": "Search & SEO",
+   "date": "2026-11-06T15:37:03+00:00",
+   "summary": "Watch the full episode right now - https://www.youtube.com/watch?v=vfGGiFQbb7A"
+  },
+  {
+   "id": "eHHxRJulX74",
+   "title": "Godot 4 Roguelike Course – Build a Complete Top-Down Action Game",
+   "channel": "freeCodeCamp.org",
+   "topic": "Build websites",
+   "date": "2026-11-06T15:22:02+00:00",
+   "summary": "Build a complete top-down action roguelike in Godot 4, from an empty project to a game a stranger can open and play. About 10 hours, 8 chapters, 31…"
+  },
+  {
+   "id": "rhPdfVTA2r0",
+   "title": "Does Your Framework Still Matter?",
+   "channel": "Traversy Media",
+   "topic": "Build websites",
+   "date": "2026-11-05T18:08:29+00:00",
+   "summary": "The web framework era is ending as the industry shifts away from React, Vue, and Angular. Learn why modern development is changing. Check Out Posthog: https://go.posthog.com/traversy Brooks Lybrand…"
+  },
+  {
+   "id": "1vKaJBh01fY",
+   "title": "Search data for creators in Search Console (New!)",
+   "channel": "Google Search Central",
+   "topic": "Search & SEO",
+   "date": "2026-11-05T16:51:49+00:00",
+   "summary": "See more at https://youtu.be/P7grNk_REms Do you have a profile on Instagram, TikTok, X, or Youtube? You can now verify ownership of a number of creator profiles - Instagram…"
+  },
+  {
+   "id": "vfGGiFQbb7A",
+   "title": "301, 302, 307, 308: Which redirect is the chosen one?",
+   "channel": "Google Search Central",
+   "topic": "Search & SEO",
+   "date": "2026-11-04T14:50:56+00:00",
+   "summary": "What is the actual difference between a 301 and a 302 redirect and does it affect canonicalization? What on earth are 307 and 308 redirects, and what do…"
+  },
+  {
+   "id": "kKJvsLV1mkw",
+   "title": "Use new CSS without breaking anything",
+   "channel": "Kevin Powell",
+   "topic": "Build websites",
+   "date": "2026-11-04T14:00:30+00:00",
+   "summary": "👉 Start writing CSS with confidence: https://thecascade.dev/courses/css-demystified/?utm_source=youtube&utm_medium=social&utm_campaign=regular-video How do you know if a CSS feature is safe to use? A look at what Baseline does and doesn't tell…"
+  },
+  {
+   "id": "lR931Iz8Z6U",
+   "title": "Vector Databases Full Course for Beginners – Embeddings, Similarity Search & ChromaDB",
+   "channel": "freeCodeCamp.org",
+   "topic": "Build websites",
+   "date": "2026-11-03T12:52:54+00:00",
+   "summary": "Learn how vector databases work, from the math behind vectors to building semantic search with ChromaDB. This beginner course covers vectors, cosine similarity, Euclidean distance, tokenization, and embedding…"
+  },
+  {
+   "id": "D2R5zjVSgP0",
+   "title": "MCP Explained In 2 Minutes #mcp #ai",
+   "channel": "Traversy Media",
+   "topic": "Build websites",
+   "date": "2026-11-01T19:03:11+00:00",
+   "summary": "Learn what is MCP and how this protocol standardizes how AI models connect to your local tools and external databases. Check out my coding with AI course: https://www.traversymedia.com/coding-with-ai"
+  },
+  {
+   "id": "0ivj5WKqi1I",
+   "title": "Docker Explained In Under 2 Minutes #docker #devops",
+   "channel": "Traversy Media",
+   "topic": "Build websites",
+   "date": "2026-10-30T18:23:18+00:00",
+   "summary": "Docker containers solve the problem of projects failing to run due to environment differences. Learn how to package apps. This video explains how Docker works by contrasting the…"
+  },
+  {
+   "id": "rsOiZE19RVo",
+   "title": "Accelerate shipping to scale with Google Antigravity",
+   "channel": "Google for Developers",
+   "topic": "Web platform",
+   "date": "2026-10-29T20:00:20+00:00",
+   "summary": "Building software to move tens of millions of vehicles requires massive infrastructure. Using Google Antigravity, Move Cars delivers fully tested production features in a single day, letting a…"
+  },
+  {
+   "id": "cqfl38Ip1ho",
+   "title": "How Ethical Hackers Actually Break Into Systems",
+   "channel": "freeCodeCamp.org",
+   "topic": "Build websites",
+   "date": "2026-10-28T16:45:00+00:00",
+   "summary": "Throughout this hands-on ethical hacking crash course, you will learn the core Linux fundamentals and essential command-line tools needed to navigate and audit target systems effectively. From network…"
+  },
+  {
+   "id": "zS_K-bfpQfk",
+   "title": "Stop using min-width in your media queries",
+   "channel": "Kevin Powell",
+   "topic": "Build websites",
+   "date": "2026-10-28T13:00:23+00:00",
+   "summary": "👉 Start writing CSS with confidence: https://thecascade.dev/courses/css-demystified/?utm_source=youtube&utm_medium=social&utm_campaign=regular-video A look at the media query range syntax, comparing it to the min-width and max-width, and looking at how, in my…"
+  },
+  {
+   "id": "q8ddbo1CdGM",
+   "title": "Conditional border-radius trick",
+   "channel": "Kevin Powell",
+   "topic": "Build websites",
+   "date": "2026-10-22T13:00:39+00:00",
+   "summary": "#css #moderncss #webdevelopment"
+  },
+  {
+   "id": "FbXPaIcpvww",
+   "title": "How To Design The Perfect Auth System In The Age of AI",
+   "channel": "Web Dev Simplified",
+   "topic": "Build websites",
+   "date": "2026-10-20T22:00:20+00:00",
+   "summary": "Permissions are at the core of nearly every project, but most people don’t spend more than a few minutes thinking about them which results in difficult to use…"
+  },
+  {
+   "id": "J37YeB63LVI",
+   "title": "I Will Never Use Prettier or ESLint Again",
+   "channel": "Web Dev Simplified",
+   "topic": "Build websites",
+   "date": "2026-10-14T22:32:33+00:00",
+   "summary": "Vite+ is a new tool from Vite that attempts to solve all the configuration issues most web developers face. It includes tons of features from linting and formatting…"
+  },
+  {
+   "id": "jojMVmRZABw",
+   "title": "Why Your AI Generates Crap Code - And How to Fix It",
+   "channel": "Web Dev Simplified",
+   "topic": "Build websites",
+   "date": "2026-09-15T20:00:10+00:00",
+   "summary": "There are tons of different ways to configure your AI agents, but most people get it wrong. They don’t know how to use AGENTS.md, when SKILLS.md should be…"
+  },
+  {
+   "id": "-Z11mZaJU0w",
+   "title": "Please… I Need Your Help",
+   "channel": "Web Dev Simplified",
+   "topic": "Build websites",
+   "date": "2026-09-08T19:22:32+00:00",
+   "summary": "Survey: https://forms.gle/xUxoqxeed29LhNE16 I would be really grateful if you could fill out this survey to help me better understand what you are hoping to get out of my…"
+  }
+ ]
+}
