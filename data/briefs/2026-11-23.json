@@ -1,8 +1,20 @@
 {
  "date": "2026-11-23",
- "updated": "2026-11-23T18:35:15+00:00",
+ "updated": "2026-11-23T18:54:36+00:00",
  "headlines": {
   "domains": [
+   {
+    "title": "Apptopia.ai UDRP: App analytics company challenges competing AI website",
+    "link": "https://domaingang.com/domain-law/apptopia-ai-udrp-app-analytics-company-challenges-competing-ai-website/",
+    "source": "DomainGang",
+    "date": "2026-11-23T18:41:22+00:00"
+   },
+   {
+    "title": "Cinque Terre Tourism Website Launched on CinqueTerre.com",
+    "link": "https://domaininvesting.com/cinque-terre-tourism-website-launched-on-cinqueterre-com/",
+    "source": "DomainInvesting",
+    "date": "2026-11-23T17:48:55+00:00"
+   },
    {
     "title": "Equifaxvictim.com UDRP: Credit reporting giant challenges consumer criticism domain",
     "link": "https://domaingang.com/domain-law/equifaxvictim-com-udrp-credit-reporting-giant-challenges-consumer-criticism-domain/",
@@ -20,18 +32,6 @@
     "link": "https://domainnamewire.com/2026/11/23/on-the-floor-at-namescon-dnw-podcast-613/",
     "source": "Domain Name Wire",
     "date": "2026-11-23T16:30:28+00:00"
-   },
-   {
-    "title": "Peptides company tries reverse domain name hijacking",
-    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSXd3VURrZEs0T1FSX3N2R1JObmRSWmxHbjdLZkZsQUoySy1ONm11a0NfS3RSWjdBQkpoTmtwamJCUGFNWHBYdTFfWmpjak9Vb1huQklMUVVESWhvOW4wZ3BxdF9XbWJYSnlVNk1MaE51REtqeEJPcm83WEszUzk3b1pWSGZsamttd1EtSlhkcVJQNGtJeGc?oc=5",
-    "source": "Domain Name Wire",
-    "date": "2026-11-23T16:15:08+00:00"
-   },
-   {
-    "title": "Older Than the Trademark: Three Reverse Domain Name Hijacking Cases",
-    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONVBGQmwzV2x6N05FS251ZEtDYWJncXlXV1duYm4xQ2Fmb0U5VGd1SVBVeGR6Qkc5ZkxNME54UnZIZm0wS2UxamozOG9BRVNxVFVQb1VjdThpYlliMGJ3bW9TamgtX25SSXNsc3BYNU9oR0szcnZoRzRBYi1YeFBnRWdZbzVOcE9qZWYtaHBOcEI5Wm9VN20wTw?oc=5",
-    "source": "CircleID",
-    "date": "2026-11-23T14:43:04+00:00"
    }
   ],
   "web": [
@@ -74,31 +74,37 @@
     "date": "2026-11-24T00:00:00+00:00"
    },
    {
+    "title": "Spanish LaLiga confirms hackers stole soccer fans’ personal data",
+    "link": "https://www.bleepingcomputer.com/news/security/spanish-laliga-confirms-hackers-stole-soccer-fans-personal-data/",
+    "source": "BleepingComputer",
+    "date": "2026-11-23T18:38:40+00:00"
+   },
+   {
+    "title": "Signal blocks screenshots by Apple, Google operating systems to protect data from AI agents",
+    "link": "https://therecord.media/signal-no-screenshots-by-apple-google-operating-systems",
+    "source": "The Record",
+    "date": "2026-11-23T18:37:00+00:00"
+   },
+   {
+    "title": "FBI reportedly facing second data breach involving National Crime Information Center",
+    "link": "https://therecord.media/fbi-cyberattack-data-breach",
+    "source": "The Record",
+    "date": "2026-11-23T18:30:00+00:00"
+   },
+   {
     "title": "New Consumer Safety Advisory Highlights Rising Phishing Threats and Essential Account Security Practices for Online Betting Users",
     "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPVVh3T1Z4SUVDLThVelhLTmszbXpPZEpMb2RIYjhGU191ZnFOb0htRFVWOFBacVRjWE1mZ0VWM3dMamNIc3pGMlA2cFI1N2lSalcyeFRtTEo3NTdhZVlvTHRTZV85V3RKR1BicTZ4Y2haYmNidEhlNnZqMWNTZlFkbmRvSE1RT2hNakdxamRYcWFzNnZTYllYSmQ4Qml6bnZWaDNLVGF5dmwtZFhudGlyMnlEeVhHb2Q4NDJybUFMLTV4ZzZ1akxKaVk1MHJXZEtROUNyM3BydWdVWV9tdU1ZLTJXdmFVajk5QkF4amxlRTZqb0pfTl9jRndMVWVOcEZ4ZnlRYUNiTnRsd1JmVUdrb3pRMTh3cVV1?oc=5",
     "source": "StreetInsider",
     "date": "2026-11-23T17:42:14+00:00"
-   },
-   {
-    "title": "CrowdStrike to purchase Zscaler for $43.9 billion",
-    "link": "https://therecord.media/crowdstrike-zscaler",
-    "source": "The Record",
-    "date": "2026-11-23T17:14:00+00:00"
-   },
-   {
-    "title": "GlobeTopper loses $2.5 million after hackers steal $70k in gift cards",
-    "link": "https://www.bleepingcomputer.com/news/security/globetopper-loses-25-million-after-hackers-steal-70k-in-gift-cards/",
-    "source": "BleepingComputer",
-    "date": "2026-11-23T16:50:01+00:00"
-   },
-   {
-    "title": "Norway says hackers exploited Microsoft security flaw to attack energy firms Equinor, Skagerak Energi",
-    "link": "https://therecord.media/norway-microsoft-cyberattack-equinor",
-    "source": "The Record",
-    "date": "2026-11-23T15:45:00+00:00"
    }
   ],
   "business": [
+   {
+    "title": "How should an LLM see a computer?",
+    "link": "https://www.greptile.com/blog/trex-computer-use",
+    "source": "Hacker News",
+    "date": "2026-11-23T17:19:25+00:00"
+   },
    {
     "title": "Kagi Mail (public beta)",
     "link": "https://blog.kagi.com/kagi-mail-public-beta",
@@ -122,12 +128,6 @@
     "link": "https://mathbabe.org/2026/11/23/buckle-up-the-ai-bubble-is-popping/",
     "source": "Hacker News",
     "date": "2026-11-23T16:01:20+00:00"
-   },
-   {
-    "title": "One man's quest to end daylight savings",
-    "link": "https://www.newyorker.com/magazine/2026/11/30/one-mans-quest-to-end-daylight-savings",
-    "source": "Hacker News",
-    "date": "2026-11-23T15:28:41+00:00"
    }
   ]
  },
@@ -137,11 +137,11 @@
  },
  "tip": "Before you buy a name on the aftermarket, look it up in the Wayback Machine. A past life as a spam site can follow a domain for years.",
  "names": [
+  "Vudex",
+  "Sibil",
   "Luces",
   "Camux",
-  "Sibil",
   "Losir",
-  "Vudex",
   "Getmark",
   "TideDrift",
   "MapleLumen"

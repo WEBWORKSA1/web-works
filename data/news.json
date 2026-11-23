@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T18:35:03+00:00",
+ "updated": "2026-11-23T18:54:26+00:00",
  "items": [
   {
    "title": "Hackers breach Austrian Foreign Ministry website, access diplomats' contact details",
@@ -10,12 +10,52 @@
    "cat": "security"
   },
   {
+   "title": "Apptopia.ai UDRP: App analytics company challenges competing AI website",
+   "link": "https://domaingang.com/domain-law/apptopia-ai-udrp-app-analytics-company-challenges-competing-ai-website/",
+   "source": "DomainGang",
+   "date": "2026-11-23T18:41:22+00:00",
+   "summary": "Apptopia, Inc., a US company providing mobile app analytics and market intelligence, filed a UDRP against Apptopia.ai, registered in April 2026. The Complainant operates from Apptopia.com and has used the APPTOPIA trademark…",
+   "cat": "domains"
+  },
+  {
+   "title": "Spanish LaLiga confirms hackers stole soccer fans’ personal data",
+   "link": "https://www.bleepingcomputer.com/news/security/spanish-laliga-confirms-hackers-stole-soccer-fans-personal-data/",
+   "source": "BleepingComputer",
+   "date": "2026-11-23T18:38:40+00:00",
+   "summary": "LaLiga, Spain's top men's football league, disclosed a data breach that exposed personal information belonging to users of its services and those of some affiliated clubs. [...]",
+   "cat": "security"
+  },
+  {
+   "title": "Signal blocks screenshots by Apple, Google operating systems to protect data from AI agents",
+   "link": "https://therecord.media/signal-no-screenshots-by-apple-google-operating-systems",
+   "source": "The Record",
+   "date": "2026-11-23T18:37:00+00:00",
+   "summary": "Google’s Gemini Intelligence and Apple's Siri AI \"are changing this environment in a way that’s making it increasingly hostile to privacy,\" Signal said.",
+   "cat": "security"
+  },
+  {
+   "title": "FBI reportedly facing second data breach involving National Crime Information Center",
+   "link": "https://therecord.media/fbi-cyberattack-data-breach",
+   "source": "The Record",
+   "date": "2026-11-23T18:30:00+00:00",
+   "summary": "The FBI is reportedly investigating a data breach involving the National Crime Information Center, a database used by U.S. law enforcement agencies that contains information on criminals, fugitives and missing people.",
+   "cat": "security"
+  },
+  {
    "title": "Google Says Back Button Hijacking Policy Covers Social Visits",
    "link": "https://www.searchenginejournal.com/google-back-button-hijacking-policy-social-visits/598592/",
    "source": "Search Engine Journal",
    "date": "2026-11-23T18:00:23+00:00",
    "summary": "Google says the back button hijacking policy applies to visits from social media and other channels, and that sites can keep using ad platform code.",
    "cat": "web"
+  },
+  {
+   "title": "Cinque Terre Tourism Website Launched on CinqueTerre.com",
+   "link": "https://domaininvesting.com/cinque-terre-tourism-website-launched-on-cinqueterre-com/",
+   "source": "DomainInvesting",
+   "date": "2026-11-23T17:48:55+00:00",
+   "summary": "Twenty years ago, my wife and I spent some time in Italy. One of the areas we visited and loved was Cinque Terre. We hiked, swam, and ate our way through the…",
+   "cat": "domains"
   },
   {
    "title": "New Consumer Safety Advisory Highlights Rising Phishing Threats and Essential Account Security Practices for Online Betting Users",
@@ -34,11 +74,19 @@
    "cat": "domains"
   },
   {
+   "title": "How should an LLM see a computer?",
+   "link": "https://www.greptile.com/blog/trex-computer-use",
+   "source": "Hacker News",
+   "date": "2026-11-23T17:19:25+00:00",
+   "summary": "9 points, 5 comments on Hacker News.",
+   "cat": "business"
+  },
+  {
    "title": "Kagi Mail (public beta)",
    "link": "https://blog.kagi.com/kagi-mail-public-beta",
    "source": "Hacker News",
    "date": "2026-11-23T17:17:01+00:00",
-   "summary": "91 points, 51 comments on Hacker News.",
+   "summary": "114 points, 72 comments on Hacker News.",
    "cat": "business"
   },
   {
@@ -94,7 +142,7 @@
    "link": "https://ladybird.org/posts/alpha/",
    "source": "Hacker News",
    "date": "2026-11-23T16:13:12+00:00",
-   "summary": "591 points, 152 comments on Hacker News.",
+   "summary": "668 points, 178 comments on Hacker News.",
    "cat": "business"
   },
   {
@@ -150,7 +198,7 @@
    "link": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1y3jzqe/cyberleek_posted_the_gta_6_xbox_build_executable/",
    "source": "Hacker News",
    "date": "2026-11-23T14:49:44+00:00",
-   "summary": "111 points, 80 comments on Hacker News.",
+   "summary": "120 points, 97 comments on Hacker News.",
    "cat": "business"
   },
   {
@@ -174,7 +222,7 @@
    "link": "https://boland.dev/snet/",
    "source": "Hacker News",
    "date": "2026-11-23T14:16:37+00:00",
-   "summary": "36 points, 7 comments on Hacker News.",
+   "summary": "40 points, 10 comments on Hacker News.",
    "cat": "business"
   },
   {
@@ -190,7 +238,7 @@
    "link": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html",
    "source": "Hacker News",
    "date": "2026-11-23T14:00:18+00:00",
-   "summary": "1012 points, 2121 comments on Hacker News.",
+   "summary": "1112 points, 2197 comments on Hacker News.",
    "cat": "business"
   },
   {
@@ -200,6 +248,14 @@
    "date": "2026-11-23T14:00:00+00:00",
    "summary": "At Cloudflare we’ve built tools to enable teams to extend our internal testing framework and build test tooling for networking protocols. This is the story of how this was used for DNS.",
    "cat": "web"
+  },
+  {
+   "title": "NariQ: BF16-level Qwen3.8-27B in a 10 GB file",
+   "link": "https://huggingface.co/nari-labs/Qwen3.8-27B-NariQ-GGUF",
+   "source": "Hacker News",
+   "date": "2026-11-23T13:42:38+00:00",
+   "summary": "6 points, 0 comments on Hacker News.",
+   "cat": "business"
   },
   {
    "title": "Microsoft testing fix for Windows 11 Bluetooth audio quality drops",
@@ -230,7 +286,7 @@
    "link": "https://github.com/mikuta0407/win4wine",
    "source": "Hacker News",
    "date": "2026-11-23T12:28:11+00:00",
-   "summary": "143 points, 82 comments on Hacker News.",
+   "summary": "153 points, 86 comments on Hacker News.",
    "cat": "business"
   },
   {
@@ -246,7 +302,7 @@
    "link": "https://blogs.gentoo.org/mgorny/2026/10/27/the-next-circle-of-security-hell/",
    "source": "Hacker News",
    "date": "2026-11-23T11:34:16+00:00",
-   "summary": "176 points, 85 comments on Hacker News.",
+   "summary": "178 points, 89 comments on Hacker News.",
    "cat": "business"
   },
   {
@@ -254,7 +310,7 @@
    "link": "https://github.com/os6/nospeaker",
    "source": "Hacker News",
    "date": "2026-11-23T11:31:54+00:00",
-   "summary": "170 points, 88 comments on Hacker News.",
+   "summary": "188 points, 95 comments on Hacker News.",
    "cat": "business"
   },
   {
@@ -262,7 +318,7 @@
    "link": "https://z.ai/blog/glm-5.4",
    "source": "Hacker News",
    "date": "2026-11-23T10:06:43+00:00",
-   "summary": "830 points, 298 comments on Hacker News.",
+   "summary": "855 points, 302 comments on Hacker News.",
    "cat": "business"
   },
   {
@@ -278,7 +334,7 @@
    "link": "https://jola.dev/posts/you-cant-afford-ssh-keys-disk",
    "source": "Hacker News",
    "date": "2026-11-23T09:55:38+00:00",
-   "summary": "64 points, 54 comments on Hacker News.",
+   "summary": "70 points, 57 comments on Hacker News.",
    "cat": "business"
   },
   {
@@ -334,7 +390,7 @@
    "link": "https://micjm.com/blog/yes-17m-lines-of-lean-is-a-lot/",
    "source": "Hacker News",
    "date": "2026-11-23T05:00:49+00:00",
-   "summary": "232 points, 291 comments on Hacker News.",
+   "summary": "238 points, 294 comments on Hacker News.",
    "cat": "business"
   },
   {
@@ -350,7 +406,7 @@
    "link": "https://github.com/AFK-surf/xnulinux",
    "source": "Hacker News",
    "date": "2026-11-23T03:49:24+00:00",
-   "summary": "543 points, 225 comments on Hacker News.",
+   "summary": "546 points, 226 comments on Hacker News.",
    "cat": "business"
   },
   {
@@ -382,7 +438,7 @@
    "link": "https://spelunkr.tv",
    "source": "Hacker News",
    "date": "2026-11-23T01:13:51+00:00",
-   "summary": "819 points, 146 comments on Hacker News.",
+   "summary": "831 points, 150 comments on Hacker News.",
    "cat": "business"
   },
   {
@@ -390,7 +446,7 @@
    "link": "https://alvinbunk.wordpress.com/2026/11/01/nespresso-project-olympus/",
    "source": "Hacker News",
    "date": "2026-11-22T23:57:45+00:00",
-   "summary": "162 points, 217 comments on Hacker News.",
+   "summary": "170 points, 222 comments on Hacker News.",
    "cat": "business"
   },
   {
@@ -414,7 +470,7 @@
    "link": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
    "source": "Hacker News",
    "date": "2026-11-22T21:01:16+00:00",
-   "summary": "691 points, 279 comments on Hacker News.",
+   "summary": "699 points, 280 comments on Hacker News.",
    "cat": "business"
   },
   {
@@ -438,7 +494,7 @@
    "link": "https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife",
    "source": "Hacker News",
    "date": "2026-11-22T19:10:34+00:00",
-   "summary": "620 points, 350 comments on Hacker News.",
+   "summary": "623 points, 354 comments on Hacker News.",
    "cat": "business"
   },
   {
@@ -462,7 +518,7 @@
    "link": "https://openai.com/index/perplexity-and-intelligence/",
    "source": "Hacker News",
    "date": "2026-11-22T17:06:27+00:00",
-   "summary": "671 points, 434 comments on Hacker News.",
+   "summary": "674 points, 434 comments on Hacker News.",
    "cat": "business"
   },
   {
@@ -558,7 +614,7 @@
    "link": "https://www.allaboutcircuits.com/technical-articles/mram-basics-how-magnetic-memory-is-replacing-embedded-flash/",
    "source": "Hacker News",
    "date": "2026-11-21T10:14:11+00:00",
-   "summary": "75 points, 29 comments on Hacker News.",
+   "summary": "77 points, 29 comments on Hacker News.",
    "cat": "business"
   },
   {
@@ -566,7 +622,7 @@
    "link": "https://www.theguardian.com/science/2026/nov/20/spacecraft-mercury-second-ever-mission-orbit-bepicolombo",
    "source": "Hacker News",
    "date": "2026-11-21T09:14:02+00:00",
-   "summary": "149 points, 50 comments on Hacker News.",
+   "summary": "166 points, 56 comments on Hacker News.",
    "cat": "business"
   },
   {
@@ -574,7 +630,7 @@
    "link": "https://blog.regehr.org/archives/1621",
    "source": "Hacker News",
    "date": "2026-11-21T08:49:14+00:00",
-   "summary": "78 points, 45 comments on Hacker News.",
+   "summary": "80 points, 54 comments on Hacker News.",
    "cat": "business"
   },
   {
@@ -598,7 +654,7 @@
    "link": "https://github.com/elixir-hls/elixir-hls",
    "source": "Hacker News",
    "date": "2026-11-21T00:47:57+00:00",
-   "summary": "129 points, 11 comments on Hacker News.",
+   "summary": "131 points, 12 comments on Hacker News.",
    "cat": "business"
   },
   {
@@ -610,11 +666,19 @@
    "cat": "security"
   },
   {
+   "title": "Anatomia Di Tor – The Tor Protocol, Byte by Byte",
+   "link": "https://github.com/aleff-github/onion-routing-anatomy",
+   "source": "Hacker News",
+   "date": "2026-11-21T00:20:37+00:00",
+   "summary": "8 points, 0 comments on Hacker News.",
+   "cat": "business"
+  },
+  {
    "title": "Reviving the Donkey Car with Erlang",
    "link": "https://underjord.io/reviving-the-donkey-car-with-erlang.html",
    "source": "Hacker News",
    "date": "2026-11-20T22:56:20+00:00",
-   "summary": "33 points, 1 comments on Hacker News.",
+   "summary": "34 points, 1 comments on Hacker News.",
    "cat": "business"
   },
   {
@@ -646,7 +710,7 @@
    "link": "https://elementdigital.com.au/blog/brake-check-trailer-brakes-over-bluetooth/",
    "source": "Hacker News",
    "date": "2026-11-20T20:57:16+00:00",
-   "summary": "74 points, 57 comments on Hacker News.",
+   "summary": "78 points, 57 comments on Hacker News.",
    "cat": "business"
   },
   {
@@ -726,7 +790,7 @@
    "link": "https://george.mand.is/2026/11/lets-meet-in-the-middle/",
    "source": "Hacker News",
    "date": "2026-11-20T16:41:54+00:00",
-   "summary": "35 points, 2 comments on Hacker News.",
+   "summary": "39 points, 3 comments on Hacker News.",
    "cat": "business"
   },
   {
@@ -736,14 +800,6 @@
    "date": "2026-11-20T16:17:43+00:00",
    "summary": "Google's marketing account told CMOs to replace generic tips posts with content grounded in first-hand expertise.",
    "cat": "web"
-  },
-  {
-   "title": "Bending Spoons buys Mailchimp for $3.68B",
-   "link": "https://techcrunch.com/2026/11/20/bending-spoons-buys-mailchimp-for-3-68-billion/",
-   "source": "TechCrunch Startups",
-   "date": "2026-11-20T16:16:06+00:00",
-   "summary": "Intuit acquired the company in 2021 for roughly $12 billion, so it looks like Bending Spoons is getting quite a bargain.",
-   "cat": "business"
   },
   {
    "title": "Vendor data breach exposes Chase, Visa, Mastercard customer info",
@@ -770,28 +826,12 @@
    "cat": "web"
   },
   {
-   "title": "The fallout from Nvidia’s Jensen Huang scandal continues",
-   "link": "https://techcrunch.com/podcast/the-fallout-from-nvidias-jensen-huang-scandal-continues/",
-   "source": "TechCrunch Startups",
-   "date": "2026-11-20T14:55:44+00:00",
-   "summary": "In the midst of dealing with the fallout from its ouster of CEO Jensen Huang, Nvidia delivered its latest earnings report this week, with healthy growth and promises that the good times…",
-   "cat": "business"
-  },
-  {
    "title": "RightOfTheDot extends NamesCon 2026 domain auction through November 30",
    "link": "https://domaingang.com/domain-news/rightofthedot-extends-namescon-2026-domain-auction-through-november-30/",
    "source": "DomainGang",
    "date": "2026-11-20T14:51:18+00:00",
    "summary": "Following the live domain auction at NamesCon Global 2026 in Miami on November 11, RightOfTheDot (ROTD) has extended its online timed auction, giving domain investors and potential end-user buyers additional time to…",
    "cat": "domains"
-  },
-  {
-   "title": "GoDaddy Website Builder Black Friday Deal 2026: Save Up to 33%",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZUd0TUtpSWVhWmNqOFoyQmozQnZYRnJ4SE04R0V6UE4zTWRvYUNHa3RPT01SRVRLbUZ5LTgwMjZJWGxjWFMyaDVGNnMwenF5dHlWSzc4LVhZeVk3RWtlNnJYQ3N0SlA4c25DTnlFZGg1ZFZPcGdLSEVjVFhuNGZMWg?oc=5",
-   "source": "Cybernews",
-   "date": "2026-11-20T14:50:13+00:00",
-   "summary": "",
-   "cat": "business"
   },
   {
    "title": "Eighteen end user domain name sales this week",
@@ -1160,22 +1200,6 @@
    "date": "2026-11-17T00:08:41+00:00",
    "summary": "",
    "cat": "security"
-  },
-  {
-   "title": "NotRenewing updates pricing to $199 for .AI domain names",
-   "link": "https://www.thedomains.com/2026/11/16/notrenewing-updates-pricing-to-199-for-ai-domain-names/",
-   "source": "TheDomains",
-   "date": "2026-11-16T20:24:53+00:00",
-   "summary": "NotRenewing.com is making a change. Since the price of .Ai domain names is much greater than traditional extensions like .com, .net, .org and country codes like .io and .si. You can now...",
-   "cat": "domains"
-  },
-  {
-   "title": "Deepinder Goyal Acquires Another Valuable Domain Name",
-   "link": "https://domaininvesting.com/deepinder-goyal-acquires-another-valuable-domain-name/",
-   "source": "DomainInvesting",
-   "date": "2026-11-16T14:17:32+00:00",
-   "summary": "Deepinder Goyal, Founder of Zomato and Eternal, has added another exceptional domain name to his portfolio. I think it is safe to say that Dark.com was acquired for Dark, the new AI…",
-   "cat": "domains"
   },
   {
    "title": "New filtering and reporting capabilities in the Search Analytics API",
