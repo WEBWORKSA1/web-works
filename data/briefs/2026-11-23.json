@@ -1,6 +1,6 @@
 {
  "date": "2026-11-23",
- "updated": "2026-11-23T16:32:20+00:00",
+ "updated": "2026-11-23T16:35:04+00:00",
  "headlines": {
   "domains": [
    {
@@ -71,7 +71,7 @@
     "title": "Hackers breach Austrian Foreign Ministry website, access diplomats' contact details",
     "link": "https://therecord.media/austrian-foreign-ministry-says-website-hacked",
     "source": "The Record",
-    "date": "2026-11-23T16:27:15+00:00"
+    "date": "2026-11-23T16:33:16+00:00"
    },
    {
     "title": "Norway says hackers exploited Microsoft security flaw to attack energy firms Equinor, Skagerak Energi",
@@ -118,16 +118,16 @@
     "date": "2026-11-23T15:28:41+00:00"
    },
    {
+    "title": "GTA 6 Xbox executable released early by cyberleek",
+    "link": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1y3jzqe/cyberleek_posted_the_gta_6_xbox_build_executable/",
+    "source": "Hacker News",
+    "date": "2026-11-23T14:49:44+00:00"
+   },
+   {
     "title": "Building a wireless network adapter for the Super Nintendo",
     "link": "https://boland.dev/snet/",
     "source": "Hacker News",
     "date": "2026-11-23T14:16:37+00:00"
-   },
-   {
-    "title": "Jensen Huang Reinstated as Nvidia CEO",
-    "link": "https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director",
-    "source": "Hacker News",
-    "date": "2026-11-23T14:01:23+00:00"
    }
   ]
  },
@@ -138,9 +138,9 @@
  "tip": "Before you buy a name on the aftermarket, look it up in the Wayback Machine. A past life as a spam site can follow a domain for years.",
  "names": [
   "Sibil",
-  "Vudex",
   "Camux",
   "Losir",
+  "Vudex",
   "Luces",
   "Getmark",
   "TideDrift",

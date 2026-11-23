@@ -1,5 +1,5 @@
 {
- "run_at": "2026-11-23T16:27:15+00:00",
+ "run_at": "2026-11-23T16:33:16+00:00",
  "sources": [
   {
    "kind": "news",
@@ -40,8 +40,9 @@
    "kind": "news",
    "name": "Google News: domain names",
    "url": "https://news.google.com/rss/search?q=%22domain+name%22+OR+ICANN+OR+registrar&hl=en-US&gl=US&ceid=US:en",
-   "ok": true,
-   "count": 25
+   "ok": false,
+   "count": 0,
+   "error": "HTTP Error 503: Service Unavailable"
   },
   {
    "kind": "news",
@@ -54,8 +55,9 @@
    "kind": "news",
    "name": "Google News: SEO and search",
    "url": "https://news.google.com/rss/search?q=SEO+OR+%22Google+Search%22+algorithm&hl=en-US&gl=US&ceid=US:en",
-   "ok": true,
-   "count": 25
+   "ok": false,
+   "count": 0,
+   "error": "HTTP Error 503: Service Unavailable"
   },
   {
    "kind": "news",
@@ -117,8 +119,9 @@
    "kind": "news",
    "name": "Google News: phishing domains",
    "url": "https://news.google.com/rss/search?q=phishing+domain+OR+typosquatting+OR+%22lookalike+domain%22&hl=en-US&gl=US&ceid=US:en",
-   "ok": true,
-   "count": 25
+   "ok": false,
+   "count": 0,
+   "error": "HTTP Error 503: Service Unavailable"
   },
   {
    "kind": "news",
@@ -131,8 +134,9 @@
    "kind": "news",
    "name": "Google News: website builders and AI",
    "url": "https://news.google.com/rss/search?q=%22website+builder%22+OR+%22AI+website%22&hl=en-US&gl=US&ceid=US:en",
-   "ok": true,
-   "count": 25
+   "ok": false,
+   "count": 0,
+   "error": "HTTP Error 503: Service Unavailable"
   },
   {
    "kind": "news",
@@ -230,7 +234,15 @@
    "name": "IANA root zone database",
    "url": "https://www.iana.org/domains/root/db",
    "ok": false,
-   "count": 0
+   "count": 0,
+   "error": "no table rows parsed (3840365 bytes, title: Top-Level Domains)"
+  },
+  {
+   "kind": "data",
+   "name": "ICANN gTLD list",
+   "url": "https://www.icann.org/resources/registries/gtlds/v2/gtlds.json",
+   "ok": true,
+   "count": 1136
   },
   {
    "kind": "data",
@@ -249,6 +261,6 @@
  ],
  "news_items": 158,
  "video_items": 60,
- "ok_sources": 34,
- "total_sources": 35
+ "ok_sources": 31,
+ "total_sources": 36
 }

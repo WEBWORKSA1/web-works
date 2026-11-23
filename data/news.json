@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-23T16:27:15+00:00",
+ "updated": "2026-11-23T16:33:16+00:00",
  "items": [
   {
    "title": "Hackers breach Austrian Foreign Ministry website, access diplomats' contact details",
    "link": "https://therecord.media/austrian-foreign-ministry-says-website-hacked",
    "source": "The Record",
-   "date": "2026-11-23T16:27:15+00:00",
+   "date": "2026-11-23T16:33:16+00:00",
    "summary": "Austria's Foreign Ministry said late last week that hackers breached one of its websites and accessed the names and official contact information of employees at its Vienna headquarters and at Austria’s diplomatic…",
    "cat": "security"
   },
@@ -22,7 +22,7 @@
    "link": "https://ladybird.org/posts/alpha/",
    "source": "Hacker News",
    "date": "2026-11-23T16:13:12+00:00",
-   "summary": "52 points, 3 comments on Hacker News.",
+   "summary": "83 points, 8 comments on Hacker News.",
    "cat": "business"
   },
   {
@@ -46,7 +46,7 @@
    "link": "https://www.newyorker.com/magazine/2026/11/30/one-mans-quest-to-end-daylight-savings",
    "source": "Hacker News",
    "date": "2026-11-23T15:28:41+00:00",
-   "summary": "21 points, 17 comments on Hacker News.",
+   "summary": "24 points, 19 comments on Hacker News.",
    "cat": "business"
   },
   {
@@ -74,6 +74,14 @@
    "cat": "security"
   },
   {
+   "title": "GTA 6 Xbox executable released early by cyberleek",
+   "link": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1y3jzqe/cyberleek_posted_the_gta_6_xbox_build_executable/",
+   "source": "Hacker News",
+   "date": "2026-11-23T14:49:44+00:00",
+   "summary": "20 points, 2 comments on Hacker News.",
+   "cat": "business"
+  },
+  {
    "title": "Older Than the Trademark: Three Reverse Domain Name Hijacking Cases",
    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONVBGQmwzV2x6N05FS251ZEtDYWJncXlXV1duYm4xQ2Fmb0U5VGd1SVBVeGR6Qkc5ZkxNME54UnZIZm0wS2UxamozOG9BRVNxVFVQb1VjdThpYlliMGJ3bW9TamgtX25SSXNsc3BYNU9oR0szcnZoRzRBYi1YeFBnRWdZbzVOcE9qZWYtaHBOcEI5Wm9VN20wTw?oc=5",
    "source": "CircleID",
@@ -86,7 +94,7 @@
    "link": "https://boland.dev/snet/",
    "source": "Hacker News",
    "date": "2026-11-23T14:16:37+00:00",
-   "summary": "9 points, 1 comments on Hacker News.",
+   "summary": "10 points, 1 comments on Hacker News.",
    "cat": "business"
   },
   {
@@ -102,7 +110,7 @@
    "link": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html",
    "source": "Hacker News",
    "date": "2026-11-23T14:00:18+00:00",
-   "summary": "127 points, 1440 comments on Hacker News.",
+   "summary": "183 points, 1483 comments on Hacker News.",
    "cat": "business"
   },
   {
@@ -142,7 +150,7 @@
    "link": "https://github.com/mikuta0407/win4wine",
    "source": "Hacker News",
    "date": "2026-11-23T12:28:11+00:00",
-   "summary": "108 points, 53 comments on Hacker News.",
+   "summary": "109 points, 54 comments on Hacker News.",
    "cat": "business"
   },
   {
@@ -158,7 +166,7 @@
    "link": "https://blogs.gentoo.org/mgorny/2026/10/27/the-next-circle-of-security-hell/",
    "source": "Hacker News",
    "date": "2026-11-23T11:34:16+00:00",
-   "summary": "128 points, 67 comments on Hacker News.",
+   "summary": "134 points, 68 comments on Hacker News.",
    "cat": "business"
   },
   {
@@ -166,7 +174,7 @@
    "link": "https://github.com/os6/nospeaker",
    "source": "Hacker News",
    "date": "2026-11-23T11:31:54+00:00",
-   "summary": "117 points, 49 comments on Hacker News.",
+   "summary": "121 points, 55 comments on Hacker News.",
    "cat": "business"
   },
   {
@@ -174,7 +182,7 @@
    "link": "https://z.ai/blog/glm-5.4",
    "source": "Hacker News",
    "date": "2026-11-23T10:06:43+00:00",
-   "summary": "666 points, 249 comments on Hacker News.",
+   "summary": "675 points, 250 comments on Hacker News.",
    "cat": "business"
   },
   {
@@ -190,7 +198,7 @@
    "link": "https://jola.dev/posts/you-cant-afford-ssh-keys-disk",
    "source": "Hacker News",
    "date": "2026-11-23T09:55:38+00:00",
-   "summary": "33 points, 21 comments on Hacker News.",
+   "summary": "35 points, 23 comments on Hacker News.",
    "cat": "business"
   },
   {
@@ -238,7 +246,7 @@
    "link": "https://micjm.com/blog/yes-17m-lines-of-lean-is-a-lot/",
    "source": "Hacker News",
    "date": "2026-11-23T05:00:49+00:00",
-   "summary": "209 points, 250 comments on Hacker News.",
+   "summary": "212 points, 252 comments on Hacker News.",
    "cat": "business"
   },
   {
@@ -254,7 +262,7 @@
    "link": "https://github.com/AFK-surf/xnulinux",
    "source": "Hacker News",
    "date": "2026-11-23T03:49:24+00:00",
-   "summary": "496 points, 207 comments on Hacker News.",
+   "summary": "497 points, 207 comments on Hacker News.",
    "cat": "business"
   },
   {
@@ -278,7 +286,7 @@
    "link": "https://pengowray.github.io/riemann-zeta-proof-visualizer/",
    "source": "Hacker News",
    "date": "2026-11-23T01:50:23+00:00",
-   "summary": "153 points, 64 comments on Hacker News.",
+   "summary": "154 points, 64 comments on Hacker News.",
    "cat": "business"
   },
   {
@@ -286,7 +294,7 @@
    "link": "https://spelunkr.tv",
    "source": "Hacker News",
    "date": "2026-11-23T01:13:51+00:00",
-   "summary": "749 points, 138 comments on Hacker News.",
+   "summary": "753 points, 140 comments on Hacker News.",
    "cat": "business"
   },
   {
@@ -294,7 +302,7 @@
    "link": "https://www.gl-inet.com/en-us/blogs/blog/glinet-security-notice-2026-11-20",
    "source": "Hacker News",
    "date": "2026-11-22T23:06:37+00:00",
-   "summary": "252 points, 119 comments on Hacker News.",
+   "summary": "252 points, 120 comments on Hacker News.",
    "cat": "business"
   },
   {
@@ -310,7 +318,7 @@
    "link": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
    "source": "Hacker News",
    "date": "2026-11-22T21:01:16+00:00",
-   "summary": "660 points, 267 comments on Hacker News.",
+   "summary": "660 points, 269 comments on Hacker News.",
    "cat": "business"
   },
   {
@@ -326,7 +334,7 @@
    "link": "https://danielsada.tech/blog/assume-people-are-not-interested-in-your-blog-post/",
    "source": "Hacker News",
    "date": "2026-11-22T19:41:30+00:00",
-   "summary": "282 points, 139 comments on Hacker News.",
+   "summary": "283 points, 139 comments on Hacker News.",
    "cat": "business"
   },
   {
@@ -334,7 +342,7 @@
    "link": "https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife",
    "source": "Hacker News",
    "date": "2026-11-22T19:10:34+00:00",
-   "summary": "594 points, 326 comments on Hacker News.",
+   "summary": "594 points, 328 comments on Hacker News.",
    "cat": "business"
   },
   {
@@ -350,7 +358,7 @@
    "link": "https://openai.com/index/perplexity-and-intelligence/",
    "source": "Hacker News",
    "date": "2026-11-22T17:06:27+00:00",
-   "summary": "654 points, 426 comments on Hacker News.",
+   "summary": "655 points, 427 comments on Hacker News.",
    "cat": "business"
   },
   {
@@ -382,7 +390,7 @@
    "link": "https://johncarlosbaez.wordpress.com/2026/11/22/masullo-on-the-riemann-hypothesis/",
    "source": "Hacker News",
    "date": "2026-11-22T10:59:56+00:00",
-   "summary": "279 points, 261 comments on Hacker News.",
+   "summary": "280 points, 261 comments on Hacker News.",
    "cat": "business"
   },
   {
@@ -446,7 +454,7 @@
    "link": "https://www.allaboutcircuits.com/technical-articles/mram-basics-how-magnetic-memory-is-replacing-embedded-flash/",
    "source": "Hacker News",
    "date": "2026-11-21T10:14:11+00:00",
-   "summary": "52 points, 22 comments on Hacker News.",
+   "summary": "55 points, 23 comments on Hacker News.",
    "cat": "business"
   },
   {
@@ -454,7 +462,7 @@
    "link": "https://www.theguardian.com/science/2026/nov/20/spacecraft-mercury-second-ever-mission-orbit-bepicolombo",
    "source": "Hacker News",
    "date": "2026-11-21T09:14:02+00:00",
-   "summary": "56 points, 13 comments on Hacker News.",
+   "summary": "61 points, 16 comments on Hacker News.",
    "cat": "business"
   },
   {
@@ -462,7 +470,7 @@
    "link": "https://blog.regehr.org/archives/1621",
    "source": "Hacker News",
    "date": "2026-11-21T08:49:14+00:00",
-   "summary": "44 points, 23 comments on Hacker News.",
+   "summary": "45 points, 25 comments on Hacker News.",
    "cat": "business"
   },
   {
@@ -478,7 +486,7 @@
    "link": "https://github.com/elixir-hls/elixir-hls",
    "source": "Hacker News",
    "date": "2026-11-21T00:47:57+00:00",
-   "summary": "108 points, 7 comments on Hacker News.",
+   "summary": "110 points, 7 comments on Hacker News.",
    "cat": "business"
   },
   {
@@ -526,7 +534,7 @@
    "link": "https://elementdigital.com.au/blog/brake-check-trailer-brakes-over-bluetooth/",
    "source": "Hacker News",
    "date": "2026-11-20T20:57:16+00:00",
-   "summary": "63 points, 45 comments on Hacker News.",
+   "summary": "67 points, 51 comments on Hacker News.",
    "cat": "business"
   },
   {
@@ -976,14 +984,6 @@
    "date": "2026-11-18T02:52:04+00:00",
    "summary": "At least 178 top web destinations unwittingly served a variety of malware exploits against visitors over the past 24 hours thanks to a security vulnerability involving Optimizely, a company that helps websites…",
    "cat": "security"
-  },
-  {
-   "title": "Nvidia’s startup stakes ballooned to $65B, but Huang’s exit puts future deals in doubt",
-   "link": "https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/",
-   "source": "TechCrunch Startups",
-   "date": "2026-11-18T01:44:21+00:00",
-   "summary": "The value of Nvidia’s private investments has nearly tripled over the past nine months, fueled by Jensen Huang’s aggressive dealmaking and rising valuations of its existing portfolio companies.",
-   "cat": "business"
   },
   {
    "title": "Quad9’s withdrawal from France: A canary in the coal mine",
