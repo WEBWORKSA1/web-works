@@ -211,11 +211,14 @@ def update_tlds():
             page = fetch("https://www.iana.org/domains/root/db").decode("utf-8", "replace")
             parsed = 0
             for row in re.findall(r"<tr[^>]*>(.*?)</tr>", page, flags=re.S | re.I):
-                m = re.search(r"/domains/root/db/([a-z0-9-]+)\.html", row, flags=re.I)
+                m = re.search(r"/domains/root/db/([a-z0-9-]+)(?:\.html)?[\"']", row, flags=re.I)
                 cells = [html.unescape(re.sub(r"<[^>]+>", "", c)).strip() for c in re.findall(r"<td[^>]*>(.*?)</td>", row, flags=re.S | re.I)]
                 kinds = ("generic", "country-code", "sponsored", "infrastructure", "generic-restricted", "test")
-                if m and len(cells) >= 2 and cells[-2].lower() in kinds:
-                    meta[m.group(1).lower()] = {"tld": m.group(1).lower(), "type": cells[-2].lower(), "manager": cells[-1]}
+                cells = [re.sub(r"\s+", " ", c).strip() for c in cells]
+                ti = next((k for k, c in enumerate(cells) if c.lower() in kinds), None)
+                if m and ti is not None:
+                    mgr = cells[ti + 1] if ti + 1 < len(cells) else ""
+                    meta[m.group(1).lower()] = {"tld": m.group(1).lower(), "type": cells[ti].lower(), "manager": mgr}
                     parsed += 1
             rec_db = {"kind": "data", "name": "IANA root zone database", "url": "https://www.iana.org/domains/root/db", "ok": parsed > 0, "count": parsed}
             if not parsed:
