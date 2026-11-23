@@ -1,6 +1,14 @@
 {
- "updated": "2026-11-23T16:40:26+00:00",
+ "updated": "2026-11-23T18:35:03+00:00",
  "items": [
+  {
+   "id": "NNS4a9_nY44",
+   "title": "TypeScript Crash Course 2027: Everything You Need To Know",
+   "channel": "Traversy Media",
+   "topic": "Build websites",
+   "date": "2026-11-23T17:06:50+00:00",
+   "summary": "Master TypeScript basics in this modern micro course. Learn to write clean, type-safe code for your next project. Check Out Posthog: https://go.posthog.com/traversy Full Interactive TypeScript course (Try it…"
+  },
   {
    "id": "D9tpr6xvbag",
    "title": "Google Can Now Rewrite Your Ads",
@@ -472,14 +480,6 @@
    "topic": "Build websites",
    "date": "2026-09-15T20:00:10+00:00",
    "summary": "There are tons of different ways to configure your AI agents, but most people get it wrong. They don’t know how to use AGENTS.md, when SKILLS.md should be…"
-  },
-  {
-   "id": "-Z11mZaJU0w",
-   "title": "Please… I Need Your Help",
-   "channel": "Web Dev Simplified",
-   "topic": "Build websites",
-   "date": "2026-09-08T19:22:32+00:00",
-   "summary": "Survey: https://forms.gle/xUxoqxeed29LhNE16 I would be really grateful if you could fill out this survey to help me better understand what you are hoping to get out of my…"
   }
  ]
 }
