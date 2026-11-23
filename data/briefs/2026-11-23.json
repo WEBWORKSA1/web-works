@@ -1,6 +1,6 @@
 {
  "date": "2026-11-23",
- "updated": "2026-11-23T16:36:18+00:00",
+ "updated": "2026-11-23T16:38:23+00:00",
  "headlines": {
   "domains": [
    {
@@ -71,7 +71,7 @@
     "title": "Hackers breach Austrian Foreign Ministry website, access diplomats' contact details",
     "link": "https://therecord.media/austrian-foreign-ministry-says-website-hacked",
     "source": "The Record",
-    "date": "2026-11-23T16:36:02+00:00"
+    "date": "2026-11-23T16:38:10+00:00"
    },
    {
     "title": "Norway says hackers exploited Microsoft security flaw to attack energy firms Equinor, Skagerak Energi",
@@ -137,11 +137,11 @@
  },
  "tip": "Before you buy a name on the aftermarket, look it up in the Wayback Machine. A past life as a spam site can follow a domain for years.",
  "names": [
-  "Vudex",
-  "Losir",
   "Camux",
-  "Sibil",
   "Luces",
+  "Losir",
+  "Sibil",
+  "Vudex",
   "Getmark",
   "TideDrift",
   "MapleLumen"
