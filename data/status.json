@@ -1,5 +1,5 @@
 {
- "run_at": "2026-11-23T16:33:16+00:00",
+ "run_at": "2026-11-23T16:36:02+00:00",
  "sources": [
   {
    "kind": "news",
@@ -40,9 +40,8 @@
    "kind": "news",
    "name": "Google News: domain names",
    "url": "https://news.google.com/rss/search?q=%22domain+name%22+OR+ICANN+OR+registrar&hl=en-US&gl=US&ceid=US:en",
-   "ok": false,
-   "count": 0,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 25
   },
   {
    "kind": "news",
@@ -55,9 +54,8 @@
    "kind": "news",
    "name": "Google News: SEO and search",
    "url": "https://news.google.com/rss/search?q=SEO+OR+%22Google+Search%22+algorithm&hl=en-US&gl=US&ceid=US:en",
-   "ok": false,
-   "count": 0,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 25
   },
   {
    "kind": "news",
@@ -119,9 +117,8 @@
    "kind": "news",
    "name": "Google News: phishing domains",
    "url": "https://news.google.com/rss/search?q=phishing+domain+OR+typosquatting+OR+%22lookalike+domain%22&hl=en-US&gl=US&ceid=US:en",
-   "ok": false,
-   "count": 0,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 25
   },
   {
    "kind": "news",
@@ -134,9 +131,8 @@
    "kind": "news",
    "name": "Google News: website builders and AI",
    "url": "https://news.google.com/rss/search?q=%22website+builder%22+OR+%22AI+website%22&hl=en-US&gl=US&ceid=US:en",
-   "ok": false,
-   "count": 0,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "count": 25
   },
   {
    "kind": "news",
@@ -259,8 +255,8 @@
    "count": 1203
   }
  ],
- "news_items": 158,
+ "news_items": 159,
  "video_items": 60,
- "ok_sources": 31,
+ "ok_sources": 35,
  "total_sources": 36
 }

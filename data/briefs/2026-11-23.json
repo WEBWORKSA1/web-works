@@ -1,8 +1,14 @@
 {
  "date": "2026-11-23",
- "updated": "2026-11-23T16:35:04+00:00",
+ "updated": "2026-11-23T16:36:18+00:00",
  "headlines": {
   "domains": [
+   {
+    "title": "On the floor at NamesCon – DNW Podcast #613",
+    "link": "https://domainnamewire.com/2026/11/23/on-the-floor-at-namescon-dnw-podcast-613/",
+    "source": "Domain Name Wire",
+    "date": "2026-11-23T16:30:28+00:00"
+   },
    {
     "title": "Peptides company tries reverse domain name hijacking",
     "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSXd3VURrZEs0T1FSX3N2R1JObmRSWmxHbjdLZkZsQUoySy1ONm11a0NfS3RSWjdBQkpoTmtwamJCUGFNWHBYdTFfWmpjak9Vb1huQklMUVVESWhvOW4wZ3BxdF9XbWJYSnlVNk1MaE51REtqeEJPcm83WEszUzk3b1pWSGZsamttd1EtSlhkcVJQNGtJeGc?oc=5",
@@ -26,12 +32,6 @@
     "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQeTg4SVNpdXEwamtXTEE2N3Ata1RUYnpnVEVWanl1bE9IT3RZSHFiN1pKNHlpdUJkaXBVcldVMmNGQWVDbUh2djVQY01QWE5DTUlIUWt0Y041cE5ZVERyYmdTa180Vm40d2NBWjdCbEZISmtwMS1TNk5yVWNpdjhKSUhWNFVzcjV2M3B6c2tqM0tVcDRGTVV0NFdidWZGbWpneFFHeDV0RFJibV94QW5LZ1hrSHFFcWNDNF91RGNQR1c5RWhOZF9QLTBZYTBOUE12Nk1OMA?oc=5",
     "source": "LawyersandSettlements.com",
     "date": "2026-11-23T06:15:00+00:00"
-   },
-   {
-    "title": "China Demands Spelling Change for '.HAN' Domain Bearing Korea's Name; Gabia Says \"Unacceptable\"",
-    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5Gc2FFRnEtb3A1bkh6eHlJWV9zYncteUN0WG83aUVmWElrWmVjeGtuYTFzMzNkbVZrVk1tb0F6SGFac2l5X1hvR1ZkR2tjeU5sTGdRMkJfRDhYTUlpY193OElqVnYwT0pKSDhzVVNoSThRNmk1UlE?oc=5",
-    "source": "finance.biggo.com",
-    "date": "2026-11-23T01:55:00+00:00"
    }
   ],
   "web": [
@@ -71,7 +71,7 @@
     "title": "Hackers breach Austrian Foreign Ministry website, access diplomats' contact details",
     "link": "https://therecord.media/austrian-foreign-ministry-says-website-hacked",
     "source": "The Record",
-    "date": "2026-11-23T16:33:16+00:00"
+    "date": "2026-11-23T16:36:02+00:00"
    },
    {
     "title": "Norway says hackers exploited Microsoft security flaw to attack energy firms Equinor, Skagerak Energi",
@@ -137,10 +137,10 @@
  },
  "tip": "Before you buy a name on the aftermarket, look it up in the Wayback Machine. A past life as a spam site can follow a domain for years.",
  "names": [
-  "Sibil",
-  "Camux",
-  "Losir",
   "Vudex",
+  "Losir",
+  "Camux",
+  "Sibil",
   "Luces",
   "Getmark",
   "TideDrift",
