@@ -1,0 +1,57 @@
+name: Refresh site content
+
+on:
+  schedule:
+    - cron: "17 */6 * * *"   # every 6 hours; the daily brief rolls over at 00:00 UTC
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "scripts/**"
+      - "src/**"
+      - "data/sources.json"
+      - ".github/workflows/refresh.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: refresh
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install feedparser==6.0.11 markdown==3.7
+
+      - name: Fetch fresh data
+        run: python scripts/update.py
+
+      - name: Rebuild pages
+        run: |
+          if [ -f scripts/build.py ]; then python scripts/build.py; fi
+
+      - name: Commit and push
+        run: |
+          git config user.name "web-works-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "Nothing changed."
+            exit 0
+          fi
+          git commit -m "Auto-refresh: $(date -u +'%Y-%m-%d %H:%M UTC')"
+          for i in 1 2 3; do
+            git pull --rebase -X theirs origin main && git push origin HEAD:main && exit 0
+            sleep 5
+          done
+          exit 1
