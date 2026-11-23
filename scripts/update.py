@@ -213,8 +213,9 @@ def update_tlds():
             for row in re.findall(r"<tr[^>]*>(.*?)</tr>", page, flags=re.S | re.I):
                 m = re.search(r"/domains/root/db/([a-z0-9-]+)\.html", row, flags=re.I)
                 cells = [html.unescape(re.sub(r"<[^>]+>", "", c)).strip() for c in re.findall(r"<td[^>]*>(.*?)</td>", row, flags=re.S | re.I)]
-                if m and len(cells) >= 3:
-                    meta[m.group(1).lower()] = {"tld": m.group(1).lower(), "type": cells[1], "manager": cells[2]}
+                kinds = ("generic", "country-code", "sponsored", "infrastructure", "generic-restricted", "test")
+                if m and len(cells) >= 2 and cells[-2].lower() in kinds:
+                    meta[m.group(1).lower()] = {"tld": m.group(1).lower(), "type": cells[-2].lower(), "manager": cells[-1]}
                     parsed += 1
             rec_db = {"kind": "data", "name": "IANA root zone database", "url": "https://www.iana.org/domains/root/db", "ok": parsed > 0, "count": parsed}
             if not parsed:
@@ -237,7 +238,7 @@ def update_tlds():
         for t in tlds:
             m, ic, om = meta.get(t), icann.get(t), old_meta.get(t, {})
             if m:
-                typ, mgr = m["type"], m["manager"]
+                typ, mgr = m["type"], m["manager"] or (ic["manager"] if ic else "")
             elif icann:
                 typ = "infrastructure" if t == "arpa" else ("generic" if ic else "country-code")
                 mgr = ic["manager"] if ic else ""
