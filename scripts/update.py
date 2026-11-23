@@ -220,7 +220,9 @@ def update_tlds():
             rec_db = {"kind": "data", "name": "IANA root zone database", "url": "https://www.iana.org/domains/root/db", "ok": parsed > 0, "count": parsed}
             if not parsed:
                 t = re.search(r"<title>(.*?)</title>", page, flags=re.S | re.I)
+                i = page.find("root/db/")
                 rec_db["error"] = f"no table rows parsed ({len(page)} bytes, title: {t.group(1).strip()[:60] if t else 'none'})"
+                rec_db["sample"] = page[max(0, i - 400): i + 500] if i > -1 else page[:600]
             STATUS["sources"].append(rec_db)
         except Exception as e:  # noqa: BLE001
             STATUS["sources"].append({"kind": "data", "name": "IANA root zone database", "ok": False, "error": str(e)[:160]})
