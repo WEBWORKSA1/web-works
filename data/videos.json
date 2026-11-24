@@ -1,6 +1,86 @@
 {
- "updated": "2026-11-23T18:54:26+00:00",
+ "updated": "2026-11-24T03:58:35+00:00",
  "items": [
+  {
+   "id": "u1ozwejEwBo",
+   "title": "Believe it or not, this ISN’T AI",
+   "channel": "Matt Wolfe",
+   "topic": "AI tools",
+   "date": "2026-11-23T21:09:34+00:00",
+   "summary": "I've never seen a robot look THIS realistic before... #AI #futuretech"
+  },
+  {
+   "id": "Zk2g7NGWGgQ",
+   "title": "Taking WebMCP to production",
+   "channel": "Chrome for Developers",
+   "topic": "Web platform",
+   "date": "2026-11-23T20:58:45+00:00",
+   "summary": "How do you take WebMCP from a demo to a dependable product? Drawing on Auger OS, WebMCP Blackjack, and EgoLens, this talk covers shared UI handlers, dynamic tool…"
+  },
+  {
+   "id": "0WXPYUAFr-0",
+   "title": "Distributing an LLM across machines, and coding with it. Entirely in the browser",
+   "channel": "Chrome for Developers",
+   "topic": "Web platform",
+   "date": "2026-11-23T20:57:16+00:00",
+   "summary": "What if your browser could run a coding agent and open-weight LLMs too large for one machine? RallyCompute shards models across tabs on multiple machines via WebGPU, WebAssembly…"
+  },
+  {
+   "id": "G7XdThhth_Y",
+   "title": "Your money, your machine: Private finance AI with WebGPU and WebMCP",
+   "channel": "Chrome for Developers",
+   "topic": "Web platform",
+   "date": "2026-11-23T20:54:26+00:00",
+   "summary": "Wilson is an open-source AI bookkeeper that runs entirely in the browser: local models leveraging WebGPU analyze your transactions, while WebMCP exposes dashboard capabilities as tools for browser…"
+  },
+  {
+   "id": "66zWohMI_es",
+   "title": "The browser already won, we just haven’t realized it yet",
+   "channel": "Chrome for Developers",
+   "topic": "Web platform",
+   "date": "2026-11-23T20:52:44+00:00",
+   "summary": "A year ago, agents were supposed to replace the browser. Instead, the industry has been rebuilding what it already does. This talk explores why the browser is the…"
+  },
+  {
+   "id": "7CrR4iXWLwM",
+   "title": "Web AI meets physical AI: Multimodal robotics in the browser",
+   "channel": "Chrome for Developers",
+   "topic": "Web platform",
+   "date": "2026-11-23T20:50:24+00:00",
+   "summary": "Meet Nodo the Dodo, an interactive robot that sees, talks, reasons and moves - powered entirely by AI models running in the browser. Learn how we combine MediaPipe…"
+  },
+  {
+   "id": "fpQcDQJQLhg",
+   "title": "Google Antigravity in action: Building an offline wildlife field guide",
+   "channel": "Google for Developers",
+   "topic": "Web platform",
+   "date": "2026-11-23T20:00:28+00:00",
+   "summary": "Creative technologist and hardware builder Arden Schager demonstrates how he built GemmaDex - a pocket-sized, 100% offline wildlife and plant field guide running on a Raspberry Pi 5…"
+  },
+  {
+   "id": "jP9yjEDlc4k",
+   "title": "Opus just lost to the last company you'd expect...",
+   "channel": "Fireship",
+   "topic": "Web platform",
+   "date": "2026-11-23T19:14:30+00:00",
+   "summary": "Railway is the smoothest way to deploy software: https://railway.com/?referralCode=fireship Google just dropped Gemini 4 Neon, a mid tier model that somehow outscores its own three week old flagship…"
+  },
+  {
+   "id": "InGYB7G8Ctk",
+   "title": "Text Your Old Customers Before You Buy Ads",
+   "channel": "Neil Patel",
+   "topic": "Search & SEO",
+   "date": "2026-11-23T19:04:07+00:00",
+   "summary": "Your next good week is already sitting in your contacts. Winning a new customer costs about five times more than keeping one. The people who already paid you…"
+  },
+  {
+   "id": "l1PlTcVGqok",
+   "title": "Fable 5.2 Is More Capable But Not \"Better\"",
+   "channel": "Theo - t3.gg",
+   "topic": "Web platform",
+   "date": "2026-11-23T19:00:15+00:00",
+   "summary": "You need to know this about Fable 5.2 Want to sponsor a video? Learn more here: https://soydev.link/sponsor-me Check out my Twitch, Twitter, Discord more at https://t3.gg S/O @Ph4seon3…"
+  },
   {
    "id": "NNS4a9_nY44",
    "title": "TypeScript Crash Course 2027: Everything You Need To Know",
@@ -400,86 +480,6 @@
    "topic": "Build websites",
    "date": "2026-11-04T14:00:30+00:00",
    "summary": "👉 Start writing CSS with confidence: https://thecascade.dev/courses/css-demystified/?utm_source=youtube&utm_medium=social&utm_campaign=regular-video How do you know if a CSS feature is safe to use? A look at what Baseline does and doesn't tell…"
-  },
-  {
-   "id": "lR931Iz8Z6U",
-   "title": "Vector Databases Full Course for Beginners – Embeddings, Similarity Search & ChromaDB",
-   "channel": "freeCodeCamp.org",
-   "topic": "Build websites",
-   "date": "2026-11-03T12:52:54+00:00",
-   "summary": "Learn how vector databases work, from the math behind vectors to building semantic search with ChromaDB. This beginner course covers vectors, cosine similarity, Euclidean distance, tokenization, and embedding…"
-  },
-  {
-   "id": "D2R5zjVSgP0",
-   "title": "MCP Explained In 2 Minutes #mcp #ai",
-   "channel": "Traversy Media",
-   "topic": "Build websites",
-   "date": "2026-11-01T19:03:11+00:00",
-   "summary": "Learn what is MCP and how this protocol standardizes how AI models connect to your local tools and external databases. Check out my coding with AI course: https://www.traversymedia.com/coding-with-ai"
-  },
-  {
-   "id": "0ivj5WKqi1I",
-   "title": "Docker Explained In Under 2 Minutes #docker #devops",
-   "channel": "Traversy Media",
-   "topic": "Build websites",
-   "date": "2026-10-30T18:23:18+00:00",
-   "summary": "Docker containers solve the problem of projects failing to run due to environment differences. Learn how to package apps. This video explains how Docker works by contrasting the…"
-  },
-  {
-   "id": "rsOiZE19RVo",
-   "title": "Accelerate shipping to scale with Google Antigravity",
-   "channel": "Google for Developers",
-   "topic": "Web platform",
-   "date": "2026-10-29T20:00:20+00:00",
-   "summary": "Building software to move tens of millions of vehicles requires massive infrastructure. Using Google Antigravity, Move Cars delivers fully tested production features in a single day, letting a…"
-  },
-  {
-   "id": "cqfl38Ip1ho",
-   "title": "How Ethical Hackers Actually Break Into Systems",
-   "channel": "freeCodeCamp.org",
-   "topic": "Build websites",
-   "date": "2026-10-28T16:45:00+00:00",
-   "summary": "Throughout this hands-on ethical hacking crash course, you will learn the core Linux fundamentals and essential command-line tools needed to navigate and audit target systems effectively. From network…"
-  },
-  {
-   "id": "zS_K-bfpQfk",
-   "title": "Stop using min-width in your media queries",
-   "channel": "Kevin Powell",
-   "topic": "Build websites",
-   "date": "2026-10-28T13:00:23+00:00",
-   "summary": "👉 Start writing CSS with confidence: https://thecascade.dev/courses/css-demystified/?utm_source=youtube&utm_medium=social&utm_campaign=regular-video A look at the media query range syntax, comparing it to the min-width and max-width, and looking at how, in my…"
-  },
-  {
-   "id": "q8ddbo1CdGM",
-   "title": "Conditional border-radius trick",
-   "channel": "Kevin Powell",
-   "topic": "Build websites",
-   "date": "2026-10-22T13:00:39+00:00",
-   "summary": "#css #moderncss #webdevelopment"
-  },
-  {
-   "id": "FbXPaIcpvww",
-   "title": "How To Design The Perfect Auth System In The Age of AI",
-   "channel": "Web Dev Simplified",
-   "topic": "Build websites",
-   "date": "2026-10-20T22:00:20+00:00",
-   "summary": "Permissions are at the core of nearly every project, but most people don’t spend more than a few minutes thinking about them which results in difficult to use…"
-  },
-  {
-   "id": "J37YeB63LVI",
-   "title": "I Will Never Use Prettier or ESLint Again",
-   "channel": "Web Dev Simplified",
-   "topic": "Build websites",
-   "date": "2026-10-14T22:32:33+00:00",
-   "summary": "Vite+ is a new tool from Vite that attempts to solve all the configuration issues most web developers face. It includes tons of features from linting and formatting…"
-  },
-  {
-   "id": "jojMVmRZABw",
-   "title": "Why Your AI Generates Crap Code - And How to Fix It",
-   "channel": "Web Dev Simplified",
-   "topic": "Build websites",
-   "date": "2026-09-15T20:00:10+00:00",
-   "summary": "There are tons of different ways to configure your AI agents, but most people get it wrong. They don’t know how to use AGENTS.md, when SKILLS.md should be…"
   }
  ]
 }

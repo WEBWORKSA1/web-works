@@ -1,6 +1,78 @@
 {
- "updated": "2026-11-23T18:54:26+00:00",
+ "updated": "2026-11-24T03:58:35+00:00",
  "items": [
+  {
+   "title": "Mcpseal: Grade an MCP server for safety before you install it",
+   "link": "https://www.npmjs.com/package/@hashshabbir/mcp-pack",
+   "source": "Hacker News",
+   "date": "2026-11-24T03:19:38+00:00",
+   "summary": "3 points, 0 comments on Hacker News.",
+   "cat": "business"
+  },
+  {
+   "title": "Show HN: Juncts, one DM inbox for five apps that Claude and ChatGPT can work in",
+   "link": "https://juncts.com/app?demo=1&utm_source=hackernews&utm_medium=launch&utm_campaign=launch-nov26",
+   "source": "Hacker News",
+   "date": "2026-11-24T03:16:58+00:00",
+   "summary": "3 points, 0 comments on Hacker News.",
+   "cat": "business"
+  },
+  {
+   "title": "Show HN: FireVoice, free open-source voice studio on your own GPU",
+   "link": "https://firevoice.fabwaseem.com",
+   "source": "Hacker News",
+   "date": "2026-11-24T02:58:20+00:00",
+   "summary": "4 points, 1 comments on Hacker News.",
+   "cat": "business"
+  },
+  {
+   "title": "Hacking radiators for fun and no profit",
+   "link": "https://qsantos.fr/2026/11/20/hacking-radiators-for-fun-and-no-profit/",
+   "source": "Hacker News",
+   "date": "2026-11-24T02:56:41+00:00",
+   "summary": "3 points, 0 comments on Hacker News.",
+   "cat": "business"
+  },
+  {
+   "title": "Making a dumb TV just smart enough",
+   "link": "https://qsantos.fr/2026/11/19/making-a-dumb-tv-just-smart-enough/",
+   "source": "Hacker News",
+   "date": "2026-11-24T02:46:54+00:00",
+   "summary": "5 points, 0 comments on Hacker News.",
+   "cat": "business"
+  },
+  {
+   "title": "New York Bans Subscription and Post-Purchase Fees on Cars",
+   "link": "https://www.governor.ny.gov/news/money-your-pockets-governor-hochul-signs-bill-restricting-exploitative-vehicle-subscription",
+   "source": "Hacker News",
+   "date": "2026-11-24T02:27:02+00:00",
+   "summary": "44 points, 11 comments on Hacker News.",
+   "cat": "business"
+  },
+  {
+   "title": "Alcohol use reduces efficacy of immunotherapy by disrupting antitumor immunity",
+   "link": "https://www.science.org/doi/10.1126/scisignal.aef1375",
+   "source": "Hacker News",
+   "date": "2026-11-24T00:53:46+00:00",
+   "summary": "63 points, 39 comments on Hacker News.",
+   "cat": "business"
+  },
+  {
+   "title": "New Public-Interest Digital Safety Checklist Helps Users Verify Entrance Links and Avoid Domain Impersonation Scams",
+   "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPSE43N0dqNnJSRmtEcHk3Nlp1aVFlOEVONDZ0M1JGNEFyVmdyRzdMYnpIN3hXa0dSSUpOeHVIRGl2U2ljTWFBVFpRYV9tODluMHJUTVJSSWlmR3k0alQyREkyWEFYV3R1RnRxbV9QZUMxUDRGSjVYY2dVLXZfUHdlanJ5UEg3Yk9RWDJlVFRPLWxtaXMxQ01pNWJsLWxUZV8yRlUydUxMWkpteFBKTlZ3dnF4aUhPQ1lPVG9DTGVBQ1JUemdrM3ZNMHFhY3JKbjQzMkN3aVF1NUJnQVRmaXhwVUh6cXJIY2dGMkpVTWVLdE5TcC0xaldDcnkyd2RQS09GSVpaY3pB?oc=5",
+   "source": "StreetInsider",
+   "date": "2026-11-24T00:07:34+00:00",
+   "summary": "",
+   "cat": "security"
+  },
+  {
+   "title": "The Power of GraphQL, Without GraphQL",
+   "link": "https://cobalt27.dev/",
+   "source": "Hacker News",
+   "date": "2026-11-24T00:03:59+00:00",
+   "summary": "20 points, 15 comments on Hacker News.",
+   "cat": "business"
+  },
   {
    "title": "Hackers breach Austrian Foreign Ministry website, access diplomats' contact details",
    "link": "https://therecord.media/austrian-foreign-ministry-says-website-hacked",
@@ -8,6 +80,150 @@
    "date": "2026-11-24T00:00:00+00:00",
    "summary": "Austria's Foreign Ministry said late last week that hackers breached one of its websites and accessed the names and official contact information of employees at its Vienna headquarters and at Austria’s diplomatic…",
    "cat": "security"
+  },
+  {
+   "title": "The search for a top dark matter candidate",
+   "link": "https://www.smithsonianmag.com/science-nature/the-search-for-a-top-dark-matter-candidate-was-losing-hope-then-came-a-potential-signal-will-it-be-enough-to-energize-the-struggling-field-180989923/",
+   "source": "Hacker News",
+   "date": "2026-11-23T23:12:40+00:00",
+   "summary": "25 points, 6 comments on Hacker News.",
+   "cat": "business"
+  },
+  {
+   "title": "Figma employee sues, alleging company forced her to confront harassers",
+   "link": "https://techcrunch.com/2026/11/23/figma-employee-sues-alleging-company-forced-her-to-confront-harassers/",
+   "source": "TechCrunch Startups",
+   "date": "2026-11-23T23:07:49+00:00",
+   "summary": "Figma and its CEO are being sued by a current employee for alleged sexual harassment and discrimination.",
+   "cat": "business"
+  },
+  {
+   "title": "Freeing the iPod Nano 5G",
+   "link": "https://viktorkrapivin.com/blog/nano5g-priv-prvd",
+   "source": "Hacker News",
+   "date": "2026-11-23T23:03:13+00:00",
+   "summary": "60 points, 8 comments on Hacker News.",
+   "cat": "business"
+  },
+  {
+   "title": "2,500 random .motorcycles domains registered in a single day!",
+   "link": "https://domaingang.com/domain-news/2500-random-motorcycles-domains-registered-in-a-single-day/",
+   "source": "DomainGang",
+   "date": "2026-11-23T23:01:34+00:00",
+   "summary": "An unusual wave of domain registrations has raised questions about activity in the .motorcycles extension, after approximately 2,500 domains were reportedly registered on November 19, 2026. According to domain industry observer Inderpreet…",
+   "cat": "domains"
+  },
+  {
+   "title": "Reddit’s AEO Tool Recommendations Have A Promoter Problem",
+   "link": "https://www.searchenginejournal.com/check-whos-posting-before-you-trust-reddit-on-aeo-tools/598641/",
+   "source": "Search Engine Journal",
+   "date": "2026-11-23T22:52:42+00:00",
+   "summary": "An analysis of subreddits flagged most users weighing in on AEO tools as likely promoters. Among the rest, accuracy was the top feature complaint.",
+   "cat": "web"
+  },
+  {
+   "title": "Stalwart is now a drop-in replacement for Microsoft Exchange",
+   "link": "https://stalw.art/blog/microsoft-exchange-replacement/",
+   "source": "Hacker News",
+   "date": "2026-11-23T22:32:29+00:00",
+   "summary": "277 points, 138 comments on Hacker News.",
+   "cat": "business"
+  },
+  {
+   "title": "Ekho adds AI-optimized dealer website builder to product lineup",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOd2x4WVlpMXZkdHVQb2swTmpjNG5IMUZydFNJQmJJUjhvWkdYS1BqWHRyT3hsMWJiMzFMTTA5SUd1ZzAxQXUwN3VGM0RQVUtMcEJqMjRNT0VrR3JSUnFRUVRKcU5hUWFpc21ic2U1MGl0VVJiM1gza3E3UWh4V2NPblhKSVhIQ2szWUY3bURfbTBTbHhyZUE5bF9IWGZyTTMwRHFxekxYWFBRUVJkNnF3SklEZEpqNzJ2eVp5LVp3?oc=5",
+   "source": "Auto Finance News",
+   "date": "2026-11-23T22:31:04+00:00",
+   "summary": "",
+   "cat": "business"
+  },
+  {
+   "title": "Latent Introspection: LLMs Can Detect Prior Concept Injections",
+   "link": "https://arxiv.org/abs/2602.20031",
+   "source": "Hacker News",
+   "date": "2026-11-23T22:29:48+00:00",
+   "summary": "40 points, 2 comments on Hacker News.",
+   "cat": "business"
+  },
+  {
+   "title": "VP ≠ VNP over Every Field",
+   "link": "https://github.com/anthropics/formal-math/tree/main/vp-vnp",
+   "source": "Hacker News",
+   "date": "2026-11-23T22:09:10+00:00",
+   "summary": "287 points, 247 comments on Hacker News.",
+   "cat": "business"
+  },
+  {
+   "title": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
+   "link": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/",
+   "source": "TechCrunch Startups",
+   "date": "2026-11-23T22:02:05+00:00",
+   "summary": "Think you know where the market is headed? A startup called Supertake lets you put money behind your ideas without having to pick the stocks yourself.",
+   "cat": "business"
+  },
+  {
+   "title": "DropCatch auctions: Select domain results—November 23, 2026 | BabyMe.com – $4,901",
+   "link": "https://domaingang.com/domain-news/dropcatch-auctions-select-domain-results-november-23-2026-babyme-com-4901/",
+   "source": "DomainGang",
+   "date": "2026-11-23T21:21:22+00:00",
+   "summary": "DropCatch is a major domain backordering service that specializes in acquiring expiring domain names as soon as they return to availability. The platform uses an extensive network of ICANN-accredited registrars to improve…",
+   "cat": "domains"
+  },
+  {
+   "title": "Bored.com: Fun, interesting and cool websites to explore when bored",
+   "link": "https://www.bored.com/",
+   "source": "Hacker News",
+   "date": "2026-11-23T21:01:16+00:00",
+   "summary": "149 points, 33 comments on Hacker News.",
+   "cat": "business"
+  },
+  {
+   "title": "South Korea’s power giant KEPCO confirms data breach impacting 1.5 million",
+   "link": "https://www.bleepingcomputer.com/news/security/south-koreas-power-giant-kepco-confirms-data-breach-impacting-15-million/",
+   "source": "BleepingComputer",
+   "date": "2026-11-23T20:54:51+00:00",
+   "summary": "A threat actor breached the internal network of Korea Electric Power Corporation (KEPCO) and accessed two systems containing customer, employee, and contractor data. [...]",
+   "cat": "security"
+  },
+  {
+   "title": "GPUI is getting its own repository",
+   "link": "https://github.com/zed-industries/gpui",
+   "source": "Hacker News",
+   "date": "2026-11-23T20:52:54+00:00",
+   "summary": "172 points, 60 comments on Hacker News.",
+   "cat": "business"
+  },
+  {
+   "title": "I Blind-Tested 3 Gemini Models On Real SEO Questions – Neon Won 5 Of 6",
+   "link": "https://www.searchenginejournal.com/blind-test-of-gemini-4-neon-vs-hydrogen-vs-3-8-flash-on-real-seo-questions-here-is-what-won-and-what-it-costs/598384/",
+   "source": "Search Engine Journal",
+   "date": "2026-11-23T20:00:33+00:00",
+   "summary": "Here's how Marie Haynes blind-tested Gemini 4 Neon, Hydrogen, and 3.8 Flash on six SEO questions, plus what each model really costs per prompt.",
+   "cat": "web"
+  },
+  {
+   "title": "OpenRouter drops AI providers over leaked prompts and secrets",
+   "link": "https://www.bleepingcomputer.com/news/security/openrouter-drops-ai-providers-over-leaked-prompts-and-secrets/",
+   "source": "BleepingComputer",
+   "date": "2026-11-23T20:00:20+00:00",
+   "summary": "OpenRouter removed three AI providers from its platform after discovering that they had violated their stated data-handling policies and exposed sensitive data. [...]",
+   "cat": "security"
+  },
+  {
+   "title": "Microsoft Azure flaw exploited to steal customers' API credentials",
+   "link": "https://www.bleepingcomputer.com/news/security/microsoft-azure-flaw-exploited-to-steal-customers-api-credentials/",
+   "source": "BleepingComputer",
+   "date": "2026-11-23T19:42:20+00:00",
+   "summary": "Microsoft is warning customers that a security vulnerability in Azure API Management (APIM) Classic tiers was exploited to steal stored API credentials, with Norwegian authorities linking the flaw to cyberattacks against energy…",
+   "cat": "security"
+  },
+  {
+   "title": "Per Arm's request, this site will be discontinued on 4 December 2026 :(",
+   "link": "https://arm.jonpalmisc.com/",
+   "source": "Hacker News",
+   "date": "2026-11-23T19:17:55+00:00",
+   "summary": "914 points, 212 comments on Hacker News.",
+   "cat": "business"
   },
   {
    "title": "Apptopia.ai UDRP: App analytics company challenges competing AI website",
@@ -40,6 +256,14 @@
    "date": "2026-11-23T18:30:00+00:00",
    "summary": "The FBI is reportedly investigating a data breach involving the National Crime Information Center, a database used by U.S. law enforcement agencies that contains information on criminals, fugitives and missing people.",
    "cat": "security"
+  },
+  {
+   "title": "AI website builder vs. done-for-you website design: what's better for small businesses in 2026?",
+   "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQZEU0N0s5alhSVktWRXA3MG1GU1hrZnZCRkNDSmVLa0dRQWt5OUJMbUd6Qko5N2hrZ29pdFctOTUxaXVyM29tUFlPUDkxZUZqaHItbWpMaTlSc2xXLU5CdzhGMng1MTNLekQ2Q0NGVmtoYjEtLVUyYUpOdzdNMmlTazBDTV9qWXVZMVlOWDRUcjFHdE5kSUp3NEFUUUJTYjhLSTg3dHNlU043YVBVOTlhaTFNYUxvYmJxSDgycjFwZHc4UXlubi1OcFdZd25JN2c1X0dMN3ZZVHdqN2J4T0l1MEY1ZVdMV3Z4WU0yOThVTG54a1ZCQ0N3UTZuOEVwUQ?oc=5",
+   "source": "FinancialContent",
+   "date": "2026-11-23T18:18:00+00:00",
+   "summary": "",
+   "cat": "business"
   },
   {
    "title": "Google Says Back Button Hijacking Policy Covers Social Visits",
@@ -86,7 +310,7 @@
    "link": "https://blog.kagi.com/kagi-mail-public-beta",
    "source": "Hacker News",
    "date": "2026-11-23T17:17:01+00:00",
-   "summary": "114 points, 72 comments on Hacker News.",
+   "summary": "375 points, 282 comments on Hacker News.",
    "cat": "business"
   },
   {
@@ -96,6 +320,14 @@
    "date": "2026-11-23T17:14:00+00:00",
    "summary": "“We see a path to become the largest AI safety and security company the world has ever seen,” CrowdStrike CEO George Kurtz said.",
    "cat": "security"
+  },
+  {
+   "title": "\"Dario is hyping the dangers so OSS models are illegal and he stays in control\"",
+   "link": "https://twitter.com/ylecun/status/2124550037912920090",
+   "source": "Hacker News",
+   "date": "2026-11-23T17:07:26+00:00",
+   "summary": "1320 points, 732 comments on Hacker News.",
+   "cat": "business"
   },
   {
    "title": "EasyPost (YC S13) Is Hiring",
@@ -133,7 +365,7 @@
    "title": "Peptides company tries reverse domain name hijacking",
    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSXd3VURrZEs0T1FSX3N2R1JObmRSWmxHbjdLZkZsQUoySy1ONm11a0NfS3RSWjdBQkpoTmtwamJCUGFNWHBYdTFfWmpjak9Vb1huQklMUVVESWhvOW4wZ3BxdF9XbWJYSnlVNk1MaE51REtqeEJPcm83WEszUzk3b1pWSGZsamttd1EtSlhkcVJQNGtJeGc?oc=5",
    "source": "Domain Name Wire",
-   "date": "2026-11-23T16:15:08+00:00",
+   "date": "2026-11-23T16:25:35+00:00",
    "summary": "",
    "cat": "domains"
   },
@@ -142,7 +374,7 @@
    "link": "https://ladybird.org/posts/alpha/",
    "source": "Hacker News",
    "date": "2026-11-23T16:13:12+00:00",
-   "summary": "668 points, 178 comments on Hacker News.",
+   "summary": "1557 points, 370 comments on Hacker News.",
    "cat": "business"
   },
   {
@@ -238,7 +470,7 @@
    "link": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html",
    "source": "Hacker News",
    "date": "2026-11-23T14:00:18+00:00",
-   "summary": "1112 points, 2197 comments on Hacker News.",
+   "summary": "2258 points, 3286 comments on Hacker News.",
    "cat": "business"
   },
   {
@@ -254,7 +486,7 @@
    "link": "https://huggingface.co/nari-labs/Qwen3.8-27B-NariQ-GGUF",
    "source": "Hacker News",
    "date": "2026-11-23T13:42:38+00:00",
-   "summary": "6 points, 0 comments on Hacker News.",
+   "summary": "138 points, 29 comments on Hacker News.",
    "cat": "business"
   },
   {
@@ -310,7 +542,7 @@
    "link": "https://github.com/os6/nospeaker",
    "source": "Hacker News",
    "date": "2026-11-23T11:31:54+00:00",
-   "summary": "188 points, 95 comments on Hacker News.",
+   "summary": "292 points, 167 comments on Hacker News.",
    "cat": "business"
   },
   {
@@ -318,7 +550,7 @@
    "link": "https://z.ai/blog/glm-5.4",
    "source": "Hacker News",
    "date": "2026-11-23T10:06:43+00:00",
-   "summary": "855 points, 302 comments on Hacker News.",
+   "summary": "1081 points, 351 comments on Hacker News.",
    "cat": "business"
   },
   {
@@ -434,70 +666,6 @@
    "cat": "business"
   },
   {
-   "title": "Free alternative TV network built from the Internet Archive's forgotten videos",
-   "link": "https://spelunkr.tv",
-   "source": "Hacker News",
-   "date": "2026-11-23T01:13:51+00:00",
-   "summary": "831 points, 150 comments on Hacker News.",
-   "cat": "business"
-  },
-  {
-   "title": "Nespresso's project to reduce grams of coffee per capsule",
-   "link": "https://alvinbunk.wordpress.com/2026/11/01/nespresso-project-olympus/",
-   "source": "Hacker News",
-   "date": "2026-11-22T23:57:45+00:00",
-   "summary": "170 points, 222 comments on Hacker News.",
-   "cat": "business"
-  },
-  {
-   "title": "GL.iNet Security Notice 2026-11-20",
-   "link": "https://www.gl-inet.com/en-us/blogs/blog/glinet-security-notice-2026-11-20",
-   "source": "Hacker News",
-   "date": "2026-11-22T23:06:37+00:00",
-   "summary": "252 points, 120 comments on Hacker News.",
-   "cat": "business"
-  },
-  {
-   "title": "The struggle for freedom: How BSD escaped AT&T licensing",
-   "link": "https://fosscomics.com/posts/16.%20BSD%20Unix%20Part%206%20-%20The%20Struggle%20for%20Freedom/",
-   "source": "Hacker News",
-   "date": "2026-11-22T21:33:12+00:00",
-   "summary": "151 points, 63 comments on Hacker News.",
-   "cat": "business"
-  },
-  {
-   "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
-   "link": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
-   "source": "Hacker News",
-   "date": "2026-11-22T21:01:16+00:00",
-   "summary": "699 points, 280 comments on Hacker News.",
-   "cat": "business"
-  },
-  {
-   "title": "A miniature San Francisco with live buses, planes and boats",
-   "link": "https://smallsf.com/",
-   "source": "Hacker News",
-   "date": "2026-11-22T20:33:23+00:00",
-   "summary": "344 points, 107 comments on Hacker News.",
-   "cat": "business"
-  },
-  {
-   "title": "Assume People Are Not Interested in Your Blog Post",
-   "link": "https://danielsada.tech/blog/assume-people-are-not-interested-in-your-blog-post/",
-   "source": "Hacker News",
-   "date": "2026-11-22T19:41:30+00:00",
-   "summary": "288 points, 139 comments on Hacker News.",
-   "cat": "business"
-  },
-  {
-   "title": "The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife",
-   "link": "https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife",
-   "source": "Hacker News",
-   "date": "2026-11-22T19:10:34+00:00",
-   "summary": "623 points, 354 comments on Hacker News.",
-   "cat": "business"
-  },
-  {
    "title": "Hackers exploit GL.iNet cloud flaw to infect routers, KVM devices",
    "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-glinet-cloud-flaw-to-infect-routers-kvm-devices/",
    "source": "BleepingComputer",
@@ -506,20 +674,12 @@
    "cat": "security"
   },
   {
-   "title": "Was software just always too complex for humans?",
-   "link": "https://anil.recoil.org/notes/software-too-complex-for-humans",
-   "source": "Hacker News",
-   "date": "2026-11-22T17:32:41+00:00",
-   "summary": "80 points, 96 comments on Hacker News.",
-   "cat": "business"
-  },
-  {
-   "title": "Perplexity and Intelligence",
-   "link": "https://openai.com/index/perplexity-and-intelligence/",
-   "source": "Hacker News",
-   "date": "2026-11-22T17:06:27+00:00",
-   "summary": "674 points, 434 comments on Hacker News.",
-   "cat": "business"
+   "title": "Election results: Backers of California’s Prop. 4 concede defeat, vow to try again",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNeDF2QVNtSDZMcU5OQS1feUthMlNVa2daVkQtT19qLTdPLTdTWVk4RFBJdXg1d0NfTFlrd1FsQUxRaWJDVDhWQXc2RGFaS0M0NmR3T3djb05qV2dHSk5BTWFPRkpvNE1FbkdTeUpPQjlHRmhieUhLbXZFVThxODJsN0tmSE1RMUJiLWU4MmRkcV9sR1BVaHQtVjFUVGFYdGdqYjB3V1FhN0lYZ01XN2NBS3BPM284cEVSRDdYdnJSQ2p6UQ?oc=5",
+   "source": "Santa Cruz Sentinel",
+   "date": "2026-11-22T17:35:00+00:00",
+   "summary": "",
+   "cat": "domains"
   },
   {
    "title": "Cleverbridge warns hackers stole credit card numbers, CVVs in data breach",
@@ -544,14 +704,6 @@
    "date": "2026-11-22T15:01:19+00:00",
    "summary": "Domain investor Yinan Wang has announced the successful completion of the $100,000 dollar sale of ChatChat.com, sold through Afternic’s lease to own (LTO) program. According to Wang’s announcement on X, the agreement…",
    "cat": "domains"
-  },
-  {
-   "title": "Masullo on the Riemann Hypothesis",
-   "link": "https://johncarlosbaez.wordpress.com/2026/11/22/masullo-on-the-riemann-hypothesis/",
-   "source": "Hacker News",
-   "date": "2026-11-22T10:59:56+00:00",
-   "summary": "296 points, 278 comments on Hacker News.",
-   "cat": "business"
   },
   {
    "title": "Rackspace Spot breach let hackers access customer Kubernetes secrets",
@@ -610,30 +762,6 @@
    "cat": "web"
   },
   {
-   "title": "MRAM Basics: How Magnetic Memory Is Replacing Embedded Flash",
-   "link": "https://www.allaboutcircuits.com/technical-articles/mram-basics-how-magnetic-memory-is-replacing-embedded-flash/",
-   "source": "Hacker News",
-   "date": "2026-11-21T10:14:11+00:00",
-   "summary": "77 points, 29 comments on Hacker News.",
-   "cat": "business"
-  },
-  {
-   "title": "Spacecraft reaches Mercury on second-ever mission to enter its orbit",
-   "link": "https://www.theguardian.com/science/2026/nov/20/spacecraft-mercury-second-ever-mission-orbit-bepicolombo",
-   "source": "Hacker News",
-   "date": "2026-11-21T09:14:02+00:00",
-   "summary": "166 points, 56 comments on Hacker News.",
-   "cat": "business"
-  },
-  {
-   "title": "What's the difference between an integer and a pointer? (2018)",
-   "link": "https://blog.regehr.org/archives/1621",
-   "source": "Hacker News",
-   "date": "2026-11-21T08:49:14+00:00",
-   "summary": "80 points, 54 comments on Hacker News.",
-   "cat": "business"
-  },
-  {
    "title": "HiEd - Powering Learning Success from the Registrar's Office",
    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdVFnTVZ1d3E2ZnI0TU1oWU14ZFV3RlFZUjk5THpBbGtYdXBjQi1wOVBTckd3V2g5WG53TkdMVXE0YXhZaGZZRDdzbzNsQTVVRDQ1eXJWSGhRekpTQ2xXdDJwQlk0SExhMjZSMmZiLWRialprX2h3U2prSTJhQ0NUVUxRZ01SRTBidTJVcmUybnQ5Q3o1TFM2Ug?oc=5",
    "source": "Instructure",
@@ -650,36 +778,12 @@
    "cat": "domains"
   },
   {
-   "title": "Elixir HLS makes FPGA circuits from functions written in Elixir",
-   "link": "https://github.com/elixir-hls/elixir-hls",
-   "source": "Hacker News",
-   "date": "2026-11-21T00:47:57+00:00",
-   "summary": "131 points, 12 comments on Hacker News.",
-   "cat": "business"
-  },
-  {
    "title": "CTO of ‘RansomwareHelp’ Indicted for Wire Fraud",
    "link": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/",
    "source": "Krebs on Security",
    "date": "2026-11-21T00:36:39+00:00",
    "summary": "The chief technology officer and co-founder of ransomwarehelp.com, a six year old Florida business that claimed to use \"advanced cryptographic tools\" to restore data locked by ransomware, has been charged with wire…",
    "cat": "security"
-  },
-  {
-   "title": "Anatomia Di Tor – The Tor Protocol, Byte by Byte",
-   "link": "https://github.com/aleff-github/onion-routing-anatomy",
-   "source": "Hacker News",
-   "date": "2026-11-21T00:20:37+00:00",
-   "summary": "8 points, 0 comments on Hacker News.",
-   "cat": "business"
-  },
-  {
-   "title": "Reviving the Donkey Car with Erlang",
-   "link": "https://underjord.io/reviving-the-donkey-car-with-erlang.html",
-   "source": "Hacker News",
-   "date": "2026-11-20T22:56:20+00:00",
-   "summary": "34 points, 1 comments on Hacker News.",
-   "cat": "business"
   },
   {
    "title": "West Virginia Legislature hit with cyber incident affecting IT systems",
@@ -696,22 +800,6 @@
    "date": "2026-11-20T21:31:17+00:00",
    "summary": "DropCatch is a major domain backordering service that specializes in acquiring expiring domain names as soon as they return to availability. The platform uses an extensive network of ICANN-accredited registrars to improve…",
    "cat": "domains"
-  },
-  {
-   "title": "Experts warn: Nearly everyone in AI is susceptible to a honey-trap scheme right now",
-   "link": "https://techcrunch.com/2026/11/20/experts-warn-nearly-everyone-in-ai-is-susceptible-to-a-honey-trap-scheme-right-now/",
-   "source": "TechCrunch Startups",
-   "date": "2026-11-20T20:58:29+00:00",
-   "summary": "Techies are building technology that can advance all aspects of the world — but can they protect their hearts? That's the vulnerability that honey pots exploit.",
-   "cat": "business"
-  },
-  {
-   "title": "Brake Check: Hijacking Trailer Brakes over Bluetooth",
-   "link": "https://elementdigital.com.au/blog/brake-check-trailer-brakes-over-bluetooth/",
-   "source": "Hacker News",
-   "date": "2026-11-20T20:57:16+00:00",
-   "summary": "78 points, 57 comments on Hacker News.",
-   "cat": "business"
   },
   {
    "title": "US companies’ use of Chinese open weight AI draws rebuke from House chairmen",
@@ -754,14 +842,6 @@
    "cat": "web"
   },
   {
-   "title": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
-   "link": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
-   "source": "TechCrunch Startups",
-   "date": "2026-11-20T19:53:41+00:00",
-   "summary": "Spotify founder Daniel Ek is backing Europa Fusion, a fusion power startup founded by an AI researcher. Here's what the startup is building.",
-   "cat": "business"
-  },
-  {
    "title": "Bell Canada says 'agentic' hacker stole enterprise customer data",
    "link": "https://www.bleepingcomputer.com/news/security/bell-canada-says-agentic-hacker-stole-enterprise-customer-data/",
    "source": "BleepingComputer",
@@ -784,14 +864,6 @@
    "date": "2026-11-20T17:30:00+00:00",
    "summary": "Threat actors used the open-source AI penetration-testing framework Cairn to find a previously unknown vulnerability in a medical imaging application. [...]",
    "cat": "security"
-  },
-  {
-   "title": "Let's Meet in the Middle",
-   "link": "https://george.mand.is/2026/11/lets-meet-in-the-middle/",
-   "source": "Hacker News",
-   "date": "2026-11-20T16:41:54+00:00",
-   "summary": "39 points, 3 comments on Hacker News.",
-   "cat": "business"
   },
   {
    "title": "Google’s ‘Top 10’ Line For CMOs Points At Generic Tips Posts",
@@ -866,12 +938,28 @@
    "cat": "web"
   },
   {
+   "title": "New .seo Top-Level Domain (TLD) May Be Coming Soon",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1CWndLYXRqODZ5eURGTzV6TnlFbVpaTDNOV2NYWUJlRjhkS2ppM0NiUnRrQlo1dXNIQmxIQ19nTU8xdU5KQldiMVhlejFicjNQOWhzZ09MNGpXb0k?oc=5",
+   "source": "Search Engine Roundtable",
+   "date": "2026-11-20T12:11:00+00:00",
+   "summary": "",
+   "cat": "domains"
+  },
+  {
    "title": "nginx2root: Five new nginx vulnerabilities, and how Cloudflare protects origins from the worst of them",
    "link": "https://blog.cloudflare.com/nginx2root/",
    "source": "Cloudflare Blog",
    "date": "2026-11-20T01:58:29+00:00",
    "summary": "Five memory corruption bugs in nginx, called nginx2root, can let an unauthenticated attacker run code on a server. Here’s how they work, and why origins behind Cloudflare's proxy are shielded from the…",
    "cat": "web"
+  },
+  {
+   "title": "LA, OC counted ballots faster this year. Will it last?",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQ3FyTzM0Z3JoQXU5VU9LcGtiaHZZc2dpTmlwTVpTbUJRSi16SnVNS2NLZ3J5VGt6dGVubGZ5WmZiYjNTcFlaZFkzQzQ4dzJDcWNBQVpMVV9DbUs4aUljZEF4QUJ6UHRKdW9NemNxQ3k0YjdIUnBUMk1SRk9MbmkyN1p1ZUVDcDdSdjBzTmdERjBHNUN6T1ppblpNM3Q1aTFFeTA0?oc=5",
+   "source": "LAist",
+   "date": "2026-11-20T01:09:00+00:00",
+   "summary": "",
+   "cat": "domains"
   },
   {
    "title": "DropCatch auctions: Select domain results—November 19, 2026 | APKCombo.com – $48,000",
@@ -1138,46 +1226,6 @@
    "cat": "web"
   },
   {
-   "title": "Nine new TLD applications withdrawn, 152 switch to backups",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPLW0xemZfMnJ2c3psQ2hmT3JsTDRzZzhBakFSUU1yZGl2N0lsMDhDem5NUmtIclJ4ZEtYLV8zRk9FaDI5M0Z6dENBZ2l6SlJ1NjVacEFKQlBpUEhFSURPX1YtUHlQSk5sLV9DM29rbGU5cEN6TEdFQ3R0S2cwTGY4cGl1X0pRUHpXcS1FeGtpcmtYTzA4bEVsZ2hOYTI?oc=5",
-   "source": "Domain Name Wire",
-   "date": "2026-11-17T19:19:41+00:00",
-   "summary": "",
-   "cat": "domains"
-  },
-  {
-   "title": "Sedo weekly domain name sales led by 5658.com",
-   "link": "https://www.thedomains.com/2026/11/17/sedo-weekly-domain-name-sales-led-by-5658-com/",
-   "source": "TheDomains",
-   "date": "2026-11-17T16:02:38+00:00",
-   "summary": "Sedo released their weekly domain name sales and 5658.com led the way at $48,000. Bitcoin.biz was second at $33,000. 14 .com sales 19 cctld sales 1 other tld sale Domain name Price...",
-   "cat": "domains"
-  },
-  {
-   "title": "NameJet/SnapNames October 2026 Aftermarket report led by Commissary.com",
-   "link": "https://www.thedomains.com/2026/11/17/namejet-snapnames-october-2026-aftermarket-report-led-by-commissary-com/",
-   "source": "TheDomains",
-   "date": "2026-11-17T15:19:43+00:00",
-   "summary": "NameJet/SnapNames released their October 2026 domain name sales.NameJet/SnapNames October 2026 Aftermarket report led by Commissary.com Domain Name Brand Product Sales Amt halcyon.org Namejet Expiry $12,705 iep.org Namejet Expiry $6,123 ...",
-   "cat": "domains"
-  },
-  {
-   "title": "Eighteen domain names companies recently acquired",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPb21SU3ZhM0FoYkhUT0ZSN1dwc0MyRURvb2RlWVlrSFNQWlJISG5TM1YwYU0tY0Mtc1gxVTEtbDk4ellta2MtVnZlS2RfR2dhQWpVbGdiLUNFUnFkNXpRb0gxckFaRlQ0WVUyb0xqVFF4ZThzakVMSVAydXlSVzV1VGYtY015UE9vMkNFTG8zY2xQdw?oc=5",
-   "source": "Domain Name Wire",
-   "date": "2026-11-17T14:27:06+00:00",
-   "summary": "",
-   "cat": "domains"
-  },
-  {
-   "title": "When Your Host Is Also Your Registrar, a Fresh Backup Won't Save You Fast",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMTRXZE9oUk1VU25BdFZkazA5aWxOaE1UTHNoQzhXSE1yWWVBYkg0Zk5LZGgxS0VnR3dJandISFN2dVY0VUJjR0Q0eUxndlRiQm1FTXNYZWJILUdfQmllMVhPdEt2Y1gxdDdXWkVncFVfZ2Rha2tIN3NtVmZQS2pzdVh5N1JnWUFYeWc0UjMyMEpDUktQMkdpWmtR?oc=5",
-   "source": "HackerNoon",
-   "date": "2026-11-17T12:24:31+00:00",
-   "summary": "",
-   "cat": "domains"
-  },
-  {
    "title": "Meet AI 2027 Conference (Dec 1)",
    "link": "https://smashingmagazine.com/2026/11/online-smashingconf-ai-2027/",
    "source": "Smashing Magazine",
@@ -1314,35 +1362,11 @@
    "cat": "web"
   },
   {
-   "title": "Making Immersive LLM Chat Experiences More Accessible",
-   "link": "https://smashingmagazine.com/2026/11/making-immersive-llm-chat-experiences-more-accessible/",
-   "source": "Smashing Magazine",
-   "date": "2026-11-05T13:00:00+00:00",
-   "summary": "As LLM chat patterns become more widespread, making them accessible is essential to ensuring everyone can access the information, tools, and opportunities they offer. Drawing on his work improving these interfaces, Eric…",
-   "cat": "web"
-  },
-  {
    "title": "Want to Rent an Internet Address at the White House?",
    "link": "https://krebsonsecurity.com/2026/11/want-to-rent-an-internet-address-at-the-white-house/",
    "source": "Krebs on Security",
    "date": "2026-11-05T04:36:17+00:00",
    "summary": "Several staffers at the White House are using computers or mobile devices equipped with residential proxy services that render their internet address available for others to rent, security experts warned today. One…",
-   "cat": "security"
-  },
-  {
-   "title": "See the agents, set the terms: New visibility and control for personal agents",
-   "link": "https://blog.cloudflare.com/personal-agents-visibility-control/",
-   "source": "Cloudflare Blog",
-   "date": "2026-11-04T14:00:00+00:00",
-   "summary": "Personal AI agents have changed how users interact with the web, blurring the lines between automated and human traffic. Learn how Cloudflare gives site owners visibility and control to manage personal agent…",
-   "cat": "web"
-  },
-  {
-   "title": "Tech Firms Dismantle Botnet That Turned 1.3M TV Boxes Into Proxies",
-   "link": "https://krebsonsecurity.com/2026/11/tech-firms-dismantle-botnet-that-turned-1-3m-tv-boxes-into-proxies/",
-   "source": "Krebs on Security",
-   "date": "2026-11-03T02:24:31+00:00",
-   "summary": "Google said today it worked with industry partners to dismantle a botnet made up of more than 1.3 million Android TV set-top boxes that ship with malicious software which secretly rents the…",
    "cat": "security"
   }
  ]
