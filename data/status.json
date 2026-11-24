@@ -1,5 +1,5 @@
 {
- "run_at": "2026-11-24T03:58:35+00:00",
+ "run_at": "2026-11-24T17:50:38+00:00",
  "sources": [
   {
    "kind": "news",
@@ -254,7 +254,7 @@
    "count": 1203
   }
  ],
- "news_items": 171,
+ "news_items": 180,
  "video_items": 60,
  "ok_sources": 36,
  "total_sources": 36

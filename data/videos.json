@@ -1,6 +1,22 @@
 {
- "updated": "2026-11-24T03:58:35+00:00",
+ "updated": "2026-11-24T17:50:38+00:00",
  "items": [
+  {
+   "id": "rCx4SCd4N-s",
+   "title": "Microsoft Azure AI Fundamentals (AI-901) Certification Course",
+   "channel": "freeCodeCamp.org",
+   "topic": "Build websites",
+   "date": "2026-11-24T15:35:26+00:00",
+   "summary": "Prepare to pass the Microsoft Azure AI Fundamentals (AI-901) exam. As a candidate for this Microsoft Certification, you’re at the beginning of your career in AI solution development…"
+  },
+  {
+   "id": "kAvwsOJVp30",
+   "title": "Google Ads Can’t Tell a Small Lead From a Big One",
+   "channel": "Neil Patel",
+   "topic": "Search & SEO",
+   "date": "2026-11-24T13:03:22+00:00",
+   "summary": "A home barista and a guy who runs 40 coffee shops fill out the same form. Google counts them as the same conversion with the same value. So…"
+  },
   {
    "id": "u1ozwejEwBo",
    "title": "Believe it or not, this ISN’T AI",
@@ -464,22 +480,6 @@
    "topic": "Search & SEO",
    "date": "2026-11-05T16:51:49+00:00",
    "summary": "See more at https://youtu.be/P7grNk_REms Do you have a profile on Instagram, TikTok, X, or Youtube? You can now verify ownership of a number of creator profiles - Instagram…"
-  },
-  {
-   "id": "vfGGiFQbb7A",
-   "title": "301, 302, 307, 308: Which redirect is the chosen one?",
-   "channel": "Google Search Central",
-   "topic": "Search & SEO",
-   "date": "2026-11-04T14:50:56+00:00",
-   "summary": "What is the actual difference between a 301 and a 302 redirect and does it affect canonicalization? What on earth are 307 and 308 redirects, and what do…"
-  },
-  {
-   "id": "kKJvsLV1mkw",
-   "title": "Use new CSS without breaking anything",
-   "channel": "Kevin Powell",
-   "topic": "Build websites",
-   "date": "2026-11-04T14:00:30+00:00",
-   "summary": "👉 Start writing CSS with confidence: https://thecascade.dev/courses/css-demystified/?utm_source=youtube&utm_medium=social&utm_campaign=regular-video How do you know if a CSS feature is safe to use? A look at what Baseline does and doesn't tell…"
   }
  ]
 }
