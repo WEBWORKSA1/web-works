@@ -1,6 +1,38 @@
 {
- "updated": "2026-11-24T17:50:38+00:00",
+ "updated": "2026-11-25T02:32:37+00:00",
  "items": [
+  {
+   "id": "PQYURWk9-w0",
+   "title": "This helmet tells you when to turn ⮑",
+   "channel": "Matt Wolfe",
+   "topic": "AI tools",
+   "date": "2026-11-24T20:11:42+00:00",
+   "summary": "This motorcycle helmet puts GPS directions right in your field of vision, like something straight out of a video game! #AI #futuretech"
+  },
+  {
+   "id": "7XC1A1TXMok",
+   "title": "Which One Should You Use: Fable 5.2 or Opus 5.5",
+   "channel": "Theo - t3.gg",
+   "topic": "Web platform",
+   "date": "2026-11-24T20:00:10+00:00",
+   "summary": "Which Claude Model Should You Use? Want to sponsor a video? Learn more here: https://soydev.link/sponsor-me Check out my Twitch, Twitter, Discord more at https://t3.gg #ai #coding #programming"
+  },
+  {
+   "id": "L98TYTqIByk",
+   "title": "AI Is Closing Sales Before Your Website Loads",
+   "channel": "Neil Patel",
+   "topic": "Search & SEO",
+   "date": "2026-11-24T19:01:38+00:00",
+   "summary": "Search used to send people to your site. Now AI can help close the sale without them ever visiting it. Google AI Mode and Meta’s Muse can both…"
+  },
+  {
+   "id": "ZiBfawBKX_0",
+   "title": "When to use an MCP server vs CLI with DevTools for agents",
+   "channel": "Chrome for Developers",
+   "topic": "Web platform",
+   "date": "2026-11-24T18:09:28+00:00",
+   "summary": "Choosing between the MCP server and the DevTools CLI comes down to balancing exploration against token overhead. While the MCP server provides a broad toolbox for troubleshooting, dedicated…"
+  },
   {
    "id": "rCx4SCd4N-s",
    "title": "Microsoft Azure AI Fundamentals (AI-901) Certification Course",
@@ -19,7 +51,7 @@
   },
   {
    "id": "u1ozwejEwBo",
-   "title": "Believe it or not, this ISN’T AI",
+   "title": "This robot face is NOT AI!",
    "channel": "Matt Wolfe",
    "topic": "AI tools",
    "date": "2026-11-23T21:09:34+00:00",
@@ -448,38 +480,6 @@
    "topic": "Search & SEO",
    "date": "2026-11-09T14:00:25+00:00",
    "summary": "#ahrefs"
-  },
-  {
-   "id": "3M3xlSca-Lg",
-   "title": "301, 302, 307, 308: Which redirect?",
-   "channel": "Google Search Central",
-   "topic": "Search & SEO",
-   "date": "2026-11-06T15:37:03+00:00",
-   "summary": "Watch the full episode right now - https://www.youtube.com/watch?v=vfGGiFQbb7A"
-  },
-  {
-   "id": "eHHxRJulX74",
-   "title": "Godot 4 Roguelike Course – Build a Complete Top-Down Action Game",
-   "channel": "freeCodeCamp.org",
-   "topic": "Build websites",
-   "date": "2026-11-06T15:22:02+00:00",
-   "summary": "Build a complete top-down action roguelike in Godot 4, from an empty project to a game a stranger can open and play. About 10 hours, 8 chapters, 31…"
-  },
-  {
-   "id": "rhPdfVTA2r0",
-   "title": "Does Your Framework Still Matter?",
-   "channel": "Traversy Media",
-   "topic": "Build websites",
-   "date": "2026-11-05T18:08:29+00:00",
-   "summary": "The web framework era is ending as the industry shifts away from React, Vue, and Angular. Learn why modern development is changing. Check Out Posthog: https://go.posthog.com/traversy Brooks Lybrand…"
-  },
-  {
-   "id": "1vKaJBh01fY",
-   "title": "Search data for creators in Search Console (New!)",
-   "channel": "Google Search Central",
-   "topic": "Search & SEO",
-   "date": "2026-11-05T16:51:49+00:00",
-   "summary": "See more at https://youtu.be/P7grNk_REms Do you have a profile on Instagram, TikTok, X, or Youtube? You can now verify ownership of a number of creator profiles - Instagram…"
   }
  ]
 }
