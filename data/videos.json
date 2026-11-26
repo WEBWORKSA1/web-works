@@ -1,6 +1,22 @@
 {
- "updated": "2026-11-26T01:47:32+00:00",
+ "updated": "2026-11-26T16:57:51+00:00",
  "items": [
+  {
+   "id": "HvJV6b8Cr0w",
+   "title": "A responsive card with no media queries",
+   "channel": "Kevin Powell",
+   "topic": "Build websites",
+   "date": "2026-11-26T14:12:23+00:00",
+   "summary": "👉 Writing Resilient CSS is the newest module in CSS Demystified, and the whole course is 32% off for Black Friday: https://thecascade.dev/courses/css-demystified/?utm_source=youtube&utm_medium=social&utm_campaign=regular-video Flexbox cards can break the moment…"
+  },
+  {
+   "id": "cpdUA2q5EZk",
+   "title": "Where Should Your Ad Budget Go in 2027?",
+   "channel": "Neil Patel",
+   "topic": "Search & SEO",
+   "date": "2026-11-26T13:01:04+00:00",
+   "summary": "Every platform wants your ad budget. And now they all have AI. Google is putting ads in its AI answers. ChatGPT sells ads directly through its own Ads…"
+  },
   {
    "id": "WN5O4vWCa54",
    "title": "5 developer tips for working with Gemini 4",
@@ -464,22 +480,6 @@
    "topic": "Search & SEO",
    "date": "2026-11-13T14:28:00+00:00",
    "summary": "Watch the full episode right now - https://youtu.be/alGu2A97c98"
-  },
-  {
-   "id": "SOwUWPtXQ9I",
-   "title": "Jensen Huang just pulled out of Nvidia...",
-   "channel": "Fireship",
-   "topic": "Web platform",
-   "date": "2026-11-12T21:17:10+00:00",
-   "summary": "Manufact is the easiest way to build and deploy your MCP. Get $100 in free credits: https://manufact.com/fireship Jensen Huang just resigned as Nvidia’s CEO four days after admitting…"
-  },
-  {
-   "id": "vLAegkGGWrM",
-   "title": "Building with Gemini in Google Antigravity",
-   "channel": "Google for Developers",
-   "topic": "Web platform",
-   "date": "2026-11-12T17:00:11+00:00",
-   "summary": "See what you can build using our latest Gemini models in Google Antigravity. From in-browser animation and multimodal prototyping to autonomous codebase modernization, explore how you can ship…"
   }
  ]
 }

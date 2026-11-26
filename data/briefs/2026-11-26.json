@@ -1,19 +1,19 @@
 {
  "date": "2026-11-26",
- "updated": "2026-11-26T01:47:42+00:00",
+ "updated": "2026-11-26T16:58:01+00:00",
  "headlines": {
   "domains": [
+   {
+    "title": "TVK Government Begins Christianisation Of University Of Madras Through Registrar Rita John, Who Shields Loyola College And Don Bosco; Governor Intervenes And Warns The Registrar",
+    "link": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE5saVJXSXpCb2NvTy16bDBya1RqbkR0bzdPMkNCUzJiUFNXZ0E5UHUyWXZTZlg2SzRLTDNz?oc=5",
+    "source": "Howl.Link",
+    "date": "2026-11-26T14:30:45+00:00"
+   },
    {
     "title": "Recall effort for two Pasadena Unified School District trustees reset until next year",
     "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPQ0tmQXp2cEdzSGpiblVIZnFJbWt3WHFYSFozR0U0YUJ4T1NWWEV1S1h5b3dZNklyT3hTNldoZnZiUDJFMmN2MEZkR1FqeDRBb0xkWVoxOXNNclNSVndUQVFBdEZqbXdTY3JwSGxUcmpkN3NmRVpmazJLOVdSNEFtRFlTWldFd18ybUhLcnd1ODFqS09GWFZNRXMzY2lRQmYta21iRW9mVHNtbHBQZ1dpblVfVDlSYU43U2Q0S2tXZ3gxdjc5NlVHZWFR?oc=5",
     "source": "Pasadena Star News",
     "date": "2026-11-25T22:41:56+00:00"
-   },
-   {
-    "title": "Identity Digital to launch .job, .got, and .safety in January",
-    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNaWhCeGJobXFZdUJ3VXdsV255aWthQ0Nnb3YxQ1pPRG5KYXJlbUh6dEI2LU85ZVMzUTktTWFrUG8xY20tc05CM1Z6bDJYeTFzNU92N0NqSXFQU0tkSE15WEFoRlhiMVpUUHF6VnRCRUJ1dDh2RmNhQW9Ja2c4d1l6WHNHV0E2V3pqMHlGTzVuYkJtUlA5LUhRUTVsWQ?oc=5",
-    "source": "Domain Name Wire",
-    "date": "2026-11-25T22:15:40+00:00"
    },
    {
     "title": "Coinbase: all your .base are belong to us",
@@ -22,51 +22,69 @@
     "date": "2026-11-25T22:15:40+00:00"
    },
    {
-    "title": "ICA names nominees for Lonnie Borck Memorial and Trailblazer awards",
-    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBkMGh4TGpLUVlzdk9UZFZ3UkdLTVk2MzVJd2RVQ0lrNlp3TzhtQVlJU25sU3FOX19VSEtVcFBzNkVXbDdUaDNZLUVrbnJJWC1LM2tjN2dhQXZWUDlEbGlQQTc0OWdSUWtYMjk0NTlBV2c2QQ?oc=5",
+    "title": "Identity Digital to launch .jot, .got, and .safety in January",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNaWhCeGJobXFZdUJ3VXdsV255aWthQ0Nnb3YxQ1pPRG5KYXJlbUh6dEI2LU85ZVMzUTktTWFrUG8xY20tc05CM1Z6bDJYeTFzNU92N0NqSXFQU0tkSE15WEFoRlhiMVpUUHF6VnRCRUJ1dDh2RmNhQW9Ja2c4d1l6WHNHV0E2V3pqMHlGTzVuYkJtUlA5LUhRUTVsWQ?oc=5",
     "source": "Domain Name Wire",
     "date": "2026-11-25T22:15:40+00:00"
    },
    {
-    "title": "DropCatch auctions: Select domain results—November 25, 2026 | OmniYa.com – $2,948",
-    "link": "https://domaingang.com/domain-news/dropcatch-auctions-select-domain-results-november-25-2026-omniya-com-2948/",
-    "source": "DomainGang",
-    "date": "2026-11-25T21:51:12+00:00"
+    "title": "ICA names nominees for Lonnie Borck Memorial and Trailblazer awards",
+    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBkMGh4TGpLUVlzdk9UZFZ3UkdLTVk2MzVJd2RVQ0lrNlp3TzhtQVlJU25sU3FOX19VSEtVcFBzNkVXbDdUaDNZLUVrbnJJWC1LM2tjN2dhQXZWUDlEbGlQQTc0OWdSUWtYMjk0NTlBV2c2QQ?oc=5",
+    "source": "Domain Name Wire",
+    "date": "2026-11-25T22:15:40+00:00"
    }
   ],
   "web": [
+   {
+    "title": "The Missing Step In Prompt Tracking Was Written Down In 1995",
+    "link": "https://www.searchenginejournal.com/the-missing-step-in-prompt-tracking-was-written-down-in-1995/598461/",
+    "source": "Search Engine Journal",
+    "date": "2026-11-26T15:00:36+00:00"
+   },
+   {
+    "title": "What SEOs Can Be Thankful For: 8 Wins To Celebrate In 2026",
+    "link": "https://www.searchenginejournal.com/what-seos-can-be-thankful-for-2026/598921/",
+    "source": "Search Engine Journal",
+    "date": "2026-11-26T13:00:22+00:00"
+   },
+   {
+    "title": "OpenAI Isn’t Planning Prompt-Level Reports For ChatGPT Ads",
+    "link": "https://www.searchenginejournal.com/openai-isnt-planning-prompt-level-reports-for-chatgpt-ads/599126/",
+    "source": "Search Engine Journal",
+    "date": "2026-11-26T04:15:54+00:00"
+   },
+   {
+    "title": "Google Adds Pageburst & 11 Other Existing Bots To Its Crawler Docs",
+    "link": "https://www.searchenginejournal.com/google-adds-pageburst-11-other-existing-bots-to-its-crawler-docs/599120/",
+    "source": "Search Engine Journal",
+    "date": "2026-11-26T03:22:22+00:00"
+   },
    {
     "title": "AI Shopping Agents Bought A Fake Deal 37% Of The Time – Claude Opus Never Did",
     "link": "https://www.searchenginejournal.com/ai-shopping-agents-bought-a-fake-deal-37-of-the-time-claude-opus-never-did/598682/",
     "source": "Search Engine Journal",
     "date": "2026-11-25T20:00:32+00:00"
-   },
-   {
-    "title": "Top Publisher League Tables For U.S. & U.K.",
-    "link": "https://www.searchenginejournal.com/top-publisher-league-tables-for-us-uk/598933/",
-    "source": "Search Engine Journal",
-    "date": "2026-11-25T18:00:02+00:00"
-   },
-   {
-    "title": "ChatGPT Ads Are Growing Fast – But Are Advertisers Seeing Results?",
-    "link": "https://www.searchenginejournal.com/chatgpt-ads-are-growing-fast-but-are-advertisers-seeing-results/598052/",
-    "source": "Search Engine Journal",
-    "date": "2026-11-25T15:00:31+00:00"
-   },
-   {
-    "title": "Introducing Search for Agents",
-    "link": "https://blog.cloudflare.com/search-for-agents/",
-    "source": "Cloudflare Blog",
-    "date": "2026-11-25T14:00:00+00:00"
-   },
-   {
-    "title": "Is GEO Visibility Delivering Business Value, Or Are We Measuring The Wrong Outcome?",
-    "link": "https://www.searchenginejournal.com/is-geo-visibility-delivering-business-value-or-are-we-measuring-the-wrong-outcome/594064/",
-    "source": "Search Engine Journal",
-    "date": "2026-11-25T13:00:23+00:00"
    }
   ],
   "security": [
+   {
+    "title": "Remus malware steals Gmail messages via fake Google Sheets extension",
+    "link": "https://www.bleepingcomputer.com/news/security/remus-malware-steals-gmail-messages-via-fake-google-sheets-extension/",
+    "source": "BleepingComputer",
+    "date": "2026-11-26T15:23:28+00:00"
+   },
+   {
+    "title": "SYS010 malware abuses browser management to spy on Gmail, Outlook",
+    "link": "https://www.bleepingcomputer.com/news/security/sys010-malware-abuses-browser-management-to-spy-on-gmail-outlook/",
+    "source": "BleepingComputer",
+    "date": "2026-11-26T11:50:17+00:00"
+   },
+   {
+    "title": "UK’s long-awaited National Cyber Action Plan delayed until December",
+    "link": "https://therecord.media/britain-delays-national-cyber-action-plan-again",
+    "source": "The Record",
+    "date": "2026-11-26T00:00:00+00:00"
+   },
    {
     "title": "Palo Alto Networks warns of Fragnesia flaw exploited in PAN-OS attacks",
     "link": "https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-fragnesia-flaw-exploited-in-pan-os-attacks/",
@@ -78,56 +96,38 @@
     "link": "https://www.bleepingcomputer.com/news/security/1password-customer-data-stolen-after-employee-github-account-breach/",
     "source": "BleepingComputer",
     "date": "2026-11-25T21:33:33+00:00"
-   },
-   {
-    "title": "Microsoft: China’s Salt Typhoon hackers are using Artex",
-    "link": "https://therecord.media/microsoft-china-salt-typhoon-using-artex-ai-tool",
-    "source": "The Record",
-    "date": "2026-11-25T21:18:00+00:00"
-   },
-   {
-    "title": "FIFA says hackers accessed ‘limited set of personal and business information’",
-    "link": "https://therecord.media/fifa-data-breach-limited",
-    "source": "The Record",
-    "date": "2026-11-25T20:40:00+00:00"
-   },
-   {
-    "title": "Italy and Switzerland warn of autonomous AI-driven cyberattacks",
-    "link": "https://www.bleepingcomputer.com/news/security/italy-and-switzerland-warn-of-autonomous-ai-driven-cyberattacks/",
-    "source": "BleepingComputer",
-    "date": "2026-11-25T19:39:31+00:00"
    }
   ],
   "business": [
    {
-    "title": "Tell HN: Lots of Ask HNs again",
-    "link": "https://news.ycombinator.com/item?id=50649864",
+    "title": "Kagi Watch",
+    "link": "https://kagi.com/watch",
     "source": "Hacker News",
-    "date": "2026-11-26T00:43:34+00:00"
+    "date": "2026-11-26T16:28:54+00:00"
    },
    {
-    "title": "Jev is probably Qwen3.5-35B-A3B",
-    "link": "https://modaic.dev/blog/latency-doesnt-lie",
+    "title": "Ask HN: Any courses/products by indie makers worth getting today?",
+    "link": "https://news.ycombinator.com/item?id=50656763",
     "source": "Hacker News",
-    "date": "2026-11-25T22:57:04+00:00"
+    "date": "2026-11-26T16:16:41+00:00"
    },
    {
-    "title": "Bare Metal Qwen",
-    "link": "https://github.com/alesha-pro/llm.asm/tree/main/02-baremetal-os",
+    "title": "Show HN: Three Linux VMs in a browser tab, each running a different browser",
+    "link": "https://michidk.github.io/sidebyside/",
     "source": "Hacker News",
-    "date": "2026-11-25T22:15:34+00:00"
+    "date": "2026-11-26T15:00:06+00:00"
    },
    {
-    "title": "Deploying a payphone on a tiny Pacific Island",
-    "link": "https://nickvsnetworking.com/deploying-a-payphone-on-a-tiny-pacific-island-for-fun-and-zero-profit/",
+    "title": "Tell HN: Happy Thanksgiving",
+    "link": "https://news.ycombinator.com/item?id=50655664",
     "source": "Hacker News",
-    "date": "2026-11-25T22:12:25+00:00"
+    "date": "2026-11-26T14:26:54+00:00"
    },
    {
-    "title": "Much shorter version of GRH Lean verification from Anthropic",
-    "link": "https://github.com/lsernau/grh-lean",
+    "title": "45°C inlets just killed the chiller. Most people haven't noticed yet",
+    "link": "https://www.theregister.com/hpc/2026/11/26/45c-inlets-just-killed-the-chiller-most-people-havent-noticed-yet/5311831",
     "source": "Hacker News",
-    "date": "2026-11-25T21:48:10+00:00"
+    "date": "2026-11-26T13:48:11+00:00"
    }
   ]
  },
@@ -138,11 +138,11 @@
  "tip": "Use escrow for any domain purchase you cannot afford to lose. The money moves only after the transfer is confirmed.",
  "names": [
   "Mebux",
-  "Ridur",
   "Gafex",
+  "Ridur",
   "Shiftnest",
-  "ZenQuartz",
   "EmberMark",
+  "ZenQuartz",
   "TrailBloom",
   "OrbitThread"
  ],
@@ -153,21 +153,21 @@
  },
  "root": {
   "count": 1435,
-  "version": "Version 2026112402, Last Updated Wed Nov 25 07:07:01 2026 UTC",
+  "version": "Version 2026112503, Last Updated Thu Nov 26 07:07:01 2026 UTC",
   "changes": []
  },
  "videos": [
   {
-   "id": "WN5O4vWCa54",
-   "title": "5 developer tips for working with Gemini 4",
-   "channel": "Google for Developers",
-   "date": "2026-11-25T20:00:15+00:00"
+   "id": "HvJV6b8Cr0w",
+   "title": "A responsive card with no media queries",
+   "channel": "Kevin Powell",
+   "date": "2026-11-26T14:12:23+00:00"
   },
   {
-   "id": "VckpfsTsT00",
-   "title": "A Million Views Can Still Make You $0",
+   "id": "cpdUA2q5EZk",
+   "title": "Where Should Your Ad Budget Go in 2027?",
    "channel": "Neil Patel",
-   "date": "2026-11-25T19:02:06+00:00"
+   "date": "2026-11-26T13:01:04+00:00"
   }
  ],
  "contest": {
