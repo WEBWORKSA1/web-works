@@ -1,12 +1,12 @@
 {
- "run_at": "2026-11-26T16:57:51+00:00",
+ "run_at": "2026-11-27T01:45:35+00:00",
  "sources": [
   {
    "kind": "news",
    "name": "Domain Name Wire",
    "url": "https://domainnamewire.com/feed",
-   "ok": true,
-   "count": 5
+   "ok": false,
+   "count": 0
   },
   {
    "kind": "news",
@@ -256,6 +256,6 @@
  ],
  "news_items": 180,
  "video_items": 60,
- "ok_sources": 36,
+ "ok_sources": 35,
  "total_sources": 36
 }

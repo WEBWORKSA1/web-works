@@ -1,6 +1,22 @@
 {
- "updated": "2026-11-26T16:57:51+00:00",
+ "updated": "2026-11-27T01:45:35+00:00",
  "items": [
+  {
+   "id": "4omPdu3mAEE",
+   "title": "Get Your Uber Eats Via Drone",
+   "channel": "Matt Wolfe",
+   "topic": "AI tools",
+   "date": "2026-11-27T01:01:54+00:00",
+   "summary": "Sharing the latest news and advancements in AI Discover More: 🛠️ Explore AI Tools & News: https://futuretools.io/ 📰 Weekly Newsletter: https://futuretools.io/newsletter Socials: ❌ Twiter/X: https://x.com/mreflow 🖼️ Instagram: https://instagram.com/mr.eflow…"
+  },
+  {
+   "id": "zHQiDOScwI4",
+   "title": "Stop Paying for AI That Can’t Prove Itself",
+   "channel": "Neil Patel",
+   "topic": "Search & SEO",
+   "date": "2026-11-26T19:02:02+00:00",
+   "summary": "More content doesn’t mean more customers. 400 blog posts and 90 ads mean nothing if you can’t tie them to revenue. Only 1 in 4 AI initiatives delivered…"
+  },
   {
    "id": "HvJV6b8Cr0w",
    "title": "A responsive card with no media queries",
@@ -464,22 +480,6 @@
    "topic": "Build websites",
    "date": "2026-11-16T15:30:10+00:00",
    "summary": "Learn all about MCP from both ends. How to connect and how a server works. Check out Apify and get $25 free in credits with the code: TRAVERSY25…"
-  },
-  {
-   "id": "TWoS5Nmyoc8",
-   "title": "Stop Searching For the Perfect Model",
-   "channel": "Theo - t3.gg",
-   "topic": "Web platform",
-   "date": "2026-11-16T00:09:03+00:00",
-   "summary": "We're at the point where you have to stop searching for a single model to do all your work and realize that the best model is all of…"
-  },
-  {
-   "id": "L5zoGpiqZvM",
-   "title": "Moved to a CDN: Why Is Everything Crawling Everywhere All at Once?",
-   "channel": "Google Search Central",
-   "topic": "Search & SEO",
-   "date": "2026-11-13T14:28:00+00:00",
-   "summary": "Watch the full episode right now - https://youtu.be/alGu2A97c98"
   }
  ]
 }
