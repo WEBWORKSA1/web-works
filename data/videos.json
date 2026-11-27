@@ -1,6 +1,22 @@
 {
- "updated": "2026-11-27T01:45:35+00:00",
+ "updated": "2026-11-27T16:43:55+00:00",
  "items": [
+  {
+   "id": "sPGzM3ktJVE",
+   "title": "The wild world of tech in 2027...",
+   "channel": "Fireship",
+   "topic": "Web platform",
+   "date": "2026-11-27T16:08:25+00:00",
+   "summary": "Get 67% off VPS hosting with Hostinger's Black Friday sale. Use code FIRESHIP for an extra discount - https://hostinger.com/fireship The junior dev job is dead, open source is…"
+  },
+  {
+   "id": "Zv486gp_NHg",
+   "title": "Don't Turn On AI Max Until You Do This",
+   "channel": "Neil Patel",
+   "topic": "Search & SEO",
+   "date": "2026-11-27T13:04:19+00:00",
+   "summary": "Most advertisers flip the switch and hope for the best. That's a mistake. Before my team turns on AI Max for a client, we rewrite the service pages…"
+  },
   {
    "id": "4omPdu3mAEE",
    "title": "Get Your Uber Eats Via Drone",
@@ -464,22 +480,6 @@
    "topic": "Web platform",
    "date": "2026-11-17T17:00:29+00:00",
    "summary": "Learn how EmbeddingGemma 2, Google's open, lightweight multimodal embedding model, maps text, code, images, video, and audio into a single, unified embedding space. The video covers: * How…"
-  },
-  {
-   "id": "ytmawkPTP24",
-   "title": "Why Microsoft couldn’t fix its own servers for 36 hours...",
-   "channel": "Fireship",
-   "topic": "Web platform",
-   "date": "2026-11-16T20:18:59+00:00",
-   "summary": "OpenRouter gives you one API for every AI model that routes and governs every request, so your AI is better, faster, and cheaper. Try it free: https://openrouter.ai/?utm_source=fireship&utm_medium=video&utm_campaign=2026-11_dev-sponsorships&utm_content=description Microsoft…"
-  },
-  {
-   "id": "PjYcrCEzV6M",
-   "title": "MCP Crash Course: Everything You Need to Know",
-   "channel": "Traversy Media",
-   "topic": "Build websites",
-   "date": "2026-11-16T15:30:10+00:00",
-   "summary": "Learn all about MCP from both ends. How to connect and how a server works. Check out Apify and get $25 free in credits with the code: TRAVERSY25…"
   }
  ]
 }
