@@ -1,6 +1,14 @@
 {
- "updated": "2026-11-27T16:43:55+00:00",
+ "updated": "2026-11-28T01:28:32+00:00",
  "items": [
+  {
+   "id": "qRJLsaZ4Glw",
+   "title": "Businesses Afraid of AI Will Pay for It",
+   "channel": "Neil Patel",
+   "topic": "Search & SEO",
+   "date": "2026-11-27T19:05:20+00:00",
+   "summary": "Horse carts to cars. Letters to emails. Blockbuster to Netflix. Every time, the businesses that were afraid of the switch suffered the most. AI is the next one…"
+  },
   {
    "id": "sPGzM3ktJVE",
    "title": "The wild world of tech in 2027...",
@@ -472,14 +480,6 @@
    "topic": "Build websites",
    "date": "2026-11-17T17:00:31+00:00",
    "summary": "AI Simplified Course: https://webdevsimplified.com/ai-simplified-waitlist.html Google’s new Modern Web Guidelines is a completely free library/skill that forces AI to write high quality, performant, modern web code. In this video…"
-  },
-  {
-   "id": "aRIFzzr_Mi0",
-   "title": "EmbeddingGemma 2: How natively multimodal embeddings work",
-   "channel": "Google for Developers",
-   "topic": "Web platform",
-   "date": "2026-11-17T17:00:29+00:00",
-   "summary": "Learn how EmbeddingGemma 2, Google's open, lightweight multimodal embedding model, maps text, code, images, video, and audio into a single, unified embedding space. The video covers: * How…"
   }
  ]
 }

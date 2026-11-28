@@ -1,6 +1,230 @@
 {
- "updated": "2026-11-27T16:43:55+00:00",
+ "updated": "2026-11-28T01:28:32+00:00",
  "items": [
+  {
+   "title": "Passkey blues",
+   "link": "https://ssg.dev/passkey-blues/",
+   "source": "Hacker News",
+   "date": "2026-11-27T23:51:28+00:00",
+   "summary": "7 points, 1 comments on Hacker News.",
+   "cat": "business"
+  },
+  {
+   "title": "Painting 1990s anime scenes in Python",
+   "link": "https://www.fofr.ai/greenhouse-after-the-typhoon",
+   "source": "Hacker News",
+   "date": "2026-11-27T23:50:17+00:00",
+   "summary": "11 points, 0 comments on Hacker News.",
+   "cat": "business"
+  },
+  {
+   "title": "Google's DeepCrossAttention achieves comparable model quality up to 3x faster",
+   "link": "https://research.google/blog/supercharging-transformer-residual-connections/",
+   "source": "Hacker News",
+   "date": "2026-11-27T23:06:29+00:00",
+   "summary": "60 points, 15 comments on Hacker News.",
+   "cat": "business"
+  },
+  {
+   "title": "Tabernetes: A Kubernetes cluster whose nodes are browser tabs",
+   "link": "https://tabernet.es/",
+   "source": "Hacker News",
+   "date": "2026-11-27T23:00:30+00:00",
+   "summary": "27 points, 10 comments on Hacker News.",
+   "cat": "business"
+  },
+  {
+   "title": "Know What To Fix Before Scaling AI Agents For AEO In 2027",
+   "link": "https://www.searchenginejournal.com/know-what-to-fix-before-scaling-ai-agents-for-aeo-in-2027/598837/",
+   "source": "Search Engine Journal",
+   "date": "2026-11-27T22:41:34+00:00",
+   "summary": "Join us on December 2 to learn where enterprise AI agent programs stall and how to choose your AEO data, measurement, and investment priorities for 2027.",
+   "cat": "web"
+  },
+  {
+   "title": "Source Control from Hell",
+   "link": "https://frantic.im/git/",
+   "source": "Hacker News",
+   "date": "2026-11-27T22:06:44+00:00",
+   "summary": "54 points, 40 comments on Hacker News.",
+   "cat": "business"
+  },
+  {
+   "title": "9/UX: a Macintosh-inspired desktop for 9front",
+   "link": "https://progrium.github.io/9ux/",
+   "source": "Hacker News",
+   "date": "2026-11-27T21:48:14+00:00",
+   "summary": "68 points, 11 comments on Hacker News.",
+   "cat": "business"
+  },
+  {
+   "title": "SessionGraph: Visualize all your coding agent sessions in one interactive graph",
+   "link": "https://sessiongraph.ai/",
+   "source": "Hacker News",
+   "date": "2026-11-27T21:07:34+00:00",
+   "summary": "23 points, 10 comments on Hacker News.",
+   "cat": "business"
+  },
+  {
+   "title": "Quad9 Blocks Nginx2root.com",
+   "link": "https://quad9.net/?url=nginx2root.com#domain-tester",
+   "source": "Hacker News",
+   "date": "2026-11-27T21:03:56+00:00",
+   "summary": "13 points, 7 comments on Hacker News.",
+   "cat": "business"
+  },
+  {
+   "title": "DropCatch auctions: Select domain results—November 27, 2026 | HealthKick.com – $6,349",
+   "link": "https://domaingang.com/domain-news/dropcatch-auctions-select-domain-results-november-27-2026-healthkick-com-6349/",
+   "source": "DomainGang",
+   "date": "2026-11-27T21:02:46+00:00",
+   "summary": "DropCatch is a major domain backordering service that specializes in acquiring expiring domain names as soon as they return to availability. The platform uses an extensive network of ICANN-accredited registrars to improve…",
+   "cat": "domains"
+  },
+  {
+   "title": "Cybercriminals use AI website builder to host phishing pages on Hugging Face",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZXRaNFBjMXYwb2owMmxKQlh3MUNaemp0bEd3ZkNuWEt3dmRvYmdVT1JwenJGX3RlSnF0Qk1qMWlSd0ZCSmllYWlMeHB6eVVERmtweTBtN3lZckIzQWpram1pQThsWkFnU2FBYV9YSTlSOE05WlhaTnlSaV9XTFhLWlNnNVU2UDRNX3Q4aVFpSVNnUlMyNVNLRnBzWk4yQllPbmlqNVhVSnoxQQ?oc=5",
+   "source": "SC Media",
+   "date": "2026-11-27T20:30:26+00:00",
+   "summary": "",
+   "cat": "business"
+  },
+  {
+   "title": "Google’s 404 Guide Says 410s Generally Get Crawled Less Often",
+   "link": "https://www.searchenginejournal.com/google-404-guide-410-crawl-frequency/599287/",
+   "source": "Search Engine Journal",
+   "date": "2026-11-27T20:26:24+00:00",
+   "summary": "Google moved its 404 guidance into Search Central and now says 410s generally get crawled less often, while treating both codes the same for indexing.",
+   "cat": "web"
+  },
+  {
+   "title": "I am scared: Careless People – Sarah Wynn-Williams on living under a gag order",
+   "link": "https://www.theguardian.com/books/2026/nov/27/careless-people-author-sarah-wynn-williams-the-silence-is-mine-it-doesnt-have-to-be-yours",
+   "source": "Hacker News",
+   "date": "2026-11-27T20:25:15+00:00",
+   "summary": "149 points, 67 comments on Hacker News.",
+   "cat": "business"
+  },
+  {
+   "title": "Prospero: Bloat-free, native AI coding harness with ImGui",
+   "link": "https://github.com/skeeto/prospero",
+   "source": "Hacker News",
+   "date": "2026-11-27T20:23:14+00:00",
+   "summary": "32 points, 7 comments on Hacker News.",
+   "cat": "business"
+  },
+  {
+   "title": "Google Adds Shopping Campaigns To Promotion Mode Eligibility",
+   "link": "https://www.searchenginejournal.com/google-adds-shopping-campaigns-to-promotion-mode-eligibility/599279/",
+   "source": "Search Engine Journal",
+   "date": "2026-11-27T19:57:15+00:00",
+   "summary": "Standard Shopping campaigns can use Promotion Mode to lower Target ROAS for short sales, with an optional extra daily budget, an updated help page says.",
+   "cat": "web"
+  },
+  {
+   "title": "States sue SpaceX to stop Grok from generating child sex images, revenge porn",
+   "link": "https://www.oag.state.va.us/media-center/news-releases/jay-jones/3162-attorneys-general-jones-and-rayfield-file-suit-against-spacex-parent-company-of-x-xai-and-grok-over-creation-and-promotion-of-child-exploitation-and-non-consensual-images-on-platform",
+   "source": "Hacker News",
+   "date": "2026-11-27T19:42:25+00:00",
+   "summary": "259 points, 140 comments on Hacker News.",
+   "cat": "business"
+  },
+  {
+   "title": "The AT&T Unix PC (3B1) VM",
+   "link": "https://virtuallyfun.com/2026/11/22/the-ultimate-att-unix-pc-3b1-vm-w-tcp-ip-and-apps/",
+   "source": "Hacker News",
+   "date": "2026-11-27T19:40:33+00:00",
+   "summary": "55 points, 10 comments on Hacker News.",
+   "cat": "business"
+  },
+  {
+   "title": "Michael Nielsen took down his book on neural nets",
+   "link": "https://neuralnetworksanddeeplearning.com/",
+   "source": "Hacker News",
+   "date": "2026-11-27T19:31:01+00:00",
+   "summary": "376 points, 251 comments on Hacker News.",
+   "cat": "business"
+  },
+  {
+   "title": "pCloud confirms password manager hack after suspicious login alerts",
+   "link": "https://www.bleepingcomputer.com/news/security/pcloud-confirms-password-manager-hack-after-suspicious-login-alerts/",
+   "source": "BleepingComputer",
+   "date": "2026-11-27T19:26:04+00:00",
+   "summary": "The pCloud Pass password manager suffered a cyberattack, with users reporting that unknown devices had connected to their accounts even with two-factor authentication (2FA) enabled. [...]",
+   "cat": "security"
+  },
+  {
+   "title": "Show HN: Getting 101 tok/s from Inkling 2 Mini in vLLM on one GB10",
+   "link": "https://runtimenotes.com/blog/getting-101-tok-s-from-inkling-2-mini-in-vllm-on-one-gb10/",
+   "source": "Hacker News",
+   "date": "2026-11-27T18:59:55+00:00",
+   "summary": "37 points, 7 comments on Hacker News.",
+   "cat": "business"
+  },
+  {
+   "title": "New Boston Scientific data breach exposes personal, medical info",
+   "link": "https://www.bleepingcomputer.com/news/security/new-boston-scientific-data-breach-exposes-personal-medical-info/",
+   "source": "BleepingComputer",
+   "date": "2026-11-27T18:57:42+00:00",
+   "summary": "Medical technology company Boston Scientific is sending data breach notices to individuals affected by a cyberattack on the firm. [...]",
+   "cat": "security"
+  },
+  {
+   "title": "Scrapheap America",
+   "link": "https://dansinker.com/posts/2026-11-20-scrapheap/",
+   "source": "Hacker News",
+   "date": "2026-11-27T18:50:26+00:00",
+   "summary": "59 points, 22 comments on Hacker News.",
+   "cat": "business"
+  },
+  {
+   "title": "Orange County certifies midterm election results after receiving record number of ballots on and after Election Day",
+   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNbjkycE5OTnhBQlNDS0QyRmdiNlFTNDRJbWp4dzVXMk84bWZ4VGdDY0N3T1NSeU1fOTdYX0R3SzFoQkJzdkJZVUhpeTlDVm5yUG5MNi15ckZUMEM4TmRENFVhb2hveldhVVpNY2ZHdC1IeWd3OFFYejVZbE1QaVJEcGhFSGVDVEcxZFJySkhMeE5uUFBqM2d0Wm1GUzNpZ0dJV0lBU3FSMnlSeDVrcWtaQnV2Z3BTWmJJUnpjRnd5Q1NrT2xkVG1waEFFSnpZNnJEWTJXSFlZeS1DdjV5Z3FUbDVHbkhBUUp3MWc?oc=5",
+   "source": "Orange County Register",
+   "date": "2026-11-27T18:40:45+00:00",
+   "summary": "",
+   "cat": "domains"
+  },
+  {
+   "title": "ATLAS IV: Bringing Internet Users Closer to ICANN",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNNm5JZUhxWGFueTdPNVBsbXd5OXFvVFhqanpQbW83RVIzVVFPN0dLclFYSzY5S2ltdEJrcndWUnFrQmVOWUhTRVI4Y2E1S1YwTlpPMC1mTkZidVRqUG5oRDVXY0JzOFhzQ09fQVhDZWdNVWJoc0p6WW5OVHBHOVNMaQ?oc=5",
+   "source": "CircleID",
+   "date": "2026-11-27T18:40:18+00:00",
+   "summary": "",
+   "cat": "domains"
+  },
+  {
+   "title": "Convex skills send the user's app idea to a remote server without telling them",
+   "link": "https://github.com/convex/convex-backend-skill/issues/64",
+   "source": "Hacker News",
+   "date": "2026-11-27T18:02:45+00:00",
+   "summary": "225 points, 72 comments on Hacker News.",
+   "cat": "business"
+  },
+  {
+   "title": "Show HN: DragDropMath – Learn math by feel",
+   "link": "https://dragdropmath.com/",
+   "source": "Hacker News",
+   "date": "2026-11-27T17:56:28+00:00",
+   "summary": "96 points, 29 comments on Hacker News.",
+   "cat": "business"
+  },
+  {
+   "title": "Nalhe.org UDRP: Healthcare nonprofit pursues missing website developer",
+   "link": "https://domaingang.com/domain-law/nalhe-org-udrp-healthcare-nonprofit-pursues-missing-website-developer/",
+   "source": "DomainGang",
+   "date": "2026-11-27T17:21:28+00:00",
+   "summary": "The National Association of Latino Healthcare Executives (NALHE) filed a UDRP against Nalhe.org, a domain registered in April 2017 by Keith Watson of Iconic Orange, the developer hired to build the organization’s…",
+   "cat": "domains"
+  },
+  {
+   "title": "Unpatched Cacti zero-day with public PoC gives remote code execution",
+   "link": "https://www.bleepingcomputer.com/news/security/unpatched-cacti-zero-day-with-public-poc-gives-remote-code-execution/",
+   "source": "BleepingComputer",
+   "date": "2026-11-27T17:06:13+00:00",
+   "summary": "A zero-day vulnerability in the Cacti network monitoring platform has been publicly disclosed, along with a proof-of-concept exploit that lets unauthenticated attackers execute commands on vulnerable servers. [...]",
+   "cat": "security"
+  },
   {
    "title": "DropCatch auctions: Select domain results—November 26, 2026 | CasinoEnterpriseManagement.com – $2,458",
    "link": "https://domaingang.com/domain-news/dropcatch-auctions-select-domain-results-november-26-2026-casinoenterprisemanagement-com-2458/",
@@ -14,7 +238,7 @@
    "link": "https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer",
    "source": "Hacker News",
    "date": "2026-11-27T15:40:31+00:00",
-   "summary": "37 points, 9 comments on Hacker News.",
+   "summary": "418 points, 221 comments on Hacker News.",
    "cat": "business"
   },
   {
@@ -26,11 +250,11 @@
    "cat": "domains"
   },
   {
-   "title": "False Computer-Checked Proofs",
+   "title": "False computer-checked proofs",
    "link": "https://cr.yp.to/proofs/falseccp.html",
    "source": "Hacker News",
    "date": "2026-11-27T15:26:09+00:00",
-   "summary": "26 points, 4 comments on Hacker News.",
+   "summary": "176 points, 75 comments on Hacker News.",
    "cat": "business"
   },
   {
@@ -54,7 +278,7 @@
    "link": "https://bouncemarket.minhanhday.com/",
    "source": "Hacker News",
    "date": "2026-11-27T15:01:50+00:00",
-   "summary": "135 points, 41 comments on Hacker News.",
+   "summary": "326 points, 112 comments on Hacker News.",
    "cat": "business"
   },
   {
@@ -90,6 +314,14 @@
    "cat": "business"
   },
   {
+   "title": "Rayshader 1.0: Exit the Matrix",
+   "link": "https://www.tylermw.com/posts/rayverse/rayshader-1-0-exit-the-matrix.html",
+   "source": "Hacker News",
+   "date": "2026-11-27T14:30:20+00:00",
+   "summary": "73 points, 11 comments on Hacker News.",
+   "cat": "business"
+  },
+  {
    "title": "Malwarebytes Antivirus: Get 50% off during Black Friday 2026",
    "link": "https://www.bleepingcomputer.com/news/security/malwarebytes-antivirus-get-50-percent-off-during-black-friday-2026/",
    "source": "BleepingComputer",
@@ -118,7 +350,7 @@
    "link": "https://www.spritefusion.com/blog/making-a-fantasy-map-like-a-16th-century-atlas",
    "source": "Hacker News",
    "date": "2026-11-27T14:02:52+00:00",
-   "summary": "11 points, 0 comments on Hacker News.",
+   "summary": "95 points, 14 comments on Hacker News.",
    "cat": "business"
   },
   {
@@ -290,6 +522,14 @@
    "cat": "domains"
   },
   {
+   "title": "Citroën Hydraulic System",
+   "link": "https://www.citroenet.org.uk/miscellaneous/hydraulics/hydraulics-1.html",
+   "source": "Hacker News",
+   "date": "2026-11-27T03:10:19+00:00",
+   "summary": "134 points, 45 comments on Hacker News.",
+   "cat": "business"
+  },
+  {
    "title": "The Cutthroat Business of Shipwrecks",
    "link": "https://daily.jstor.org/the-cutthroat-business-of-shipwrecks/",
    "source": "Hacker News",
@@ -370,46 +610,6 @@
    "cat": "business"
   },
   {
-   "title": "Top-cited AI scientists at four US companies compared",
-   "link": "https://topcitedscientists.com/figures/ai-at-four-us-companies/",
-   "source": "Hacker News",
-   "date": "2026-11-26T19:44:31+00:00",
-   "summary": "36 points, 22 comments on Hacker News.",
-   "cat": "business"
-  },
-  {
-   "title": "Rvoip: VoIP stack in Rust",
-   "link": "https://github.com/eisenzopf/rvoip",
-   "source": "Hacker News",
-   "date": "2026-11-26T19:18:09+00:00",
-   "summary": "86 points, 17 comments on Hacker News.",
-   "cat": "business"
-  },
-  {
-   "title": "An introduction to uncertainty in machine learning",
-   "link": "https://chrhenning.com/blog/2026/introduction-to-uncertainty/",
-   "source": "Hacker News",
-   "date": "2026-11-26T19:04:50+00:00",
-   "summary": "123 points, 11 comments on Hacker News.",
-   "cat": "business"
-  },
-  {
-   "title": "Largest 2D Chart library in the world using BUI: BlenderUI",
-   "link": "https://bui.preetham.top/charts/",
-   "source": "Hacker News",
-   "date": "2026-11-26T18:37:24+00:00",
-   "summary": "57 points, 10 comments on Hacker News.",
-   "cat": "business"
-  },
-  {
-   "title": "George Whitesides, 1939-2026",
-   "link": "https://www.science.org/content/blog-post/george-whitesides-1939-2026",
-   "source": "Hacker News",
-   "date": "2026-11-26T18:13:07+00:00",
-   "summary": "63 points, 7 comments on Hacker News.",
-   "cat": "business"
-  },
-  {
    "title": "NordVPN Black Friday Deal: Get 78% off VPN plans in 2026",
    "link": "https://www.bleepingcomputer.com/news/security/nordvpn-black-friday-deal-get-78-percent-off-vpn-plans-in-2026/",
    "source": "BleepingComputer",
@@ -426,68 +626,12 @@
    "cat": "domains"
   },
   {
-   "title": "CTO of 'RansomwareHelp' indicted for wire fraud",
-   "link": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/",
-   "source": "Hacker News",
-   "date": "2026-11-26T17:47:45+00:00",
-   "summary": "318 points, 157 comments on Hacker News.",
-   "cat": "business"
-  },
-  {
-   "title": "YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays",
-   "link": "https://github.com/antonpictures/youtube-punisher",
-   "source": "Hacker News",
-   "date": "2026-11-26T17:36:47+00:00",
-   "summary": "492 points, 588 comments on Hacker News.",
-   "cat": "business"
-  },
-  {
-   "title": "First images of the impact of DART asteroid deflection experiment",
-   "link": "https://arstechnica.com/space/2026/11/europes-hera-mission-returns-to-the-chaotic-scene-of-a-cosmic-smashup/",
-   "source": "Hacker News",
-   "date": "2026-11-26T17:24:37+00:00",
-   "summary": "97 points, 25 comments on Hacker News.",
-   "cat": "business"
-  },
-  {
    "title": "Fake paid expert interviews impersonate brands to steal Google logins",
    "link": "https://www.bleepingcomputer.com/news/apple/fake-paid-expert-interviews-impersonate-brands-to-steal-google-logins/",
    "source": "BleepingComputer",
    "date": "2026-11-26T17:15:27+00:00",
    "summary": "An ongoing phishing campaign dubbed \"GoodGuys\" impersonates major brands, including Google, Nvidia, Accenture, and SpaceX, to steal corporate Google and Okta credentials using fake invitations to paid expert interviews and webinars. [...]",
    "cat": "security"
-  },
-  {
-   "title": "AMD-specific fork of llama.cpp",
-   "link": "https://devnull.land/amd-specific-llama-cpp",
-   "source": "Hacker News",
-   "date": "2026-11-26T17:11:29+00:00",
-   "summary": "415 points, 101 comments on Hacker News.",
-   "cat": "business"
-  },
-  {
-   "title": "Show HN: SimDrop – Running iOS simulators in the macOS Finder sidebar",
-   "link": "https://github.com/rxliuli/sim-drop",
-   "source": "Hacker News",
-   "date": "2026-11-26T16:51:38+00:00",
-   "summary": "39 points, 8 comments on Hacker News.",
-   "cat": "business"
-  },
-  {
-   "title": "Kagi Watch",
-   "link": "https://kagi.com/watch",
-   "source": "Hacker News",
-   "date": "2026-11-26T16:28:54+00:00",
-   "summary": "20 points, 15 comments on Hacker News.",
-   "cat": "business"
-  },
-  {
-   "title": "Ask HN: Any courses/products by indie makers worth getting today?",
-   "link": "https://news.ycombinator.com/item?id=50656763",
-   "source": "Hacker News",
-   "date": "2026-11-26T16:16:41+00:00",
-   "summary": "15 points, 6 comments on Hacker News.",
-   "cat": "business"
   },
   {
    "title": "Remus malware steals Gmail messages via fake Google Sheets extension",
@@ -506,44 +650,12 @@
    "cat": "web"
   },
   {
-   "title": "Show HN: Three Linux VMs in a browser tab, each running a different browser",
-   "link": "https://michidk.github.io/sidebyside/",
-   "source": "Hacker News",
-   "date": "2026-11-26T15:00:06+00:00",
-   "summary": "113 points, 26 comments on Hacker News.",
-   "cat": "business"
-  },
-  {
-   "title": "Show HN: I wrote an entire Vim manual over 4 years",
-   "link": "http://themouseless.dev/vim/",
-   "source": "Hacker News",
-   "date": "2026-11-26T14:44:22+00:00",
-   "summary": "266 points, 87 comments on Hacker News.",
-   "cat": "business"
-  },
-  {
    "title": "TVK Government Begins Christianisation Of University Of Madras Through Registrar Rita John, Who Shields Loyola College And Don Bosco; Governor Intervenes And Warns The Registrar",
    "link": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE5saVJXSXpCb2NvTy16bDBya1RqbkR0bzdPMkNCUzJiUFNXZ0E5UHUyWXZTZlg2SzRLTDNz?oc=5",
    "source": "Howl.Link",
    "date": "2026-11-26T14:30:45+00:00",
    "summary": "",
    "cat": "domains"
-  },
-  {
-   "title": "Tell HN: Happy Thanksgiving",
-   "link": "https://news.ycombinator.com/item?id=50655664",
-   "source": "Hacker News",
-   "date": "2026-11-26T14:26:54+00:00",
-   "summary": "599 points, 136 comments on Hacker News.",
-   "cat": "business"
-  },
-  {
-   "title": "45°C inlets just killed the chiller. Most people haven't noticed yet",
-   "link": "https://www.theregister.com/hpc/2026/11/26/45c-inlets-just-killed-the-chiller-most-people-havent-noticed-yet/5311831",
-   "source": "Hacker News",
-   "date": "2026-11-26T13:48:11+00:00",
-   "summary": "130 points, 59 comments on Hacker News.",
-   "cat": "business"
   },
   {
    "title": "What SEOs Can Be Thankful For: 8 Wins To Celebrate In 2026",
@@ -554,44 +666,20 @@
    "cat": "web"
   },
   {
-   "title": "Best website builder Black Friday deals 2026: save up to 87% OFF",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZ2plMHA4UEN3V09KTEkyWlhqNFhhVTFWU0w4QTNSdXJ2OTZZNGw4WnFPX0FtTFRzTEFCTEExalpySk1YaVJqZFg2Tk9GTlB1anp5NXdhdUV2S2tmMDRYUk85VEFZbjBMMlZid2pwUjFUaG9Sa0swUzRDQllIOC1YOW55OEFTOUFFeGNscmVVWGJhY1lac3c?oc=5",
-   "source": "Cybernews",
-   "date": "2026-11-26T12:07:00+00:00",
-   "summary": "",
-   "cat": "business"
-  },
-  {
-   "title": "Head of Software Engineering – NOX Metals",
-   "link": "https://news.ycombinator.com/item?id=50654353",
-   "source": "Hacker News",
-   "date": "2026-11-26T12:00:00+00:00",
-   "summary": "0 points, 0 comments on Hacker News.",
-   "cat": "business"
-  },
-  {
-   "title": "Nextcloud Office Desktop app",
-   "link": "https://nextcloud.com/blog/euro-office-comes-to-your-desktop-with-the-nextcloud-office-desktop-app/",
-   "source": "Hacker News",
-   "date": "2026-11-26T11:50:49+00:00",
-   "summary": "397 points, 203 comments on Hacker News.",
-   "cat": "business"
-  },
-  {
-   "title": "Euro-Office comes to your desktop with the Nextcloud Office Desktop app",
-   "link": "https://nextcloud.com/blog/euro-office-comes-to-your-desktop-with-the-nextcloud-office-desktop-app/",
-   "source": "Hacker News",
-   "date": "2026-11-26T11:50:49+00:00",
-   "summary": "307 points, 127 comments on Hacker News.",
-   "cat": "business"
-  },
-  {
    "title": "SYS010 malware abuses browser management to spy on Gmail, Outlook",
    "link": "https://www.bleepingcomputer.com/news/security/sys010-malware-abuses-browser-management-to-spy-on-gmail-outlook/",
    "source": "BleepingComputer",
    "date": "2026-11-26T11:50:17+00:00",
    "summary": "A new version of the SYS01 infostealer malware delivered through Meta ads is enrolling browsers into enterprise-style management to force the installation of an extension that steals sensitive data, including Gmail and…",
    "cat": "security"
+  },
+  {
+   "title": "How to Point a Domain Name to VPS",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0tMGVmbTBMRV9qVEVMLWx2alNBRVFrWHowUnV4Q1hzdU4wVjhUalFzb2ZMNHR2cm9jQVVnTzF2MHgyODhnckR1ZmxqdW9sY1l6dEhESy1TTFhoZm9aQTU1d0lETTZFWHNVM003Y2UtRjBtM0Jm?oc=5",
+   "source": "Hostinger",
+   "date": "2026-11-26T08:00:00+00:00",
+   "summary": "",
+   "cat": "domains"
   },
   {
    "title": "OpenAI Has No Plans For Prompt-Level ChatGPT Ads Reports",
@@ -1114,30 +1202,6 @@
    "cat": "security"
   },
   {
-   "title": "European Commission confirms data theft in EU Academy breach",
-   "link": "https://www.bleepingcomputer.com/news/security/european-commission-confirms-data-theft-in-eu-academy-breach/",
-   "source": "BleepingComputer",
-   "date": "2026-11-24T16:22:44+00:00",
-   "summary": "The European Commission, the European Union's main executive body, has confirmed that attackers breached its EU Academy online learning hub and stole the personal data of an undisclosed number of users. [...]",
-   "cat": "security"
-  },
-  {
-   "title": "Hackers compromise Check Point Servers in 22 organizations",
-   "link": "https://www.bleepingcomputer.com/news/security/hackers-compromise-check-point-servers-in-22-organizations/",
-   "source": "BleepingComputer",
-   "date": "2026-11-24T16:15:23+00:00",
-   "summary": "Threat actors have exploited multiple vulnerabilities to compromise two dozen Check Point Security management servers in an ongoing campaign targeting 22 organizations. [...]",
-   "cat": "security"
-  },
-  {
-   "title": "Carnegie Endowment for International Peace says third-party breach leaked donation info",
-   "link": "https://therecord.media/carnegie-endowment-data-breach",
-   "source": "The Record",
-   "date": "2026-11-24T16:00:00+00:00",
-   "summary": "Some donors to the Carnegie Endowment for International Peace had their information leaked due to a cyberattack on a third-party vendor named Soapbox Engage.",
-   "cat": "security"
-  },
-  {
    "title": "Sedo weekly domain name sales led by BabyAcademy.com",
    "link": "https://www.thedomains.com/2026/11/24/sedo-weekly-domain-name-sales-led-by-babyacademy-com/",
    "source": "TheDomains",
@@ -1226,6 +1290,14 @@
    "cat": "web"
   },
   {
+   "title": "Best domain name generators to find unique and brandable domains in 2026",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBZd2xVS09nQzF4eElZSUQyejZMSUxSeUFRU210U3dfTXcwd2lUR2pHOFN0ZmZFVXRISVp3SHVmYm5JXzE2UVJjSkw5V01LSEpQWENqM2hUX3pGYWdmYlpDQjdrb0w0bU5ZRXJUUC03NGdib3l1aEE?oc=5",
+   "source": "Hostinger",
+   "date": "2026-11-24T08:00:00+00:00",
+   "summary": "",
+   "cat": "domains"
+  },
+  {
    "title": "Best European domain registrars: 10 providers compared",
    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAzNDEwcDNneEFDcGV5YVIxNDhMQzBpb3haYjNJY1U2MFNMdFpJaTJYYzdXaHJmUzNaMm9QS3NuQzhaalByNVAtazlSaUstSlVuck9aX1FBbjk4SmlkSjFNR0l6bVhSRjZ5Y1h1anVCaWRXM0FmWnRfM1dUdw?oc=5",
    "source": "Hostinger",
@@ -1258,14 +1330,6 @@
    "cat": "web"
   },
   {
-   "title": "DropCatch auctions: Select domain results—November 23, 2026 | BabyMe.com – $4,901",
-   "link": "https://domaingang.com/domain-news/dropcatch-auctions-select-domain-results-november-23-2026-babyme-com-4901/",
-   "source": "DomainGang",
-   "date": "2026-11-23T21:21:22+00:00",
-   "summary": "DropCatch is a major domain backordering service that specializes in acquiring expiring domain names as soon as they return to availability. The platform uses an extensive network of ICANN-accredited registrars to improve…",
-   "cat": "domains"
-  },
-  {
    "title": "I Blind-Tested 3 Gemini Models On Real SEO Questions – Neon Won 5 Of 6",
    "link": "https://www.searchenginejournal.com/blind-test-of-gemini-4-neon-vs-hydrogen-vs-3-8-flash-on-real-seo-questions-here-is-what-won-and-what-it-costs/598384/",
    "source": "Search Engine Journal",
@@ -1274,52 +1338,12 @@
    "cat": "web"
   },
   {
-   "title": "Apptopia.ai UDRP: App analytics company challenges competing AI website",
-   "link": "https://domaingang.com/domain-law/apptopia-ai-udrp-app-analytics-company-challenges-competing-ai-website/",
-   "source": "DomainGang",
-   "date": "2026-11-23T18:41:22+00:00",
-   "summary": "Apptopia, Inc., a US company providing mobile app analytics and market intelligence, filed a UDRP against Apptopia.ai, registered in April 2026. The Complainant operates from Apptopia.com and has used the APPTOPIA trademark…",
-   "cat": "domains"
-  },
-  {
    "title": "Google Says Back Button Hijacking Policy Covers Social Visits",
    "link": "https://www.searchenginejournal.com/google-back-button-hijacking-policy-social-visits/598592/",
    "source": "Search Engine Journal",
    "date": "2026-11-23T18:00:23+00:00",
    "summary": "Google says the back button hijacking policy applies to visits from social media and other channels, and that sites can keep using ad platform code.",
    "cat": "web"
-  },
-  {
-   "title": "Cinque Terre Tourism Website Launched on CinqueTerre.com",
-   "link": "https://domaininvesting.com/cinque-terre-tourism-website-launched-on-cinqueterre-com/",
-   "source": "DomainInvesting",
-   "date": "2026-11-23T17:48:55+00:00",
-   "summary": "Twenty years ago, my wife and I spent some time in Italy. One of the areas we visited and loved was Cinque Terre. We hiked, swam, and ate our way through the…",
-   "cat": "domains"
-  },
-  {
-   "title": "Equifaxvictim.com UDRP: Credit reporting giant challenges consumer criticism domain",
-   "link": "https://domaingang.com/domain-law/equifaxvictim-com-udrp-credit-reporting-giant-challenges-consumer-criticism-domain/",
-   "source": "DomainGang",
-   "date": "2026-11-23T17:41:20+00:00",
-   "summary": "Equifax Inc. filed a UDRP against EquifaxVictim.com, registered in November 2025 by a consumer involved in several lawsuits against its subsidiary. Respondent registered the domain two days after an incident involving his…",
-   "cat": "domains"
-  },
-  {
-   "title": "Slovenia’s .si domain registrations plunge 97% as the gold rush fades",
-   "link": "https://domaingang.com/domain-news/slovenias-si-domain-registrations-plunge-97-as-the-gold-rush-fades/",
-   "source": "DomainGang",
-   "date": "2026-11-23T16:51:18+00:00",
-   "summary": "The spectacular rise of .si domain registrations has come to a dramatic slowdown, with daily registrations of Slovenia’s ccTLD falling more than 97% from their October peak. According to Register.si’s official statistics…",
-   "cat": "domains"
-  },
-  {
-   "title": "On the floor at NamesCon – DNW Podcast #613",
-   "link": "https://domainnamewire.com/2026/11/23/on-the-floor-at-namescon-dnw-podcast-613/",
-   "source": "Domain Name Wire",
-   "date": "2026-11-23T16:30:28+00:00",
-   "summary": "Hear from 11 people at NamesCon. NamesCon took place in Miami earlier this month. While at the show, I tracked down people on the exhibit floor to talk about what they’re seeing…",
-   "cat": "domains"
   },
   {
    "title": "The Final Ad Checklist Before BFCM – What To Fix Now & What To Leave",
@@ -1415,30 +1439,6 @@
    "source": "Search Engine Journal",
    "date": "2026-11-20T15:00:09+00:00",
    "summary": "Give holiday Google Ads a stronger story, using DAIVID's ranking of 75 Christmas ads where Dogs Trust outscored Amazon.",
-   "cat": "web"
-  },
-  {
-   "title": "Most AI Citations That Disappeared Came Back, Study Finds",
-   "link": "https://www.searchenginejournal.com/ai-citations-what-to-check-before-reacting-to-a-lost-one/598166/",
-   "source": "Search Engine Journal",
-   "date": "2026-11-20T13:00:00+00:00",
-   "summary": "Most AI citations that disappear later come back. Here are four things to check about a lost citation before you decide to change a page.",
-   "cat": "web"
-  },
-  {
-   "title": "nginx2root: Five new nginx vulnerabilities, and how Cloudflare protects origins from the worst of them",
-   "link": "https://blog.cloudflare.com/nginx2root/",
-   "source": "Cloudflare Blog",
-   "date": "2026-11-20T01:58:29+00:00",
-   "summary": "Five memory corruption bugs in nginx, called nginx2root, can let an unauthenticated attacker run code on a server. Here’s how they work, and why origins behind Cloudflare's proxy are shielded from the…",
-   "cat": "web"
-  },
-  {
-   "title": "21 Alternative Search Engines You Can Use Instead of Google",
-   "link": "https://www.searchenginejournal.com/21-alternative-search-engines-you-can-use-instead-of-google/596605/",
-   "source": "Search Engine Journal",
-   "date": "2026-11-19T20:00:05+00:00",
-   "summary": "Compare 21 Google alternatives for everyday search, private search, AI answers, specialist research, and regional results.",
    "cat": "web"
   }
  ]
